@@ -1,0 +1,318 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WebAssembly: Curated list of awesome things regarding WebAssembly (wasm) ecosystem.",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-11-15T14:58:04Z",
+            "owner": "mbasso",
+            "repo": "awesome-wasm",
+            "stars": 9615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeEdge",
+          "description": "KubeEdge is an open source system extending native containerized application orchestration and device management to hosts at the Edge. It is built upon Kubernetes and provides core infrastructure support for networking, application deployment and metadata synchronization between cloud and edge. It also supports MQTT and allows developers to author custom logic and enable resource constrained device communication at the Edge. KubeEdge consists of a cloud part and an edge part.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-06T06:58:27Z",
+            "owner": "kubeedge",
+            "repo": "kubeedge",
+            "stars": 7544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PhoneSploit Pro",
+          "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:02:19Z",
+            "owner": "AzeemIdrisi",
+            "repo": "PhoneSploit-Pro",
+            "stars": 6090
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WebAssembly Micro Runtime",
+          "description": "WebAssembly Micro Runtime (WAMR) is a standalone WebAssembly (WASM) runtime with a small footprint. It includes a few parts as below: 1, The \"iwasm\" VM core, supporting WebAssembly interpreter, ahead of time compilation (AoT) and Just-in-Time compilation (JIT). 2, The application framework and the supporting API's for the WASM applications. 3, The dynamic management of the WASM applications",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T10:26:53Z",
+            "owner": "wasm-micro-runtime",
+            "repo": "wasm-micro-runtime",
+            "stars": 6063
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenYurt",
+          "description": "OpenYurt has been designed to meet various DevOps requirements against typical edge infrastructures. It provides the same user experience for managing the edge applications as if they were running in the cloud infrastructure. It addresses specific challenges for cloud-edge orchestration in Kubernetes such as unreliable or disconnected cloud-edge networking, edge node autonomy, edge device management, region-aware deployment and so on. OpenYurt preserves intact Kubernetes API compatibility, is vendor agnostic, and more importantly, is SIMPLE to use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T07:12:54Z",
+            "owner": "openyurtio",
+            "repo": "openyurt",
+            "stars": 1994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Baetyl",
+          "description": "Baetyl is an open edge computing framework of Linux Foundation Edge that extends cloud computing, data and service seamlessly to edge devices. It can provide temporary offline, low-latency computing services include device connection, message routing, remote synchronization, function computing, video capture, AI inference, status reporting, configuration ota etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-05-11T06:12:43Z",
+            "owner": "baetyl",
+            "repo": "baetyl",
+            "stars": 1900
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SuperEdge",
+          "description": "SuperEdge is an open source container management system for edge computing to manage compute resources and container applications in multiple edge regions. These resources and applications, in the current approach, are managed as one single Kubernetes cluster. A native Kubernetes cluster can be easily converted to a SuperEdge cluster.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-02-20T10:02:19Z",
+            "owner": "superedge",
+            "repo": "superedge",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AREG SDK",
+          "description": "AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and mist-computing, where connected Things interact and provide services as if they act like thin distributed servers. The communication engine of AREG SDK is based on Object Remote Procedure Call (ORPC) protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T02:06:01Z",
+            "owner": "aregtech",
+            "repo": "areg-sdk",
+            "stars": 362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xybrid",
+          "description": "An open-source, local-first runtime for running LLMs, ASR, and TTS natively in apps and games.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:46:07Z",
+            "owner": "xybrid-ai",
+            "repo": "xybrid",
+            "stars": 344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeMesh",
+          "description": "EdgeMesh is a part of KubeEdge, and provides a simple network solution for the inter-communications between services at edge scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-04-10T13:39:01Z",
+            "owner": "kubeedge",
+            "repo": "edgemesh",
+            "stars": 290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FogFlow",
+          "description": "FogFlow is an IoT edge computing framework to automatically orchestrate dynamic data processing flows over cloud and edges driven by context, including system context on the available system resources from all layers, data context on the registered metadata of all available data entities, and also usage context on the expected QoS defined by users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-05-09T09:32:15Z",
+            "owner": "smartfog",
+            "repo": "fogflow",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KubeStellar Console",
+          "description": "Open source AI-powered multi-cluster Kubernetes dashboard for hybrid edge and cloud environments. Provides real-time observability across edge and cloud clusters with 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco, OPA/Gatekeeper), AI-guided cluster operations, and unified management of distributed edge workloads. CNCF Sandbox project (Apache 2.0).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T04:11:48Z",
+            "owner": "kubestellar",
+            "repo": "console",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AimDB",
+          "description": "An async, in-memory data bridge that syncs records across microcontrollers, edge gateways and cloud instances. Define once, stream and sync everywhere. Same API from MCU to cloud with Tokio and Embassy support for no_std/embedded environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:45:38Z",
+            "owner": "aimdb-dev",
+            "repo": "aimdb",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForestHub edge-agents",
+          "description": "The ~30 MB open-source edge AI agent runtime from ForestHub. Runs offline on Linux edge devices (Raspberry Pi, Jetson, industrial gateways), with GPIO/UART/MQTT as first-class nodes and local SLMs alongside cloud LLMs. Engine ships as a distroless container; visual builder included.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-29T13:12:24Z",
+            "owner": "ForestHubAI",
+            "repo": "edge-agents",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ENORM",
+          "description": "The ENORM framework primarily addresses the deployment and load balancing challenges on individual edge nodes. ENORM operates in a three-tier environment, but a master controller does not control the edge nodes. Instead, it is assumed that they are visible to cloud servers that may want to make use of the edge. The framework allows for partitioning a cloud server and offloading it to edge nodes for improving the overall QoS of the application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2018-11-15T16:10:19Z",
+            "owner": "qub-blesson",
+            "repo": "ENORM",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OCI",
+          "description": "a framework that enables network operators with the ability to open up their edge facilities to Application Service Providers, by offering edge computing. As an example, consider a third-party Application Service Provider selling an IoT device (say, a home thermostat or security camera). Whenever that device shows up at the edge of the network, the Open Carrier Interface framework starts the Application Service Provider implemented edge software at the network operator’s Central Offices, which supports the IoT device with edge processing. Thus, even an early-stage Application Service Provider, who has few financial or physical resources, can offer the same level of edge support as giant companies, and therefore can compete with them on an even footing. read more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2018-11-06T18:39:02Z",
+            "owner": "marckoerner",
+            "repo": "oci",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Engine"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome-pcaptools",
+          "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-03T07:24:40Z",
+            "owner": "caesar0301",
+            "repo": "awesome-pcaptools",
+            "stars": 3413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wonder Shaper",
+          "description": "Wonder Shaper is a script that allows the user to limit the bandwidth of one or more network adapters. It does so by using iproute's tc command, but greatly simplifies its operation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-07-25T02:46:32Z",
+            "owner": "magnific0",
+            "repo": "wondershaper",
+            "stars": 1895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POX",
+          "description": "POX is a networking software platform written in Python. POX started life as an OpenFlow controller, but can now also function as an OpenFlow switch, and can be useful for writing networking software in general. An useful link of how to simulate a SDN can check the link: http://www.brianlinkletter.com/using-the-pox-sdn-controller/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-19T18:35:05Z",
+            "owner": "noxrepo",
+            "repo": "pox",
+            "stars": 648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Komondor",
+          "description": "Komondor is a wireless network simulator that includes novel mechanisms for next-generation WLANs, such as dynamic channel bonding or enhanced spatial reuse. One of the main purposes of Komondor is to simulate the behavior of IEEE 802.11ax-2019 networks, an amendment designed to boost spectral efficiency in dense deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T12:10:13Z",
+            "owner": "wn-upf",
+            "repo": "Komondor",
+            "stars": 89
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RICE",
+          "description": "A unified approach to remote function invocation in ICN(Naming Data Network Platform) that exploits the attractive ICN properties of name-based routing, receiver-driven low and congestion control, low balance, and object-oriented security while presenting a natural programming model to the application developer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-01-14T12:04:27Z",
+            "owner": "harnen",
+            "repo": "timers",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Networks"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:15:34.266Z",
+    "original_repository": "qijianpeng/awesome-edge-computing",
+    "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
+    "enhanced_repository": "enhansome/enhansome-edge-computing",
+    "enhanced_repository_description": null,
+    "title": "Awesome edge computing with stars"
+  }
+}
