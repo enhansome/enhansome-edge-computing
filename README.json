@@ -14,7 +14,7 @@
             "last_commit": "2024-11-15T14:58:04Z",
             "owner": "mbasso",
             "repo": "awesome-wasm",
-            "stars": 9615
+            "stars": 9617
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-06T06:58:27Z",
             "owner": "kubeedge",
             "repo": "kubeedge",
-            "stars": 7547
+            "stars": 7550
           }
         },
         {
@@ -39,10 +39,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-12T10:02:19Z",
+            "last_commit": "2026-08-14T07:28:17Z",
             "owner": "AzeemIdrisi",
             "repo": "PhoneSploit-Pro",
-            "stars": 6094
+            "stars": 6095
           }
         },
         {
@@ -53,7 +53,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T13:29:14Z",
+            "last_commit": "2026-08-14T10:57:52Z",
             "owner": "wasm-micro-runtime",
             "repo": "wasm-micro-runtime",
             "stars": 6062
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-12T07:12:54Z",
             "owner": "openyurtio",
             "repo": "openyurt",
-            "stars": 1994
+            "stars": 1995
           }
         },
         {
@@ -103,30 +103,30 @@
         },
         {
           "node_type": "item",
-          "title": "AREG SDK",
-          "description": "AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and mist-computing, where connected Things interact and provide services as if they act like thin distributed servers. The communication engine of AREG SDK is based on Object Remote Procedure Call (ORPC) protocol.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-13T17:21:45Z",
-            "owner": "aregtech",
-            "repo": "areg-sdk",
-            "stars": 362
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Xybrid",
           "description": "An open-source, local-first runtime for running LLMs, ASR, and TTS natively in apps and games.",
           "children": [],
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-13T21:48:36Z",
+            "last_commit": "2026-08-14T13:58:05Z",
             "owner": "xybrid-ai",
             "repo": "xybrid",
-            "stars": 348
+            "stars": 395
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AREG SDK",
+          "description": "AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and mist-computing, where connected Things interact and provide services as if they act like thin distributed servers. The communication engine of AREG SDK is based on Object Remote Procedure Call (ORPC) protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-14T21:11:14Z",
+            "owner": "aregtech",
+            "repo": "areg-sdk",
+            "stars": 362
           }
         },
         {
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-14T02:59:42Z",
+            "last_commit": "2026-08-15T01:45:18Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T03:07:32.340Z",
+    "last_updated": "2026-08-15T01:57:48.797Z",
     "original_repository": "qijianpeng/awesome-edge-computing",
     "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
     "enhanced_repository": "enhansome/enhansome-edge-computing",
