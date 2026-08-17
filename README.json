@@ -28,7 +28,7 @@
             "last_commit": "2026-08-06T06:58:27Z",
             "owner": "kubeedge",
             "repo": "kubeedge",
-            "stars": 7551
+            "stars": 7552
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-14T07:28:17Z",
             "owner": "AzeemIdrisi",
             "repo": "PhoneSploit-Pro",
-            "stars": 6097
+            "stars": 6100
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-15T15:13:33Z",
             "owner": "wasm-micro-runtime",
             "repo": "wasm-micro-runtime",
-            "stars": 6064
+            "stars": 6066
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T00:47:40Z",
+            "last_commit": "2026-08-16T21:03:33Z",
             "owner": "xybrid-ai",
             "repo": "xybrid",
-            "stars": 408
+            "stars": 412
           }
         },
         {
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-15T23:25:23Z",
+            "last_commit": "2026-08-17T01:21:47Z",
             "owner": "aregtech",
             "repo": "areg-sdk",
             "stars": 362
@@ -165,7 +165,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-16T00:46:37Z",
+            "last_commit": "2026-08-16T22:57:05Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 128
@@ -308,7 +308,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T02:07:10.497Z",
+    "last_updated": "2026-08-17T02:04:58.298Z",
     "original_repository": "qijianpeng/awesome-edge-computing",
     "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
     "enhanced_repository": "enhansome/enhansome-edge-computing",
