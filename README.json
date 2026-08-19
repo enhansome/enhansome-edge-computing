@@ -1,315 +1,2040 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "WebAssembly: Curated list of awesome things regarding WebAssembly (wasm) ecosystem.",
-          "description": null,
+          "title": "SVL Simulator",
+          "description": "An end-to-end autonomous vehicle simulation platform.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": null,
-            "last_commit": "2024-11-15T14:58:04Z",
-            "owner": "mbasso",
-            "repo": "awesome-wasm",
-            "stars": 9619
+            "id": 139499767,
+            "language": "C#",
+            "last_commit": "2023-04-04T21:17:55Z",
+            "owner": "lgsvl",
+            "repo": "simulator",
+            "stars": 2456
           }
         },
         {
           "node_type": "item",
-          "title": "KubeEdge",
-          "description": "KubeEdge is an open source system extending native containerized application orchestration and device management to hosts at the Edge. It is built upon Kubernetes and provides core infrastructure support for networking, application deployment and metadata synchronization between cloud and edge. It also supports MQTT and allows developers to author custom logic and enable resource constrained device communication at the Edge. KubeEdge consists of a cloud part and an edge part.",
+          "title": "Shadow",
+          "description": "Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T06:00:43Z",
-            "owner": "kubeedge",
-            "repo": "kubeedge",
-            "stars": 7551
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PhoneSploit Pro",
-          "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T07:28:17Z",
-            "owner": "AzeemIdrisi",
-            "repo": "PhoneSploit-Pro",
-            "stars": 6107
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "WebAssembly Micro Runtime",
-          "description": "WebAssembly Micro Runtime (WAMR) is a standalone WebAssembly (WASM) runtime with a small footprint. It includes a few parts as below: 1, The \"iwasm\" VM core, supporting WebAssembly interpreter, ahead of time compilation (AoT) and Just-in-Time compilation (JIT). 2, The application framework and the supporting API's for the WASM applications. 3, The dynamic management of the WASM applications",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "C",
-            "last_commit": "2026-08-18T08:55:20Z",
-            "owner": "wasm-micro-runtime",
-            "repo": "wasm-micro-runtime",
-            "stars": 6069
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenYurt",
-          "description": "OpenYurt has been designed to meet various DevOps requirements against typical edge infrastructures. It provides the same user experience for managing the edge applications as if they were running in the cloud infrastructure. It addresses specific challenges for cloud-edge orchestration in Kubernetes such as unreliable or disconnected cloud-edge networking, edge node autonomy, edge device management, region-aware deployment and so on. OpenYurt preserves intact Kubernetes API compatibility, is vendor agnostic, and more importantly, is SIMPLE to use.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-08-18T11:54:33Z",
-            "owner": "openyurtio",
-            "repo": "openyurt",
-            "stars": 1999
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Baetyl",
-          "description": "Baetyl is an open edge computing framework of Linux Foundation Edge that extends cloud computing, data and service seamlessly to edge devices. It can provide temporary offline, low-latency computing services include device connection, message routing, remote synchronization, function computing, video capture, AI inference, status reporting, configuration ota etc.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-05-11T06:12:43Z",
-            "owner": "baetyl",
-            "repo": "baetyl",
-            "stars": 1900
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SuperEdge",
-          "description": "SuperEdge is an open source container management system for edge computing to manage compute resources and container applications in multiple edge regions. These resources and applications, in the current approach, are managed as one single Kubernetes cluster. A native Kubernetes cluster can be easily converted to a SuperEdge cluster.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2024-02-20T10:02:19Z",
-            "owner": "superedge",
-            "repo": "superedge",
-            "stars": 1068
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Xybrid",
-          "description": "An open-source, local-first runtime for running LLMs, ASR, and TTS natively in apps and games.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 1759835,
             "language": "Rust",
-            "last_commit": "2026-08-18T03:57:11Z",
-            "owner": "xybrid-ai",
-            "repo": "xybrid",
-            "stars": 419
+            "last_commit": "2026-08-17T18:08:07Z",
+            "owner": "shadow",
+            "repo": "shadow",
+            "stars": 1716
           }
         },
         {
           "node_type": "item",
-          "title": "AREG SDK",
-          "description": "AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and mist-computing, where connected Things interact and provide services as if they act like thin distributed servers. The communication engine of AREG SDK is based on Object Remote Procedure Call (ORPC) protocol.",
+          "title": "CloudSim",
+          "description": "CloudSim goal is to provide a generalized and extensible simulation framework that enables modeling, simulation, and experimentation of emerging Cloud computing infrastructures and application services, allowing its users to focus on specific system design issues that they want to investigate, without getting concerned about the low level details related to Cloud-based infrastructures and services.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "C++",
-            "last_commit": "2026-08-18T23:35:17Z",
-            "owner": "aregtech",
-            "repo": "areg-sdk",
-            "stars": 362
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "EdgeMesh",
-          "description": "EdgeMesh is a part of KubeEdge, and provides a simple network solution for the inter-communications between services at edge scenarios.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2026-04-10T13:39:01Z",
-            "owner": "kubeedge",
-            "repo": "edgemesh",
-            "stars": 291
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "FogFlow",
-          "description": "FogFlow is an IoT edge computing framework to automatically orchestrate dynamic data processing flows over cloud and edges driven by context, including system context on the available system resources from all layers, data context on the registered metadata of all available data entities, and also usage context on the expected QoS defined by users.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-05-09T09:32:15Z",
-            "owner": "smartfog",
-            "repo": "fogflow",
-            "stars": 132
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "KubeStellar Console",
-          "description": "Open source AI-powered multi-cluster Kubernetes dashboard for hybrid edge and cloud environments. Provides real-time observability across edge and cloud clusters with 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco, OPA/Gatekeeper), AI-guided cluster operations, and unified management of distributed edge workloads. CNCF Sandbox project (Apache 2.0).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-19T00:37:13Z",
-            "owner": "kubestellar",
-            "repo": "console",
-            "stars": 127
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AimDB",
-          "description": "An async, in-memory data bridge that syncs records across microcontrollers, edge gateways and cloud instances. Define once, stream and sync everywhere. Same API from MCU to cloud with Tokio and Embassy support for no_std/embedded environments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T20:09:23Z",
-            "owner": "aimdb-dev",
-            "repo": "aimdb",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ForestHub edge-agents",
-          "description": "The ~30 MB open-source edge AI agent runtime from ForestHub. Runs offline on Linux edge devices (Raspberry Pi, Jetson, industrial gateways), with GPIO/UART/MQTT as first-class nodes and local SLMs alongside cloud LLMs. Engine ships as a distroless container; visual builder included.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-07-29T13:12:24Z",
-            "owner": "ForestHubAI",
-            "repo": "edge-agents",
-            "stars": 98
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ENORM",
-          "description": "The ENORM framework primarily addresses the deployment and load balancing challenges on individual edge nodes. ENORM operates in a three-tier environment, but a master controller does not control the edge nodes. Instead, it is assumed that they are visible to cloud servers that may want to make use of the edge. The framework allows for partitioning a cloud server and offloading it to edge nodes for improving the overall QoS of the application.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Objective-C",
-            "last_commit": "2018-11-15T16:10:19Z",
-            "owner": "qub-blesson",
-            "repo": "ENORM",
-            "stars": 4
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OCI",
-          "description": "a framework that enables network operators with the ability to open up their edge facilities to Application Service Providers, by offering edge computing. As an example, consider a third-party Application Service Provider selling an IoT device (say, a home thermostat or security camera). Whenever that device shows up at the edge of the network, the Open Carrier Interface framework starts the Application Service Provider implemented edge software at the network operator’s Central Offices, which supports the IoT device with edge processing. Thus, even an early-stage Application Service Provider, who has few financial or physical resources, can offer the same level of edge support as giant companies, and therefore can compete with them on an even footing. read more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
+            "id": 32447381,
             "language": "Java",
-            "last_commit": "2018-11-06T18:39:02Z",
-            "owner": "marckoerner",
-            "repo": "oci",
+            "last_commit": "2026-01-10T18:48:22Z",
+            "owner": "Cloudslab",
+            "repo": "cloudsim",
+            "stars": 1011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CORE",
+          "description": "The Common Open Research Emulator (CORE) is a tool for emulating networks on one or more machines. You can connect these emulated networks to live networks. CORE consists of a GUI for drawing topologies of lightweight virtual machines, and Python modules for scripting network emulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39257883,
+            "language": "Python",
+            "last_commit": "2026-06-02T03:44:27Z",
+            "owner": "coreemu",
+            "repo": "core",
+            "stars": 821
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OMNeT++",
+          "description": "OMNeT++ is a public-source, component-based, modular and open-architecture simulation environment with strong GUI support and an embeddable simulation kernel. Its primary application area is the simulation of communication networks, but it has been successfully used in other areas like the simulation of IT systems, queueing networks, hardware architectures and business processes as well.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160219599,
+            "language": "Java",
+            "last_commit": "2026-05-27T09:04:06Z",
+            "owner": "omnetpp",
+            "repo": "omnetpp",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kathará",
+          "description": "Kathará (from the Greek Καθαρά, purely) is a lightweight network emulation system based on Docker containers. It can be really helpful in showing interactive demos/lessons, testing production networks in a sandbox environment, or developing new network protocols.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86825917,
+            "language": "Python",
+            "last_commit": "2026-08-05T09:18:22Z",
+            "owner": "KatharaFramework",
+            "repo": "Kathara",
+            "stars": 631
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mininet-WiFi",
+          "description": "Emulator for Software-Defined Wireless Networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35002369,
+            "language": "Python",
+            "last_commit": "2026-07-29T16:51:59Z",
+            "owner": "intrig-unicamp",
+            "repo": "mininet-wifi",
+            "stars": 537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudSim Plus",
+          "description": "A modern, up-to-date, full-featured and fully documented Java 17 simulation framework. It's easy to use and extend, enabling modeling, simulation, and experimentation of Cloud computing infrastructures and application services. It allows developers to focus on specific system design issues to be investigated, without concerning the low-level details related to Cloud-based infrastructures and services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32472801,
+            "language": "Java",
+            "last_commit": "2026-08-06T11:03:17Z",
+            "owner": "cloudsimplus",
+            "repo": "cloudsimplus",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeCloudSim",
+          "description": "EdgeCloudSim: An Environment for Performance Evaluation of Edge Computing Systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 82377948,
+            "language": "Java",
+            "last_commit": "2025-10-22T14:38:12Z",
+            "owner": "CagataySonmez",
+            "repo": "EdgeCloudSim",
+            "stars": 486
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Veins - ITS",
+          "description": "Veins is an open source framework for running vehicular network simulations. It is based on two well-established simulators: OMNeT++, an event-based network simulator, and SUMO, a road traffic simulator. It extends these to offer a comprehensive suite of models for IVC simulation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630140,
+            "language": "C++",
+            "last_commit": "2026-06-16T09:03:55Z",
+            "owner": "sommer",
+            "repo": "veins",
+            "stars": 327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open-Simulator",
+          "description": "Open-simulator is a cluster simulator for Kubernetes. With the simulation capability of Open-Simulator, users can create a fake Kubernetes cluster and deploy workloads on it. Open-Simulator will simulate the kube-controller-manager to create pods for the workloads, and simulate the kube-scheduler to assign pods to the appropriate nodes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 411700651,
+            "language": "Go",
+            "last_commit": "2023-05-26T07:06:59Z",
+            "owner": "alibaba",
+            "repo": "open-simulator",
+            "stars": 266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudSimPy",
+          "description": "CloudSimPy is a data centric task schedule framework. It is bases on SimPy, a process-based discrete-event simulation framework based on standard Python. The scientific computing, deep learning, and machine learning ecology of the Python language is more complete than other programming languages. CloudSimPy works well with deep learning frameworks with Python support (such as TensorFlow, PyTorch) The combination helps to study resource management methods based on machine learning or deep learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 173426849,
+            "language": "Python",
+            "last_commit": "2024-06-20T22:08:49Z",
+            "owner": "FC-Li",
+            "repo": "CloudSimPy",
+            "stars": 255
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Simu5G",
+          "description": "Simu5G is the evolution of the popular SimuLTE 4G network simulator that incorporates 5G New Radio access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357461834,
+            "language": "C++",
+            "last_commit": "2026-08-18T08:22:23Z",
+            "owner": "Unipisa",
+            "repo": "Simu5G",
+            "stars": 233
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PureEdgeSim",
+          "description": "a new simulator based on CloudSim Plus that is designed to simulate Cloud, Edge, and Mist computing environments. It allows to evaluate the performance of resources management strategies in terms of network usage, latency, resources utilization, energy consumption, etc. and enables the simulation of several scenarios such as the Internet of Things (IoT), connected vehicles/VANETs/MANET, Mist computing environments (peer-to peer networks such as mobile devices Cloud), and mobile Edge computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163447483,
+            "language": "Java",
+            "last_commit": "2026-05-04T17:26:56Z",
+            "owner": "CharafeddineMechalikh",
+            "repo": "PureEdgeSim",
+            "stars": 218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimGrid",
+          "description": "SimGrid is a scientific instrument to study the behavior of large-scale distributed systems such as Grids, Clouds, HPC or P2P systems. It can be used to evaluate heuristics, prototype applications or even assess legacy MPI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3389701,
+            "language": "C++",
+            "last_commit": "2026-08-06T23:49:23Z",
+            "owner": "simgrid",
+            "repo": "simgrid",
+            "stars": 194
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iFogSim",
+          "description": "The iFogSim Toolkit for Modeling and Simulation of Resource Management Techniques in Internet of Things, Edge and Fog Computing Environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 400840247,
+            "language": "Java",
+            "last_commit": "2025-10-03T11:55:11Z",
+            "owner": "Cloudslab",
+            "repo": "iFogSim",
+            "stars": 193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StarryNet",
+          "description": "A novel experimentation framework that enables researchers to conveniently build credible and flexible experimental network environments (ENE) mimicking satellite dynamics and network behaviors of large-scale integrated space and terrestrial networks (ISTNs) paper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534860291,
+            "language": "Python",
+            "last_commit": "2026-05-28T10:10:40Z",
+            "owner": "SpaceNetLab",
+            "repo": "StarryNet",
+            "stars": 145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YAFS(Yet Another Fog Simulator)",
+          "description": "YAFS is a simulator tool based on Python of architectures such as: Fog Computing ecosystems for several analysis regarding with the placement of resources, cost deployment, network design, ... IoT environments are the most evident fact of this type of architecture. The highlights points of YAFS are:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123104686,
+            "language": "Python",
+            "last_commit": "2026-04-22T15:01:51Z",
+            "owner": "acsicuib",
+            "repo": "YAFS",
+            "stars": 121
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeSimPy",
+          "description": "EdgeSimPy models the lifecycle of containerized applications through several functional abstractions that replicate the behavior of container runtimes like Docker. In addition, EdgeSimPy features a flexible input format that allows users to define custom parameters for simulated entities out-of-the-box, extending the simulator’s built-in capabilities without modifying its core features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 534266784,
+            "language": "Python",
+            "last_commit": "2026-05-01T00:58:04Z",
+            "owner": "EdgeSimPy",
+            "repo": "EdgeSimPy",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudSimSDN",
+          "description": "An SDN extension of CloudSim project to simulate SDN features in the context of a cloud data center. CloudSimSDN supports calculating power consumption by both hosts and switches. For instance, network-aware VM placement policies can be evaluated using CloudSimSDN.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33819781,
+            "language": "Java",
+            "last_commit": "2023-09-27T12:48:44Z",
+            "owner": "Cloudslab",
+            "repo": "cloudsimsdn",
+            "stars": 101
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MaxiNet",
+          "description": "MaxiNet extends the famous Mininet emulation environment to span the emulation across several physical machines. This allows to emulate very large SDN networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22100924,
+            "language": "Python",
+            "last_commit": "2020-11-23T11:45:47Z",
+            "owner": "MaxiNet",
+            "repo": "MaxiNet",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vessim",
+          "description": "A co-simulation testbed for carbon-aware applications, applicable in edge computing environments. Vessim builds on the Mosaik framework, offering a high-level Python API to integrate renewable energy system simulators with real hardware and software-in-the-loop capabilities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 603417933,
+            "language": "Python",
+            "last_commit": "2026-06-10T10:44:50Z",
+            "owner": "dos-group",
+            "repo": "vessim",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimMobility",
+          "description": "SimMobility is an integrated mobility simulation platform that comprehensively simulates Future Mobility scenarios by integrating long, medium, and short-term travel behavior. Various mobility-sensitive behavioral models are integrated within the state-of-the-art scalable simulators to predict the impact of mobility demands on transportation networks, intelligent transportation services and vehicular emissions. The platform simulates the effects of a portfolio of technology, policy and investment options under alternative future scenarios. SimMobility encompasses the modeling of millions of agents, including pedestrians, drivers, phones, traffic lights, GPS, cars, buses, and trains, from second-by-second to year-by-year simulations and across countries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101264520,
+            "language": "C++",
+            "last_commit": "2022-06-29T15:57:49Z",
+            "owner": "smart-fm",
+            "repo": "simmobility-prod",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "faas-sim",
+          "description": "Faas-sim is a powerful trace-driven simulation framework to simulate container-based function-as-a-service platforms. It can be used to develop, and evaluate the performance of operational strategies for such systems, like scheduling, autoscaling, load balancing, and others. faas-sim was developed at the Distributed Systems Group at TU Wien as part of a larger research effort surrounding serverless edge computing systems.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 270734151,
+            "language": "Python",
+            "last_commit": "2025-01-30T18:44:57Z",
+            "owner": "edgerun",
+            "repo": "faas-sim",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SatEdgeSim",
+          "description": "A Toolkit for Modeling and Simulation of Performance Evaluation in Satellite Edge Computing Environments, which uses CloudSim Plus and PureEdgeSim as the underlying simulation framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244889594,
+            "language": "Java",
+            "last_commit": "2023-11-29T22:44:49Z",
+            "owner": "wjy491156866",
+            "repo": "SatEdgeSim",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeAISim",
+          "description": "A Python-based toolkit for simulating and modelling AI models in edge computing environments. EdgeAISim extends EdgeSimPy and incorporates AI models like Multi-Armed Bandit and Deep Q-Networks to optimise power usage and task migration. The toolkit outperforms baseline worst-fit algorithms, showcasing its potential in sustainable edge computing by significantly reducing power consumption and enhancing task management for various large-scale scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 665617899,
+            "language": "Python",
+            "last_commit": "2024-02-13T17:26:54Z",
+            "owner": "MuhammedGolec",
+            "repo": "EdgeAISIM",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CausalSim",
+          "description": "CausalSim is a causal framework for unbiased trace-driven simulation. Current trace-driven simulators assume that the interventions being simulated (e.g., a new algorithm) would not affect the validity of the traces. However, real-world traces are often biased by the choices algorithms make during trace collection, and hence replaying traces under an intervention may lead to incorrect results. CausalSim addresses this challenge by learning a causal model of the system dynamics and latent factors capturing the underlying system conditions during trace collection. It learns these models using an initial randomized control trial (RCT) under a fixed set of algorithms, and then applies them to remove biases from trace data when simulating new algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 538680807,
+            "language": "Python",
+            "last_commit": "2023-04-15T22:12:19Z",
+            "owner": "CausalSim",
+            "repo": "Unbiased-Trace-Driven-Simulation",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudSim Plus Automation",
+          "description": "CloudSim Plus Automation is a Java 17+ command line tool based on CloudSim Plus (and some CloudReports classes) which is able to read specifications of CloudSim Plus simulation scenarios from a YAML file, a very human-readable data format. Simulation scenarios can be written inside a YAML file and CloudSim Plus Automation reads these simulation scenarios, creates and runs them on CloudSim Plus.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19074497,
+            "language": "Java",
+            "last_commit": "2025-04-08T16:48:29Z",
+            "owner": "cloudsimplus",
+            "repo": "cloudsimplus-automation",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mini-NDN",
+          "description": "Mini-NDN is a lightweight networking emulation tool that enables testing, experimentation, and research on the NDN platform. It was initially based on Mini-CCNx which was a fork of Mininet. Mini-NDN uses the NDN libraries, NFD, NLSR, and tools released by the NDN project to emulate an NDN network on a single system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7579838,
+            "language": "Python",
+            "last_commit": "2016-07-13T12:14:11Z",
+            "owner": "chesteve",
+            "repo": "mn-ccnx",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FogTorchPI",
+          "description": "FogTorchΠ is an open source prototype, developed in Java, based on a model for Fog computing infrastructures and applications. 1), It takes into account non-functional parameters within the model (i.e., hardware, software, latency and bandwidth) to determine, compare and contrast different eligible deployments of a given application over a Fog infrastructure. 2), In the case of hardware capabilities, it considers CPU cores, RAM and storage available at a given node or required by a given software component. 3), Software capabilities are represented by a list of software names (operating system, programming languages, frameworks etc). 4), It considers latency, and both download and upload bandwidths as QoS attributes. Latency is measured in milliseconds (ms), while bandwidth is given in Megabits per second (Mbps). Note: Outputs of FogTorchPI can be the input of iFogSim.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77220133,
+            "language": "Java",
+            "last_commit": "2021-05-14T22:55:35Z",
+            "owner": "di-unipi-socc",
+            "repo": "FogTorchPI",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SimFaaS",
+          "description": "This is a project done in PACS Lab aiming to develop a performance simulator for serverless computing platforms. Using this simulator, we can calculate Quality of Service (QoS) metrics like average response time, the average probability of cold start, average running servers (directly reflecting average cost), a histogram of different events, distribution of the number of servers throughout time, and many other characteristics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 274264448,
+            "language": "Python",
+            "last_commit": "2024-02-02T18:13:28Z",
+            "owner": "pacslab",
+            "repo": "simfaas",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DFaaS",
+          "description": "A novel decentralized FaaS-based architecture designed to automatically and autonomously balance the traffic load across edge nodes belonging to federated Edge Computing ecosystems. Its implementation relies on an overlay peer-to-peer network and a distributed control algorithm that takes decisions on load redistribution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 343367179,
+            "language": "Python",
+            "last_commit": "2026-08-18T19:03:46Z",
+            "owner": "unimib-datAI",
+            "repo": "dfaas",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmuFog",
+          "description": "EmuFog helps to test fog computing applications more efficiently. Instead of actual deploying large network topologies with your application to test, EmuFog helps to generate networks that can be emulated easily with MaxiNet, a distributed version of the popular Mininet. This provides more realistic results than simulations and is cheaper and faster than real deployments. As an input EmuFog supports generated topologies from BRITE or measured real world topologies from Caida. In those networks EmuFog places fog nodes efficiently based on user defined constrains such as network latency thresholds or resource constraints. Applications for clients and fog nodes can be anything shipped in a Docker container.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93321557,
+            "language": "Kotlin",
+            "last_commit": "2020-09-28T12:00:01Z",
+            "owner": "emufog",
+            "repo": "emufog",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudSim+ - Py4j gateway",
+          "description": "py4j gateway for Cloud Sim Plus framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 141814851,
+            "language": "Java",
+            "last_commit": "2023-08-14T21:02:18Z",
+            "owner": "pkoperek",
+            "repo": "cloudsimplus-gateway",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FogNetSim++",
+          "description": "FogNetSim++ extends OMNeT++, which is a well known framework for building network simulators, to model all these aspects. Moreover, it includes popular communication protocols for simulation, such as TCP, UDP, MQTT, and CoAP. Furthermore, FogNetSim++ models several other aspects, such as energy consumption, pricing, mobility, and handoff mechanisms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145996794,
+            "language": "C++",
+            "last_commit": "2019-01-06T16:47:51Z",
+            "owner": "rtqayyum",
+            "repo": "fognetsimpp",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobFogSim",
+          "description": "An extension which can support for Mobility of iFogSim. MobFogSim can model more generalised aspects related to device mobility and VM/container migration in the fog, e.g., user position and speed, connection handoff, migration policies and strategies, to name a few. More details can be found in MobFogSim: Simulation of Mobility and Migration for Fog Computing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176374610,
+            "language": "Java",
+            "last_commit": "2026-08-06T03:27:30Z",
+            "owner": "diogomg",
+            "repo": "MobFogSim",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EdgeSim",
+          "description": "An open-source simulator of edge computing and caching. This simulator system contains three models: Content, Base Station and User.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 324121731,
+            "language": "Java",
+            "last_commit": "2020-12-27T08:59:24Z",
+            "owner": "XiaofeiTJU",
+            "repo": "SimEdgeIntel",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Emu5GNet",
+          "description": "This emulation environment has been created to allow researchers/industrials to develop and deploy applications in complex 5G network architecture (SA and NSA) for enabling both emulations of the network and data processing in realistic E2E scenarios. Emu5GNet allows the execution of 5G RAN and Core using Mininet-Wifi environment and containernet. The 5G RAN and Core can be packed inside docker containers. Emu5GNet also allows the integration of full ETSI NFV compliant infrastructure based on [vim-emu] (https://github.com/containernet/vim-emu) platform. This last integration of an enhancement of vim-emu enables the interconnection of Mininet-Wifi Access points and vim-emu datacenters and, allows the network functions migration across edge datacenters.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 532903919,
+            "language": "C",
+            "last_commit": "2024-10-01T07:46:07Z",
+            "owner": "tsylla",
+            "repo": "5grail-emu5gnet",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IoTSim-Edge",
+          "description": "IoTSim captures the behavior of heterogeneous IoT and edge computing infrastructure and allows users to test their infrastructure and framework in an easy and configurable manner. IoTSim-Edge extends the capability of CloudSim to incorporate the different features of edge and IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222949049,
+            "language": "Java",
+            "last_commit": "2023-04-11T18:40:25Z",
+            "owner": "DNJha",
+            "repo": "IoTSim-Edge",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ECSNeT++",
+          "description": "ECSNeT++ is a simulation toolkit for simulating the execution of Distributed Stream Processing applications on Edge anc Cloud Computing environments. ECSNeT++ is implemented using the OMNeT++ and the INET framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188021637,
+            "language": "C++",
+            "last_commit": "2019-06-10T10:02:01Z",
+            "owner": "sedgecloud",
+            "repo": "ECSNeTpp",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fogbed",
+          "description": "Fogbed is a framework that extends the Mininet emulator to create fog testbeds in virtualized environments. Using a desktop approach, Fogbed enables the deployment of virtual fog nodes as Docker containers under different network conﬁgurations. The Fogbed API provides functionality to add, connect and remove containers dynamically from the network topology. These features allow for the emulation of real world cloud and fog infrastructures in which it is possible to start and stop compute instances at any point in time. Also, it is possible to change at runtime resource limitations for a container, such as CPU time and memory available.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133694719,
+            "language": "Python",
+            "last_commit": "2018-11-11T21:00:08Z",
+            "owner": "fogbed",
+            "repo": "fogbed",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MobEmu",
+          "description": "An opportunistic network emulator that can run a user-created routing or dissemination algorithm on a desired mobility trace or synthetic model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68085978,
+            "language": "Java",
+            "last_commit": "2023-09-18T11:35:26Z",
+            "owner": "raduciobanu",
+            "repo": "mobemu",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SLEIPNIR",
+          "description": "SLEIPNIR is a DAG scheduling simulator focused on mobile cloud/edge/iot infrastructures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157194043,
+            "language": "Java",
+            "last_commit": "2023-08-22T09:27:34Z",
+            "owner": "vindem",
+            "repo": "sleipnir",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LEAF",
+          "description": "A simulator for Large Energy-Aware Fog computing environments, based on CloudSim Plus. LEAF enables energy consumption modeling of distributed, heterogeneous, and resource-constrained infrastructure that executes complex application graphs. Its Python version.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 318498545,
+            "language": "Java",
+            "last_commit": "2021-07-08T14:59:53Z",
+            "owner": "dos-group",
+            "repo": "leaf-java",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CloudSim Express",
+          "description": "CloudSim Express introduces a human-readable scripting approach to define simulation scenarios, a standard way of writing extensions, and a simplified deployment approach. The script-based approach significantly reduces code-based implementations. In the cases of simple examples, it completely eliminates the need to implement Java code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 544001874,
+            "language": "Java",
+            "last_commit": "2023-12-01T03:32:38Z",
+            "owner": "Cloudslab",
+            "repo": "cloudsim-express",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IoTSim-Osmosis",
+          "description": "IoTSim-Osmosis is a simulation framework that supports the testing and validation of osmotic computing applications. In particular, it enables a unified modelling and simulation of complex IoT applications over heterogeneous edge-cloud SDN-aware environments.DOI:10.1016/j.sysarc.2020.101956",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 309556312,
+            "language": "Java",
+            "last_commit": "2021-07-14T15:09:52Z",
+            "owner": "kalwasel",
+            "repo": "IoTSim-Osmosis",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NDN4IVC",
+          "description": "An open-source simulator/framework that facilitates testing of more realistic VANET applications via the NDN stack. This project utilizes two popular simulators for VANET simulation: the NS3 network simulator with the ndnSIM module and SUMO, a simulator of urban mobility. NDN4IVC allows real-time bidirectional communication between SUMO and NS3 to support more data about road traffic and vehicular mobility. The framework can model the impact of vehicular networks on road traffic and investigate complex interactions between the two domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374988911,
+            "language": "C++",
+            "last_commit": "2023-08-09T16:55:16Z",
+            "owner": "insert-lab",
+            "repo": "ndn4ivc",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFN",
+          "description": "Computing First Networking that based on Named Data Networking (NDN).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179916830,
+            "language": "C++",
+            "last_commit": "2019-08-09T02:41:05Z",
+            "owner": "spirosmastorakis",
+            "repo": "CFN",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EPCSAC",
+          "description": "The EPCSAC (Extensible Platform for Cloud Scheduling Algorithm Comparison) is an online open-source platform developed to help researchers compare scheduling algorithms to allocate tasks into virtual machines inside cloud infrastructures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 233690923,
+            "language": "JavaScript",
+            "last_commit": "2022-12-22T15:56:05Z",
+            "owner": "TNanukem",
+            "repo": "EPCSAC",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MEC-simulator",
+          "description": "An extension of the network simulator ns-3, implementing entities (e.g., base stations, MEC Hosts, etc.), interactions, and functionalities (e.g., orchestration of MEC resources, distribution of tasks, etc.) standardized in the context of ETSI-MEC, while supporting multi-cell scenarios with mobile users and different user load generator models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355969327,
+            "language": "C++",
+            "last_commit": "2021-04-12T06:31:32Z",
+            "owner": "telematics-dev",
+            "repo": "MEC-simulator",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextGSim",
+          "description": "NextGSim provides a simulation environment focusing on resource management aspects in mobile edge computing scenarios. It consists of mainly two parts: Radio Network simulation and Edge Computing simulation. These two simulations are loosely connected to enable both independent and joint use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 702488229,
+            "language": "Python",
+            "last_commit": "2026-02-04T09:02:08Z",
+            "owner": "6G-Future-Lab-Bavaria",
+            "repo": "NextGSim",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MintEDGE",
+          "description": "MintEDGE is a flexible edge computing simulation framework that allows the configuration of various aspects of the infrastructure and enables researchers to test novel energy optimization strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 667335999,
+            "language": "Python",
+            "last_commit": "2026-03-27T12:21:45Z",
+            "owner": "blasf1",
+            "repo": "MintEDGE",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WoTemu",
+          "description": "An emulator for Python applications to help in the design of IoT deployments based on the edge computing model. It is focused on the Web of Things paradigm by offering extended support for applications programmed with WoTPy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 269609276,
+            "language": "Python",
+            "last_commit": "2021-05-28T15:24:31Z",
+            "owner": "agmangas",
+            "repo": "wotemu",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Step-ONE",
+          "description": "Simulated Testbed for Edge-Fog Processes based on the Opportunistic Network Environment simulator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 225335957,
+            "language": "HTML",
+            "last_commit": "2024-02-20T21:10:45Z",
+            "owner": "jaks6",
+            "repo": "step-one",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VirtFogSim",
+          "description": "VirtFogSim is a MATLAB-supported software toolbox that allows the dynamic joint optimization and tracking of the energy and delay performance of Mobile-Fog-Cloud systems for the execution of applications described by general Directed Application Graphs (DAGs). Check the paper link for more details.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169284472,
+            "language": "MATLAB",
+            "last_commit": "2020-12-31T22:45:15Z",
+            "owner": "mscarpiniti",
+            "repo": "VirtFogSim",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FAAP-Simulator",
+          "description": "Application allocation in the area of fog computing and targets fog networks in industrial environments. With the simulator, it is possible to generate, run and evaluate instances of the Fog Application Allocation Problem denoted as FAAP. The simulator is completely implemented in the scala programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148287261,
+            "language": "Scala",
+            "last_commit": "2018-09-12T13:48:38Z",
+            "owner": "MSuter6",
+            "repo": "faap-simulator",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ECHOES",
+          "description": "ECHOES stands for \"Edge and Cloud Hybrid Optimization Environment Simulator\", which is a free and open-source tool to simulate an Edge/Cloud-Hybrid network topology, in order to optimise and test methods for offloading Tasks from user's device to edge-server or cloud-server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 716029290,
+            "language": "PHP",
+            "last_commit": "2024-02-07T22:41:17Z",
+            "owner": "TadavomnisT",
+            "repo": "ECHOES",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NoSSim",
+          "description": "Network-of-Systems Simulator (NoSSim) is a network/system co-simulation framework that combines a fast and accurate host-compiled full system simulator with a standard, reconfigurable OMNeT++ network simulation backplane. Detailed models of network interfaces and protocol stacks (lwIP) are integrated into host-compiled system and OS models to allow accurately capturing network and system interactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194450794,
+            "language": "C++",
+            "last_commit": "2019-06-29T21:28:47Z",
+            "owner": "zoranzhao",
+            "repo": "NoSSim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pFogSim",
+          "description": "pFogSim (/p/-fôg-/sɪm/) is a play off iFogSim; A simulator made to handle large-scale FOG networks with the HAFA Puddle Strategy to help evaluate the potential advantages/disadvantages within user-customizable scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 136185023,
+            "language": "Java",
+            "last_commit": "2018-08-06T00:10:20Z",
+            "owner": "jihall77",
+            "repo": "pFogSim",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmuEdge",
+          "description": "EmuEdge is a scalable, Hi-Fi, highly-automated real-world network emulator based on Xen/Linux Netns/OvS, supporting edge computing prototyping and general network emulation with both container/vm and can be hybridly combined with existing physical infrastructures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178726433,
+            "language": "Python",
+            "last_commit": "2018-08-17T20:56:00Z",
+            "owner": "emuedge",
+            "repo": "emuedge",
             "stars": 0
           }
         }
       ],
-      "title": "Engine"
+      "title": "Simulators"
     },
     {
-      "description": "",
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WebAssembly: Curated list of awesome things regarding WebAssembly (wasm) ecosystem.",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89355243,
+                "language": null,
+                "last_commit": "2024-11-15T14:58:04Z",
+                "owner": "mbasso",
+                "repo": "awesome-wasm",
+                "stars": 9620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KubeEdge",
+              "description": "KubeEdge is an open source system extending native containerized application orchestration and device management to hosts at the Edge. It is built upon Kubernetes and provides core infrastructure support for networking, application deployment and metadata synchronization between cloud and edge. It also supports MQTT and allows developers to author custom logic and enable resource constrained device communication at the Edge. KubeEdge consists of a cloud part and an edge part.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 150713223,
+                "language": "Go",
+                "last_commit": "2026-08-18T06:00:43Z",
+                "owner": "kubeedge",
+                "repo": "kubeedge",
+                "stars": 7552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PhoneSploit Pro",
+              "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 581884183,
+                "language": "Python",
+                "last_commit": "2026-08-14T07:28:17Z",
+                "owner": "AzeemIdrisi",
+                "repo": "PhoneSploit-Pro",
+                "stars": 6108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WebAssembly Micro Runtime",
+              "description": "WebAssembly Micro Runtime (WAMR) is a standalone WebAssembly (WASM) runtime with a small footprint. It includes a few parts as below: 1, The \"iwasm\" VM core, supporting WebAssembly interpreter, ahead of time compilation (AoT) and Just-in-Time compilation (JIT). 2, The application framework and the supporting API's for the WASM applications. 3, The dynamic management of the WASM applications",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184654298,
+                "language": "C",
+                "last_commit": "2026-08-18T08:55:20Z",
+                "owner": "wasm-micro-runtime",
+                "repo": "wasm-micro-runtime",
+                "stars": 6070
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenYurt",
+              "description": "OpenYurt has been designed to meet various DevOps requirements against typical edge infrastructures. It provides the same user experience for managing the edge applications as if they were running in the cloud infrastructure. It addresses specific challenges for cloud-edge orchestration in Kubernetes such as unreliable or disconnected cloud-edge networking, edge node autonomy, edge device management, region-aware deployment and so on. OpenYurt preserves intact Kubernetes API compatibility, is vendor agnostic, and more importantly, is SIMPLE to use.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 265800635,
+                "language": "Go",
+                "last_commit": "2026-08-18T11:54:33Z",
+                "owner": "openyurtio",
+                "repo": "openyurt",
+                "stars": 2000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Baetyl",
+              "description": "Baetyl is an open edge computing framework of Linux Foundation Edge that extends cloud computing, data and service seamlessly to edge devices. It can provide temporary offline, low-latency computing services include device connection, message routing, remote synchronization, function computing, video capture, AI inference, status reporting, configuration ota etc.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148293609,
+                "language": "Go",
+                "last_commit": "2024-05-11T06:12:43Z",
+                "owner": "baetyl",
+                "repo": "baetyl",
+                "stars": 1900
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SuperEdge",
+              "description": "SuperEdge is an open source container management system for edge computing to manage compute resources and container applications in multiple edge regions. These resources and applications, in the current approach, are managed as one single Kubernetes cluster. A native Kubernetes cluster can be easily converted to a SuperEdge cluster.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322759957,
+                "language": "Go",
+                "last_commit": "2024-02-20T10:02:19Z",
+                "owner": "superedge",
+                "repo": "superedge",
+                "stars": 1068
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Xybrid",
+              "description": "An open-source, local-first runtime for running LLMs, ASR, and TTS natively in apps and games.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1115684492,
+                "language": "Rust",
+                "last_commit": "2026-08-19T03:58:01Z",
+                "owner": "xybrid-ai",
+                "repo": "xybrid",
+                "stars": 419
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AREG SDK",
+              "description": "AREG SDK is an interface-centric real-time asynchronous communication engine to enable distributed- and mist-computing, where connected Things interact and provide services as if they act like thin distributed servers. The communication engine of AREG SDK is based on Object Remote Procedure Call (ORPC) protocol.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 392349560,
+                "language": "C++",
+                "last_commit": "2026-08-18T23:35:17Z",
+                "owner": "aregtech",
+                "repo": "areg-sdk",
+                "stars": 362
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EdgeMesh",
+              "description": "EdgeMesh is a part of KubeEdge, and provides a simple network solution for the inter-communications between services at edge scenarios.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366643654,
+                "language": "Go",
+                "last_commit": "2026-04-10T13:39:01Z",
+                "owner": "kubeedge",
+                "repo": "edgemesh",
+                "stars": 291
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FogFlow",
+              "description": "FogFlow is an IoT edge computing framework to automatically orchestrate dynamic data processing flows over cloud and edges driven by context, including system context on the available system resources from all layers, data context on the registered metadata of all available data entities, and also usage context on the expected QoS defined by users.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 110752477,
+                "language": "Go",
+                "last_commit": "2025-05-09T09:32:15Z",
+                "owner": "smartfog",
+                "repo": "fogflow",
+                "stars": 132
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KubeStellar Console",
+              "description": "Open source AI-powered multi-cluster Kubernetes dashboard for hybrid edge and cloud environments. Provides real-time observability across edge and cloud clusters with 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco, OPA/Gatekeeper), AI-guided cluster operations, and unified management of distributed edge workloads. CNCF Sandbox project (Apache 2.0).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1135473716,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:48:09Z",
+                "owner": "kubestellar",
+                "repo": "console",
+                "stars": 127
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AimDB",
+              "description": "An async, in-memory data bridge that syncs records across microcontrollers, edge gateways and cloud instances. Define once, stream and sync everywhere. Same API from MCU to cloud with Tokio and Embassy support for no_std/embedded environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1061389408,
+                "language": "Rust",
+                "last_commit": "2026-08-18T20:09:23Z",
+                "owner": "aimdb-dev",
+                "repo": "aimdb",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ForestHub edge-agents",
+              "description": "The ~30 MB open-source edge AI agent runtime from ForestHub. Runs offline on Linux edge devices (Raspberry Pi, Jetson, industrial gateways), with GPIO/UART/MQTT as first-class nodes and local SLMs alongside cloud LLMs. Engine ships as a distroless container; visual builder included.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1243243191,
+                "language": "TypeScript",
+                "last_commit": "2026-07-29T13:12:24Z",
+                "owner": "ForestHubAI",
+                "repo": "edge-agents",
+                "stars": 98
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ENORM",
+              "description": "The ENORM framework primarily addresses the deployment and load balancing challenges on individual edge nodes. ENORM operates in a three-tier environment, but a master controller does not control the edge nodes. Instead, it is assumed that they are visible to cloud servers that may want to make use of the edge. The framework allows for partitioning a cloud server and offloading it to edge nodes for improving the overall QoS of the application.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 157710885,
+                "language": "Objective-C",
+                "last_commit": "2018-11-15T16:10:19Z",
+                "owner": "qub-blesson",
+                "repo": "ENORM",
+                "stars": 4
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OCI",
+              "description": "a framework that enables network operators with the ability to open up their edge facilities to Application Service Providers, by offering edge computing. As an example, consider a third-party Application Service Provider selling an IoT device (say, a home thermostat or security camera). Whenever that device shows up at the edge of the network, the Open Carrier Interface framework starts the Application Service Provider implemented edge software at the network operator’s Central Offices, which supports the IoT device with edge processing. Thus, even an early-stage Application Service Provider, who has few financial or physical resources, can offer the same level of edge support as giant companies, and therefore can compete with them on an even footing. read more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96841492,
+                "language": "Java",
+                "last_commit": "2018-11-06T18:39:02Z",
+                "owner": "marckoerner",
+                "repo": "oci",
+                "stars": 0
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Engine"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome-pcaptools",
+              "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 4415789,
+                "language": null,
+                "last_commit": "2025-09-03T07:24:40Z",
+                "owner": "caesar0301",
+                "repo": "awesome-pcaptools",
+                "stars": 3414
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Wonder Shaper",
+              "description": "Wonder Shaper is a script that allows the user to limit the bandwidth of one or more network adapters. It does so by using iproute's tc command, but greatly simplifies its operation.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5762987,
+                "language": "Shell",
+                "last_commit": "2024-07-25T02:46:32Z",
+                "owner": "magnific0",
+                "repo": "wondershaper",
+                "stars": 1895
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "POX",
+              "description": "POX is a networking software platform written in Python. POX started life as an OpenFlow controller, but can now also function as an OpenFlow switch, and can be useful for writing networking software in general. An useful link of how to simulate a SDN can check the link: http://www.brianlinkletter.com/using-the-pox-sdn-controller/",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3382021,
+                "language": "Python",
+                "last_commit": "2024-10-19T18:35:05Z",
+                "owner": "noxrepo",
+                "repo": "pox",
+                "stars": 649
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Komondor",
+              "description": "Komondor is a wireless network simulator that includes novel mechanisms for next-generation WLANs, such as dynamic channel bonding or enhanced spatial reuse. One of the main purposes of Komondor is to simulate the behavior of IEEE 802.11ax-2019 networks, an amendment designed to boost spectral efficiency in dense deployments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80037854,
+                "language": "Java",
+                "last_commit": "2026-08-12T12:10:13Z",
+                "owner": "wn-upf",
+                "repo": "Komondor",
+                "stars": 89
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RICE",
+              "description": "A unified approach to remote function invocation in ICN(Naming Data Network Platform) that exploits the attractive ICN properties of name-based routing, receiver-driven low and congestion control, low balance, and object-oriented security while presenting a natural programming model to the application developer.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126839859,
+                "language": "Python",
+                "last_commit": "2019-01-14T12:04:27Z",
+                "owner": "harnen",
+                "repo": "timers",
+                "stars": 4
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Networks"
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Awesome-pcaptools",
-          "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces.",
+          "title": "ClusterData",
+          "description": "Alibaba ClusterData is a collection of production cluster traces for cloud scheduling, resource management, and data center systems research.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102428537,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-03T02:11:46Z",
+            "owner": "alibaba",
+            "repo": "clusterdata",
+            "stars": 2149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLPerf Inference Benchmark Suite",
+          "description": "MLPerf Inference is a benchmark suite for measuring how fast systems can run models in a variety of deployment scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148566613,
+            "language": "Python",
+            "last_commit": "2026-08-18T16:37:57Z",
+            "owner": "mlcommons",
+            "repo": "inference",
+            "stars": 1619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tinyMLPerf Deep Learning Benchmarks for Embedded Devices",
+          "description": "The goal of TinyMLPerf is to provide a representative set of deep neural nets and benchmarking code to compare performance between embedded devices. Embedded devices include microcontrollers, DSPs, and tiny NN accelerators. These devices typically run at between 10MHz and 250MHz, and can perform inference using less then 50mW of power.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268641449,
+            "language": "C",
+            "last_commit": "2026-07-13T15:39:39Z",
+            "owner": "mlcommons",
+            "repo": "tiny",
+            "stars": 474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Network Modeling Datasets",
+          "description": "This repository provides datasets generated using a custom OMNeT++ simulator, covering diverse network topologies, routing configurations and traffic patterns. Each sample includes precise end-to-end performance metrics, such as per-source–destination packet-level delay, jitter and loss, with detailed instructions available in each dataset’s root directory. These datasets are intended to facilitate the design, training and evaluation of ML-based network models and to support fair benchmarking against prior state-of-the-art approaches on a common dataset.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 186460974,
             "language": null,
-            "last_commit": "2025-09-03T07:24:40Z",
-            "owner": "caesar0301",
-            "repo": "awesome-pcaptools",
-            "stars": 3414
+            "last_commit": "2025-10-20T14:53:21Z",
+            "owner": "BNN-UPC",
+            "repo": "NetworkModelingDatasets",
+            "stars": 110
           }
         },
         {
           "node_type": "item",
-          "title": "Wonder Shaper",
-          "description": "Wonder Shaper is a script that allows the user to limit the bandwidth of one or more network adapters. It does so by using iproute's tc command, but greatly simplifies its operation.",
+          "title": "DeFog",
+          "description": "DeFog, a first Fog benchmarking suite to: (i) alleviate the burden of Fog benchmarking by using a standard methodology, and (ii) facilitate the understanding of the target platform by collecting a catalogue of relevant metrics for a set of benchmarks.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Shell",
-            "last_commit": "2024-07-25T02:46:32Z",
-            "owner": "magnific0",
-            "repo": "wondershaper",
-            "stars": 1895
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "POX",
-          "description": "POX is a networking software platform written in Python. POX started life as an OpenFlow controller, but can now also function as an OpenFlow switch, and can be useful for writing networking software in general. An useful link of how to simulate a SDN can check the link: http://www.brianlinkletter.com/using-the-pox-sdn-controller/",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-10-19T18:35:05Z",
-            "owner": "noxrepo",
-            "repo": "pox",
-            "stars": 649
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Komondor",
-          "description": "Komondor is a wireless network simulator that includes novel mechanisms for next-generation WLANs, such as dynamic channel bonding or enhanced spatial reuse. One of the main purposes of Komondor is to simulate the behavior of IEEE 802.11ax-2019 networks, an amendment designed to boost spectral efficiency in dense deployments.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Java",
-            "last_commit": "2026-08-12T12:10:13Z",
-            "owner": "wn-upf",
-            "repo": "Komondor",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "RICE",
-          "description": "A unified approach to remote function invocation in ICN(Naming Data Network Platform) that exploits the attractive ICN properties of name-based routing, receiver-driven low and congestion control, low balance, and object-oriented security while presenting a natural programming model to the application developer.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2019-01-14T12:04:27Z",
-            "owner": "harnen",
-            "repo": "timers",
-            "stars": 4
+            "id": 181882322,
+            "language": "HTML",
+            "last_commit": "2019-07-25T08:35:57Z",
+            "owner": "qub-blesson",
+            "repo": "DeFog",
+            "stars": 36
           }
         }
       ],
-      "title": "Networks"
+      "title": "Test (data, benchmark)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Edge Courier",
+          "description": "An application for solving the whole-file-sync problem which needs high bandwidth in the cloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208503965,
+            "language": "Python",
+            "last_commit": "2019-09-14T21:09:37Z",
+            "owner": "busyslab",
+            "repo": "EdgeCourier",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Applications"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Caffe2",
+          "description": "Caffe2 is a lightweight, modular, and scalable deep learning framework. Building on the original Caffe, Caffe2 is designed with expression, speed, and modularity in mind.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65600975,
+            "language": "Python",
+            "last_commit": "2026-08-19T12:12:11Z",
+            "owner": "pytorch",
+            "repo": "pytorch",
+            "stars": 102479
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ncnn",
+          "description": "ncnn is a high-performance neural network inference computing framework optimized for mobile platforms. ncnn is deeply considerate about deployment and uses on mobile phones from the beginning of design. ncnn does not have third party dependencies. it is cross-platform, and runs faster than all known open source frameworks on mobile phone cpu. Developers can easily deploy deep learning algorithm models to the mobile platform by using efficient ncnn implementation, create intelligent APPs, and bring the artificial intelligence to your fingertips. ncnn is currently being used in many Tencent applications, such as QQ, Qzone, WeChat, Pitu and so on.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95879426,
+            "language": "C++",
+            "last_commit": "2026-08-18T08:40:18Z",
+            "owner": "Tencent",
+            "repo": "ncnn",
+            "stars": 23713
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MLC LLM",
+          "description": "In recent years, there has been remarkable progress in generative artificial intelligence (AI) and large language models (LLMs), which are becoming increasingly prevalent. Thanks to open-source initiatives, it is now possible to develop personal AI assistants using open-sourced models. However, LLMs tend to be resource-intensive and computationally demanding. To create a scalable service, developers may need to rely on powerful clusters and expensive hardware to run model inference. Additionally, deploying LLMs presents several challenges, such as their ever-evolving model innovation, memory constraints, and the need for potential optimization techniques.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 634081686,
+            "language": "Python",
+            "last_commit": "2026-08-17T20:50:06Z",
+            "owner": "mlc-ai",
+            "repo": "mlc-llm",
+            "stars": 23074
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ONNX Runtime",
+          "description": "ONNX Runtime is a cross-platform inference and training machine-learning accelerator. It can enable faster customer experiences and lower costs, supporting models from deep learning frameworks such as PyTorch and TensorFlow/Keras as well as classical machine learning libraries such as scikit-learn, LightGBM, XGBoost, etc. ONNX Runtime is compatible with different hardware, drivers, and operating systems, and provides optimal performance by leveraging hardware accelerators where applicable alongside graph optimizations and transforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156939672,
+            "language": "C++",
+            "last_commit": "2026-08-19T07:39:55Z",
+            "owner": "microsoft",
+            "repo": "onnxruntime",
+            "stars": 21399
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MNN",
+          "description": "MNN is a highly efficient and lightweight deep learning framework. It supports inference and training of deep learning models, and has industry leading performance for inference and training on-device. At present, MNN has been integrated in more than 20 apps of Alibaba Inc, such as Taobao, Tmall, Youku, Dingtalk, Xianyu and etc., covering more than 70 usage scenarios such as live broadcast, short video capture, search recommendation, product searching by image, interactive marketing, equity distribution, security risk control. In addition, MNN is also used on embedded devices, such as IoT.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181436799,
+            "language": "C++",
+            "last_commit": "2026-08-19T11:20:10Z",
+            "owner": "alibaba",
+            "repo": "MNN",
+            "stars": 15919
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paddle-Lite",
+          "description": "Paddle Lite is an updated version of Paddle-Mobile, an open-open source deep learning framework designed to make it easy to perform inference on mobile, embeded, and IoT devices. It is compatible with PaddlePaddle and pre-trained models from other sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104208128,
+            "language": "C++",
+            "last_commit": "2026-04-27T09:16:13Z",
+            "owner": "PaddlePaddle",
+            "repo": "Paddle-Lite",
+            "stars": 7269
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FATE",
+          "description": "FATE (Federated AI Technology Enabler) is an open-source project initiated by Webank's AI Department to provide a secure computing framework to support the federated AI ecosystem. It implements secure computation protocols based on homomorphic encryption and multi-party computation (MPC). It supports federated learning architectures and secure computation of various machine learning algorithms, including logistic regression, tree-based algorithms, deep learning and transfer learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167349656,
+            "language": "Python",
+            "last_commit": "2024-11-19T08:19:11Z",
+            "owner": "FederatedAI",
+            "repo": "FATE",
+            "stars": 6089
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shimmy",
+          "description": "Self-hosted AI inference server with OpenAI API compatibility, designed for edge deployment. Supports multiple model formats (GGUF, Core ML, etc.) with built-in streaming and multimodal capabilities. Lightweight and fast for resource-constrained edge environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1046584285,
+            "language": "Rust",
+            "last_commit": "2026-08-06T23:11:51Z",
+            "owner": "Michael-A-Kuykendall",
+            "repo": "shimmy",
+            "stars": 5767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MACE",
+          "description": "MACE (Mobile AI Compute Engine) is a deep learning inference framework optimized for mobile heterogeneous computing platforms. MACE provides tools and documents to help users to deploy deep learning models to mobile phones, tablets, personal computers and IoT devices.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138826968,
+            "language": "C++",
+            "last_commit": "2024-06-17T09:17:33Z",
+            "owner": "XiaoMi",
+            "repo": "mace",
+            "stars": 5044
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MegEngine",
+          "description": "MegEngine is a fast, scalable and easy-to-use deep learning framework, with auto-differentiation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248175118,
+            "language": "C++",
+            "last_commit": "2024-10-24T10:10:58Z",
+            "owner": "MegEngine",
+            "repo": "MegEngine",
+            "stars": 4808
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TNN",
+          "description": "TNN: A high-performance, lightweight neural network inference framework open sourced by Tencent Youtu Lab. It also has many outstanding advantages such as cross-platform, high performance, model compression, and code tailoring. The TNN framework further strengthens the support and performance optimization of mobile devices on the basis of the original Rapidnet and ncnn frameworks. At the same time, it refers to the high performance and good scalability characteristics of the industry's mainstream open source frameworks, and expands the support for X86 and NV GPUs. On the mobile phone, TNN has been used by many applications such as mobile QQ, weishi, and Pitu. As a basic acceleration framework for Tencent Cloud AI, TNN has provided acceleration support for the implementation of many businesses. Everyone is welcome to participate in the collaborative construction to promote the further improvement of the TNN inference framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 267792621,
+            "language": "C++",
+            "last_commit": "2025-05-09T07:33:14Z",
+            "owner": "Tencent",
+            "repo": "TNN",
+            "stars": 4647
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tengine",
+          "description": "Tengine is developed by OPEN AI LAB. This project meet the demand of fast and efficient deployment of deep learning neural network models on embedded devices. In order to achieve cross-platform deployment in many AIoT applications, this project is based on the original Tengine project using C language for reconstruction, and deep frame tailoring for the characteristics of limited embedded device resources. Also, it adopts a completely separated front-end/back-end design, which makes it possible to be transplanted and deployed onto CPU, GPU, NPU and other heterogeneous computing units rapidly, conveniently.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 115765590,
+            "language": "C++",
+            "last_commit": "2025-03-06T07:12:55Z",
+            "owner": "OAID",
+            "repo": "Tengine",
+            "stars": 4531
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Torch-Pruning (TP)",
+          "description": "TP enables structural pruning for a wide range of deep neural networks, including Large Language Models (LLMs), Segment Anything Model (SAM), Diffusion Models, Vision Transformers, ConvNext, Yolov7, yolov8, Swin Transformers, BERT, FasterRCNN, SSD, ResNe(X)t, DenseNet, RegNet, DeepLab, etc. Different from torch.nn.utils.prune that zeroizes parameters through masking, Torch-Pruning deploys an algorithm called DepGraph to remove parameters physically.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 228203350,
+            "language": "Python",
+            "last_commit": "2025-09-07T17:25:20Z",
+            "owner": "VainF",
+            "repo": "Torch-Pruning",
+            "stars": 3345
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Compute Library",
+          "description": "The Compute Library is a collection of low-level machine learning functions optimized for Arm® Cortex®-A and Arm® Mali™ GPUs architectures.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84570214,
+            "language": "C++",
+            "last_commit": "2026-08-12T09:47:06Z",
+            "owner": "ARM-software",
+            "repo": "ComputeLibrary",
+            "stars": 3182
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AI Model Efficiency Toolkit (AIMET)",
+          "description": "AIMET is a library that provides advanced model quantization and compression techniques for trained neural network models. It provides features that have been proven to improve run-time performance of deep learning neural network models with lower compute and memory requirements and minimal impact to task accuracy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257688216,
+            "language": "Python",
+            "last_commit": "2026-08-19T00:29:19Z",
+            "owner": "qualcomm",
+            "repo": "aimet",
+            "stars": 2682
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SparseML",
+          "description": "SparseML is an open-source model optimization toolkit that enables you to create inference-optimized sparse models using pruning, quantization, and distillation algorithms. Models optimized with SparseML can then be exported to the ONNX and deployed with DeepSparse for GPU-class performance on CPU hardware.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 320591199,
+            "language": "Python",
+            "last_commit": "2025-06-02T20:02:18Z",
+            "owner": "neuralmagic",
+            "repo": "sparseml",
+            "stars": 2145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Once for All",
+          "description": "Train One Network and Specialize it for Efficient Deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 231969325,
+            "language": "Python",
+            "last_commit": "2023-12-14T04:44:52Z",
+            "owner": "mit-han-lab",
+            "repo": "once-for-all",
+            "stars": 1955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "uTensor",
+          "description": "uTensor is an extremely light-weight machine learning inference framework built on Tensorflow and optimized for Arm targets. It consists of a runtime library and an offline tool that handles most of the model translation work. This repo holds the core runtime and some example implementations of operators, memory managers/schedulers, and more, and the size of the core runtime is only ~2KB!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104375922,
+            "language": "C++",
+            "last_commit": "2025-05-10T08:53:34Z",
+            "owner": "uTensor",
+            "repo": "uTensor",
+            "stars": 1928
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nndeploy",
+          "description": "nndeploy is an end-to-end deployment framework for models. Centered around multi-end inference and model deployment based on directed acyclic graph, it is committed to providing users with a cross-platform, simple, easy-to-use, and high-performance model deployment experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 676114409,
+            "language": "C++",
+            "last_commit": "2026-08-15T13:56:15Z",
+            "owner": "nndeploy",
+            "repo": "nndeploy",
+            "stars": 1864
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BerryNet",
+          "description": "This project turns edge devices such as Raspberry Pi into an intelligent gateway with deep learning running on it. No internet connection is required, everything is done locally on the edge device itself. Further, multiple edge devices can create a distributed AIoT network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89620113,
+            "language": "Python",
+            "last_commit": "2023-02-16T03:10:29Z",
+            "owner": "DT42",
+            "repo": "BerryNet",
+            "stars": 1611
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MQBench",
+          "description": "MQBench is an open-source model quantization toolkit based on PyTorch fx. The envision of MQBench is to provide: 1) SOTA Algorithms. With MQBench, the hardware vendors and researchers can benefit from the latest research progress in academia. 2) Powerful Toolkits. With the toolkit, quantization node can be inserted to the original PyTorch module automatically with respect to the specific hardware. After training, the quantized model can be smoothly converted to the format that can inference on the real device.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 397953975,
+            "language": "Python",
+            "last_commit": "2025-04-20T15:29:16Z",
+            "owner": "ModelTC",
+            "repo": "MQBench",
+            "stars": 880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Adlik",
+          "description": "Adlik [ædlik] is an end-to-end optimizing framework for deep learning models. The goal of Adlik is to accelerate deep learning inference process both on cloud and embedded environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210452618,
+            "language": "C++",
+            "last_commit": "2023-12-27T07:39:13Z",
+            "owner": "Adlik",
+            "repo": "Adlik",
+            "stars": 806
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "daBNN",
+          "description": "daBNN is an open-source fast inference framework developed by Zhang et al., which can implement Binary Neural Networks on ARM devices [161]. An upgraded bit-packing scheme and binary direct convolution have been used in this framework to shrink the cost of convolution and speed up inference. This framework is written in C++ and ARM assembly and has Java support for the Android package. This fast framework can be 6 times faster than BMXNet on Bi-Real Net. src from: 10.1145/3469029",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184598655,
+            "language": "C++",
+            "last_commit": "2019-11-12T01:49:55Z",
+            "owner": "JDAI-CV",
+            "repo": "dabnn",
+            "stars": 774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FedProx",
+          "description": "FedProx aims to solve two key challenges that differentiate it from traditional distributed optimization: (1) significant variability in terms of the systems characteristics on each device in the network (systems heterogeneity), and (2) non-identically distributed data across the network (statistical heterogeneity).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167483572,
+            "language": "Python",
+            "last_commit": "2023-03-24T21:55:06Z",
+            "owner": "litian96",
+            "repo": "FedProx",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ns3-gym",
+          "description": "OpenAI Gym is a toolkit for reinforcement learning (RL) widely used in research. The network simulator ns–3 is the de-facto standard for academic and industry studies in the areas of networking protocols and communication technologies. ns3-gym is a framework that integrates both OpenAI Gym and ns-3 in order to encourage usage of RL in networking research.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152056923,
+            "language": "C++",
+            "last_commit": "2026-02-05T17:21:55Z",
+            "owner": "tkn-tub",
+            "repo": "ns3-gym",
+            "stars": 690
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Model Compression Toolkit (MCT)",
+          "description": "Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 378795568,
+            "language": "Python",
+            "last_commit": "2026-08-18T09:49:57Z",
+            "owner": "SonySemiconductorSolutions",
+            "repo": "mct-model-optimization",
+            "stars": 449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SparseZoo",
+          "description": "SparseZoo is a constantly-growing repository of sparsified (pruned and pruned-quantized) models with matching sparsification recipes for neural networks. It simplifies and accelerates your time-to-value in building performant deep learning models with a collection of inference-optimized models and recipes to prototype from.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 320590749,
+            "language": "Python",
+            "last_commit": "2025-06-02T15:45:20Z",
+            "owner": "neuralmagic",
+            "repo": "sparsezoo",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nn-Meter",
+          "description": "nn-Meter is a novel and efficient system to accurately predict the inference latency of DNN models on diverse edge devices. The key idea is dividing a whole model inference into kernels, i.e., the execution units of fused operators on a device, and conduct kernel-level prediction.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 361631547,
+            "language": "Python",
+            "last_commit": "2024-07-30T21:16:54Z",
+            "owner": "microsoft",
+            "repo": "nn-Meter",
+            "stars": 364
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ns3-ai",
+          "description": "This module does not provide any AI algorithms or rely on any frameworks but instead is providing a Python module that enables AI interconnect, so the AI framework needs to be separately installed. You only need to clone or download this work, then import the Python modules, you could use this work to exchange data between ns-3 and your AI algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217401217,
+            "language": "C++",
+            "last_commit": "2026-07-15T08:53:12Z",
+            "owner": "hust-diangroup",
+            "repo": "ns3-ai",
+            "stars": 358
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BMXNet",
+          "description": "Apache MXNet is a deep learning framework designed for both efficiency and flexibility. It allows you to mix symbolic and imperative programming to maximize efficiency and productivity. At its core, MXNet contains a dynamic dependency scheduler that automatically parallelizes both symbolic and imperative operations on the fly. A graph optimization layer on top of that makes symbolic execution fast and memory efficient. MXNet is portable and lightweight, scalable to many GPUs and machines.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 92060516,
+            "language": "C++",
+            "last_commit": "2019-11-18T09:31:01Z",
+            "owner": "hpi-xnor",
+            "repo": "BMXNet",
+            "stars": 351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KitNET",
+          "description": "KitNET is an online, unsupervised, and efficient anomaly detector. A Kitsune, in Japanese folklore, is a mythical fox-like creature that has a number of tails, can mimic different forms, and whose strength increases with experience. Similarly, Kit-NET has an ensemble of small neural networks (autoencoders), which are trained to mimic (reconstruct) network traffic patterns, and whose performance incrementally improves overtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110032835,
+            "language": "Python",
+            "last_commit": "2024-03-28T23:18:44Z",
+            "owner": "ymirsky",
+            "repo": "KitNET-py",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ianvs",
+          "description": "Ianvs is a distributed synergy AI benchmarking project incubated in KubeEdge SIG AI. Ianvs aims to test the performance of distributed synergy AI solutions following recognized standards, in order to facilitate more efficient and effective development. More detailedly, Ianvs prepares not only test cases with datasets and corresponding algorithms, but also benchmarking tools including simulation and hyper-parameter searching. Ianvs also reveals best practices for developers and end users with presentation tools including leaderboards and test reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 512980605,
+            "language": "Python",
+            "last_commit": "2026-08-06T10:07:27Z",
+            "owner": "kubeedge",
+            "repo": "ianvs",
+            "stars": 190
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bi-Real Net",
+          "description": "Compared with the standard 1-bit CNNs, Bi-Real net utilizes a simple short-cut to significantly enhance the representational capability. Further, an advanced training algorithm is specifically designed for training 1-bit CNNs (including Bi-Real net), including a tighter approximation of the derivative of the sign function with respect the activation, the magnitude-aware gradient with respect to the weight, as well as a novel initialization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 146231461,
+            "language": "C++",
+            "last_commit": "2021-03-28T14:12:51Z",
+            "owner": "liuzechun",
+            "repo": "Bi-Real-net",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Condensa",
+          "description": "CONDENSA allows developers to design strategies for compressing DL models, resulting significant reduction in both the memory footprint and execution time. It uses a Bayesian optimization-based method to find compression hyperparameters automatically by exploiting an L-C optimizer to recover the accuracy loss during compression. They reported a 2.22 times runtime improvement over an uncompressed VGG-19 on the CIFAR-10 dataset with up to 65 times memory reduction. src from: 10.1145/3469029",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189249245,
+            "language": "Python",
+            "last_commit": "2022-05-26T18:35:45Z",
+            "owner": "NVlabs",
+            "repo": "condensa",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BranchyNet",
+          "description": "Fast inference via early exiting from deep neural networks. The architecture allows prediction results for a large portion of test samples to exit the network early via these branches when samples can already be inferred with high confidence.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86640351,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-03T21:43:08Z",
+            "owner": "kunglab",
+            "repo": "branchynet",
+            "stars": 138
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DDNN",
+          "description": "distributed deep neural networks (DDNNs) over distributed computing hierarchies, consisting of the cloud, the edge (fog) and end devices. While being able to accommodate inference of a deep neural network (DNN) in the cloud, a DDNN also allows fast and localized inference using shallow portions of the neural network at the edge and end devices. Due to its distributed nature, DDNNs enhance data privacy and system fault tolerance for DNN applications. When supported by a scalable distributed computing hierarchy, a DDNN can scale up in neural network size and scale out in geographical span.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86645466,
+            "language": "Python",
+            "last_commit": "2019-01-02T11:05:49Z",
+            "owner": "kunglab",
+            "repo": "ddnn",
+            "stars": 120
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepThings",
+          "description": "A framework for locally distributed and adaptive CNN inference in resource-constrained IoT edge clusters. DeepThings mainly consists of: 1). A Fused Tile Partitioning (FTP) method for dividing convolutional layers into independently distributable tasks. FTP fuses layers and partitions them vertically in a grid fashion, which largely reduces communication and task migration overhead. 2). A distributed work stealing runtime system for IoT clusters to adaptively distribute FTP partitions in dynamic application scenarios.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144171495,
+            "language": "C",
+            "last_commit": "2021-04-29T20:09:21Z",
+            "owner": "SLAM-Lab",
+            "repo": "DeepThings",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeepIoT",
+          "description": "DeepIoT is a framework that shrinks a neural network into smaller dense matrices but keeps the performance of the algorithm almost the same. This framework finds the minimum number of filters and dimensions required by each layer and reduces the redundancy of that layer. src from: 10.1145/3469029",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106208852,
+            "language": "Python",
+            "last_commit": "2017-11-23T21:33:52Z",
+            "owner": "yscacaca",
+            "repo": "DeepIoT",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoDiCE",
+          "description": "A tool featuring automated splitting of a CNN model into a set of submodels and automated code generation for distributed and collaborative execution of these submodels on multiple, possibly heterogeneous, edge devices. AutoDiCE is the first fully automated tool for distributed CNN inference over multiple resource-constrained devices at the Edge.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379379976,
+            "language": "C++",
+            "last_commit": "2025-08-19T10:11:46Z",
+            "owner": "parrotsky",
+            "repo": "AutoDiCE",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Neurosurgeon",
+          "description": "A lightweight scheduler to automatically partition DNN computation between mobile devices and datacenters at the granularity of neural network layers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214052163,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-10-10T01:27:03Z",
+            "owner": "njcpe",
+            "repo": "neurosurgeon",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Communication-Aware DNN Pruning (CaP)",
+          "description": "A novel distributed inference framework for distributing DNN computations across a physical network. Departing from conventional pruning methods, CaP takes the physical network topology into consideration and produces DNNs that are communication-aware, designed for both accurate and fast execution over such a distributed deployment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 470791112,
+            "language": "Python",
+            "last_commit": "2023-01-10T21:22:08Z",
+            "owner": "neu-spiral",
+            "repo": "CaP",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pocket",
+          "description": "A new approach for serving ML applications in settings like the edge, based on a shared ML runtime backend as a service and lightweight ML application pocket containers. Key to realizing Pocket is use of lightweight IPC, support for cross-client isolation, and a novel resource amplification method which inlines resource reallocation with IPC. The latter ensures just-in-time assignment of the limited edge resources where they're most needed, thereby reducing contention effects and boosting overall performance and efficiency. Pocket: ML Serving from the Edge",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 595879952,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-04-19T18:02:41Z",
+            "owner": "GTkernel",
+            "repo": "Pocket",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Genesis 2",
+          "description": "CPU-only neural network for edge deployment. Cascade MoE with 18ms inference, 3.5GB model, no GPU required. Ideal for edge AI applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1268287641,
+            "language": "HTML",
+            "last_commit": "2026-06-18T23:17:22Z",
+            "owner": "larionovavi-stack",
+            "repo": "genesis2-cascade-moe",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Edge-AI frameworks"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AI at the edge",
+          "description": "A curated list of resources for embedded AI.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 142336474,
+            "language": null,
+            "last_commit": "2026-07-24T09:23:04Z",
+            "owner": "crespum",
+            "repo": "edge-ai",
+            "stars": 548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Edge Computing & Internet Of Things",
+          "description": "A qualitative compilation of production-ready edge computing projects with a focus on IoT based Data Engineering.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 390371082,
+            "language": null,
+            "last_commit": "2026-06-11T17:59:41Z",
+            "owner": "yarncraft",
+            "repo": "awesome-edge",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Other awesome list"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:03:48.389Z",
+    "last_updated": "2026-08-19T12:27:11.793Z",
     "original_repository": "qijianpeng/awesome-edge-computing",
+    "original_repository_id": 220168321,
     "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
     "enhanced_repository": "enhansome/enhansome-edge-computing",
     "enhanced_repository_description": null,
