@@ -27,7 +27,7 @@
             "archived": false,
             "id": 1759835,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:08:07Z",
+            "last_commit": "2026-08-19T14:03:15Z",
             "owner": "shadow",
             "repo": "shadow",
             "stars": 1716
@@ -953,7 +953,7 @@
                 "last_commit": "2026-08-14T07:28:17Z",
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6108
+                "stars": 6109
               }
             },
             {
@@ -968,7 +968,7 @@
                 "last_commit": "2026-08-18T08:55:20Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6070
+                "stars": 6071
               }
             },
             {
@@ -1028,7 +1028,7 @@
                 "last_commit": "2026-08-19T03:58:01Z",
                 "owner": "xybrid-ai",
                 "repo": "xybrid",
-                "stars": 419
+                "stars": 420
               }
             },
             {
@@ -1085,7 +1085,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T11:48:09Z",
+                "last_commit": "2026-08-19T23:17:56Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
@@ -1170,7 +1170,7 @@
                 "last_commit": "2025-09-03T07:24:40Z",
                 "owner": "caesar0301",
                 "repo": "awesome-pcaptools",
-                "stars": 3414
+                "stars": 3413
               }
             },
             {
@@ -1268,7 +1268,7 @@
             "archived": false,
             "id": 148566613,
             "language": "Python",
-            "last_commit": "2026-08-18T16:37:57Z",
+            "last_commit": "2026-08-19T23:52:41Z",
             "owner": "mlcommons",
             "repo": "inference",
             "stars": 1619
@@ -1355,10 +1355,10 @@
             "archived": false,
             "id": 65600975,
             "language": "Python",
-            "last_commit": "2026-08-19T12:12:11Z",
+            "last_commit": "2026-08-20T01:56:04Z",
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 102479
+            "stars": 102490
           }
         },
         {
@@ -1373,7 +1373,7 @@
             "last_commit": "2026-08-18T08:40:18Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23713
+            "stars": 23717
           }
         },
         {
@@ -1400,10 +1400,10 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-19T07:39:55Z",
+            "last_commit": "2026-08-20T02:00:06Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21399
+            "stars": 21403
           }
         },
         {
@@ -1418,7 +1418,7 @@
             "last_commit": "2026-08-19T11:20:10Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15919
+            "stars": 15928
           }
         },
         {
@@ -1433,7 +1433,7 @@
             "last_commit": "2026-04-27T09:16:13Z",
             "owner": "PaddlePaddle",
             "repo": "Paddle-Lite",
-            "stars": 7269
+            "stars": 7270
           }
         },
         {
@@ -1463,7 +1463,7 @@
             "last_commit": "2026-08-06T23:11:51Z",
             "owner": "Michael-A-Kuykendall",
             "repo": "shimmy",
-            "stars": 5767
+            "stars": 5771
           }
         },
         {
@@ -1565,7 +1565,7 @@
             "archived": false,
             "id": 257688216,
             "language": "Python",
-            "last_commit": "2026-08-19T00:29:19Z",
+            "last_commit": "2026-08-20T01:22:48Z",
             "owner": "qualcomm",
             "repo": "aimet",
             "stars": 2682
@@ -1730,7 +1730,7 @@
             "archived": false,
             "id": 378795568,
             "language": "Python",
-            "last_commit": "2026-08-18T09:49:57Z",
+            "last_commit": "2026-08-20T01:26:31Z",
             "owner": "SonySemiconductorSolutions",
             "repo": "mct-model-optimization",
             "stars": 449
@@ -1778,7 +1778,7 @@
             "last_commit": "2026-07-15T08:53:12Z",
             "owner": "hust-diangroup",
             "repo": "ns3-ai",
-            "stars": 358
+            "stars": 357
           }
         },
         {
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:27:11.793Z",
+    "last_updated": "2026-08-20T02:01:24.245Z",
     "original_repository": "qijianpeng/awesome-edge-computing",
     "original_repository_id": 220168321,
     "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
