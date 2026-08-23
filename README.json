@@ -30,7 +30,7 @@
             "last_commit": "2026-08-19T14:03:15Z",
             "owner": "shadow",
             "repo": "shadow",
-            "stars": 1717
+            "stars": 1718
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-27T09:04:06Z",
             "owner": "omnetpp",
             "repo": "omnetpp",
-            "stars": 748
+            "stars": 749
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-18T08:22:23Z",
             "owner": "Unipisa",
             "repo": "Simu5G",
-            "stars": 233
+            "stars": 234
           }
         },
         {
@@ -923,7 +923,7 @@
                 "last_commit": "2024-11-15T14:58:04Z",
                 "owner": "mbasso",
                 "repo": "awesome-wasm",
-                "stars": 9623
+                "stars": 9624
               }
             },
             {
@@ -938,7 +938,7 @@
                 "last_commit": "2026-08-18T06:00:43Z",
                 "owner": "kubeedge",
                 "repo": "kubeedge",
-                "stars": 7553
+                "stars": 7556
               }
             },
             {
@@ -953,7 +953,7 @@
                 "last_commit": "2026-08-14T07:28:17Z",
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6111
+                "stars": 6115
               }
             },
             {
@@ -965,7 +965,7 @@
                 "archived": false,
                 "id": 184654298,
                 "language": "C",
-                "last_commit": "2026-08-21T14:14:04Z",
+                "last_commit": "2026-08-22T03:46:18Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
                 "stars": 6072
@@ -1025,10 +1025,10 @@
                 "archived": false,
                 "id": 1115684492,
                 "language": "Rust",
-                "last_commit": "2026-08-22T00:40:34Z",
+                "last_commit": "2026-08-22T23:02:02Z",
                 "owner": "xybrid-ai",
                 "repo": "xybrid",
-                "stars": 423
+                "stars": 424
               }
             },
             {
@@ -1040,7 +1040,7 @@
                 "archived": false,
                 "id": 392349560,
                 "language": "C++",
-                "last_commit": "2026-08-22T01:47:39Z",
+                "last_commit": "2026-08-23T01:12:03Z",
                 "owner": "aregtech",
                 "repo": "areg-sdk",
                 "stars": 362
@@ -1085,7 +1085,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-21T18:10:28Z",
+                "last_commit": "2026-08-23T01:43:55Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
@@ -1118,7 +1118,7 @@
                 "last_commit": "2026-07-29T13:12:24Z",
                 "owner": "ForestHubAI",
                 "repo": "edge-agents",
-                "stars": 97
+                "stars": 98
               }
             },
             {
@@ -1256,7 +1256,7 @@
             "last_commit": "2026-06-03T02:11:46Z",
             "owner": "alibaba",
             "repo": "clusterdata",
-            "stars": 2149
+            "stars": 2150
           }
         },
         {
@@ -1355,10 +1355,10 @@
             "archived": false,
             "id": 65600975,
             "language": "Python",
-            "last_commit": "2026-08-22T01:58:28Z",
+            "last_commit": "2026-08-23T02:09:56Z",
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 102528
+            "stars": 102547
           }
         },
         {
@@ -1373,7 +1373,7 @@
             "last_commit": "2026-08-18T08:40:18Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23729
+            "stars": 23731
           }
         },
         {
@@ -1388,7 +1388,7 @@
             "last_commit": "2026-08-17T20:50:06Z",
             "owner": "mlc-ai",
             "repo": "mlc-llm",
-            "stars": 23080
+            "stars": 23083
           }
         },
         {
@@ -1400,10 +1400,10 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-22T00:47:51Z",
+            "last_commit": "2026-08-22T22:00:50Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21465
+            "stars": 21599
           }
         },
         {
@@ -1415,10 +1415,10 @@
             "archived": false,
             "id": 181436799,
             "language": "C++",
-            "last_commit": "2026-08-20T11:41:32Z",
+            "last_commit": "2026-08-22T05:42:05Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15940
+            "stars": 15948
           }
         },
         {
@@ -1448,7 +1448,7 @@
             "last_commit": "2024-11-19T08:19:11Z",
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6089
+            "stars": 6090
           }
         },
         {
@@ -1463,7 +1463,7 @@
             "last_commit": "2026-08-20T17:39:11Z",
             "owner": "Michael-A-Kuykendall",
             "repo": "shimmy",
-            "stars": 5774
+            "stars": 5798
           }
         },
         {
@@ -1493,7 +1493,7 @@
             "last_commit": "2024-10-24T10:10:58Z",
             "owner": "MegEngine",
             "repo": "MegEngine",
-            "stars": 4808
+            "stars": 4809
           }
         },
         {
@@ -1568,7 +1568,7 @@
             "last_commit": "2026-08-21T22:17:44Z",
             "owner": "qualcomm",
             "repo": "aimet",
-            "stars": 2683
+            "stars": 2684
           }
         },
         {
@@ -1823,7 +1823,7 @@
             "last_commit": "2026-08-21T10:01:07Z",
             "owner": "kubeedge",
             "repo": "ianvs",
-            "stars": 191
+            "stars": 192
           }
         },
         {
@@ -2032,7 +2032,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T01:58:43.573Z",
+    "last_updated": "2026-08-23T02:09:53.880Z",
     "original_repository": "qijianpeng/awesome-edge-computing",
     "original_repository_id": 220168321,
     "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
