@@ -920,10 +920,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T14:19:37Z",
+                "last_commit": "2026-08-25T02:00:50Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387329
+                "stars": 387440
               }
             }
           ],
@@ -945,7 +945,7 @@
                 "last_commit": "2024-11-15T14:58:04Z",
                 "owner": "mbasso",
                 "repo": "awesome-wasm",
-                "stars": 9626
+                "stars": 9627
               }
             },
             {
@@ -975,7 +975,7 @@
                 "last_commit": "2026-08-14T07:28:17Z",
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6119
+                "stars": 6121
               }
             },
             {
@@ -990,7 +990,7 @@
                 "last_commit": "2026-08-22T03:46:18Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6071
+                "stars": 6072
               }
             },
             {
@@ -1047,7 +1047,7 @@
                 "archived": false,
                 "id": 1115684492,
                 "language": "Rust",
-                "last_commit": "2026-08-24T13:49:03Z",
+                "last_commit": "2026-08-24T23:10:57Z",
                 "owner": "xybrid-ai",
                 "repo": "xybrid",
                 "stars": 425
@@ -1107,25 +1107,10 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T10:52:39Z",
+                "last_commit": "2026-08-25T01:56:04Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "AimDB",
-              "description": "An async, in-memory data bridge that syncs records across microcontrollers, edge gateways and cloud instances. Define once, stream and sync everywhere. Same API from MCU to cloud with Tokio and Embassy support for no_std/embedded environments.",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1061389408,
-                "language": "Rust",
-                "last_commit": "2026-08-21T19:40:48Z",
-                "owner": "aimdb-dev",
-                "repo": "aimdb",
-                "stars": 98
               }
             },
             {
@@ -1137,9 +1122,24 @@
                 "archived": false,
                 "id": 1243243191,
                 "language": "TypeScript",
-                "last_commit": "2026-07-29T13:12:24Z",
+                "last_commit": "2026-08-24T14:30:27Z",
                 "owner": "ForestHubAI",
                 "repo": "edge-agents",
+                "stars": 99
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AimDB",
+              "description": "An async, in-memory data bridge that syncs records across microcontrollers, edge gateways and cloud instances. Define once, stream and sync everywhere. Same API from MCU to cloud with Tokio and Embassy support for no_std/embedded environments.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1061389408,
+                "language": "Rust",
+                "last_commit": "2026-08-24T16:49:29Z",
+                "owner": "aimdb-dev",
+                "repo": "aimdb",
                 "stars": 98
               }
             },
@@ -1290,7 +1290,7 @@
             "archived": false,
             "id": 148566613,
             "language": "Python",
-            "last_commit": "2026-08-21T22:29:13Z",
+            "last_commit": "2026-08-24T14:55:57Z",
             "owner": "mlcommons",
             "repo": "inference",
             "stars": 1621
@@ -1377,10 +1377,10 @@
             "archived": false,
             "id": 65600975,
             "language": "Python",
-            "last_commit": "2026-08-24T14:22:05Z",
+            "last_commit": "2026-08-25T02:00:27Z",
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 102575
+            "stars": 102578
           }
         },
         {
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-08-18T08:40:18Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23738
+            "stars": 23739
           }
         },
         {
@@ -1410,7 +1410,7 @@
             "last_commit": "2026-08-17T20:50:06Z",
             "owner": "mlc-ai",
             "repo": "mlc-llm",
-            "stars": 23087
+            "stars": 23088
           }
         },
         {
@@ -1422,10 +1422,10 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-24T13:49:51Z",
+            "last_commit": "2026-08-25T00:46:46Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21621
+            "stars": 21626
           }
         },
         {
@@ -1440,7 +1440,7 @@
             "last_commit": "2026-08-24T08:30:11Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15958
+            "stars": 15960
           }
         },
         {
@@ -1485,7 +1485,7 @@
             "last_commit": "2026-08-20T17:39:11Z",
             "owner": "Michael-A-Kuykendall",
             "repo": "shimmy",
-            "stars": 5807
+            "stars": 5809
           }
         },
         {
@@ -1587,7 +1587,7 @@
             "archived": false,
             "id": 257688216,
             "language": "Python",
-            "last_commit": "2026-08-21T22:17:44Z",
+            "last_commit": "2026-08-25T00:16:09Z",
             "owner": "qualcomm",
             "repo": "aimet",
             "stars": 2685
@@ -1845,7 +1845,7 @@
             "last_commit": "2026-08-21T10:01:07Z",
             "owner": "kubeedge",
             "repo": "ianvs",
-            "stars": 192
+            "stars": 193
           }
         },
         {
@@ -2054,7 +2054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:03.879Z",
+    "last_updated": "2026-08-25T02:03:58.620Z",
     "original_repository": "qijianpeng/awesome-edge-computing",
     "original_repository_id": 220168321,
     "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
