@@ -15,7 +15,7 @@
             "last_commit": "2023-04-04T21:17:55Z",
             "owner": "lgsvl",
             "repo": "simulator",
-            "stars": 2456
+            "stars": 2457
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-01-10T18:48:22Z",
             "owner": "Cloudslab",
             "repo": "cloudsim",
-            "stars": 1011
+            "stars": 1012
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-27T09:04:06Z",
             "owner": "omnetpp",
             "repo": "omnetpp",
-            "stars": 751
+            "stars": 752
           }
         },
         {
@@ -102,10 +102,10 @@
             "archived": false,
             "id": 35002369,
             "language": "Python",
-            "last_commit": "2026-07-29T16:51:59Z",
+            "last_commit": "2026-08-25T12:56:53Z",
             "owner": "intrig-unicamp",
             "repo": "mininet-wifi",
-            "stars": 538
+            "stars": 539
           }
         },
         {
@@ -330,7 +330,7 @@
             "last_commit": "2026-06-10T10:44:50Z",
             "owner": "dos-group",
             "repo": "vessim",
-            "stars": 90
+            "stars": 91
           }
         },
         {
@@ -920,10 +920,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:16:17Z",
+                "last_commit": "2026-08-26T02:09:56Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387487
+                "stars": 387611
               }
             }
           ],
@@ -975,7 +975,7 @@
                 "last_commit": "2026-08-14T07:28:17Z",
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6121
+                "stars": 6124
               }
             },
             {
@@ -990,7 +990,7 @@
                 "last_commit": "2026-08-25T04:18:50Z",
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6072
+                "stars": 6073
               }
             },
             {
@@ -1047,10 +1047,10 @@
                 "archived": false,
                 "id": 1115684492,
                 "language": "Rust",
-                "last_commit": "2026-08-25T03:59:01Z",
+                "last_commit": "2026-08-25T23:19:21Z",
                 "owner": "xybrid-ai",
                 "repo": "xybrid",
-                "stars": 426
+                "stars": 429
               }
             },
             {
@@ -1107,7 +1107,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-25T06:04:57Z",
+                "last_commit": "2026-08-26T01:08:03Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 127
@@ -1125,7 +1125,7 @@
                 "last_commit": "2026-08-24T14:30:27Z",
                 "owner": "ForestHubAI",
                 "repo": "edge-agents",
-                "stars": 99
+                "stars": 100
               }
             },
             {
@@ -1137,7 +1137,7 @@
                 "archived": false,
                 "id": 1061389408,
                 "language": "Rust",
-                "last_commit": "2026-08-24T16:49:29Z",
+                "last_commit": "2026-08-25T21:13:37Z",
                 "owner": "aimdb-dev",
                 "repo": "aimdb",
                 "stars": 98
@@ -1207,7 +1207,7 @@
                 "last_commit": "2024-07-25T02:46:32Z",
                 "owner": "magnific0",
                 "repo": "wondershaper",
-                "stars": 1895
+                "stars": 1896
               }
             },
             {
@@ -1290,7 +1290,7 @@
             "archived": false,
             "id": 148566613,
             "language": "Python",
-            "last_commit": "2026-08-24T14:55:57Z",
+            "last_commit": "2026-08-25T21:55:54Z",
             "owner": "mlcommons",
             "repo": "inference",
             "stars": 1621
@@ -1377,10 +1377,10 @@
             "archived": false,
             "id": 65600975,
             "language": "Python",
-            "last_commit": "2026-08-25T06:13:59Z",
+            "last_commit": "2026-08-26T02:10:08Z",
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 102581
+            "stars": 102598
           }
         },
         {
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23740
+            "stars": 23744
           }
         },
         {
@@ -1422,10 +1422,10 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-25T05:37:20Z",
+            "last_commit": "2026-08-26T00:15:03Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21628
+            "stars": 21643
           }
         },
         {
@@ -1437,10 +1437,10 @@
             "archived": false,
             "id": 181436799,
             "language": "C++",
-            "last_commit": "2026-08-25T03:07:57Z",
+            "last_commit": "2026-08-25T07:22:34Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15962
+            "stars": 15968
           }
         },
         {
@@ -1485,7 +1485,7 @@
             "last_commit": "2026-08-20T17:39:11Z",
             "owner": "Michael-A-Kuykendall",
             "repo": "shimmy",
-            "stars": 5809
+            "stars": 5807
           }
         },
         {
@@ -1587,7 +1587,7 @@
             "archived": false,
             "id": 257688216,
             "language": "Python",
-            "last_commit": "2026-08-25T00:16:09Z",
+            "last_commit": "2026-08-26T01:18:19Z",
             "owner": "qualcomm",
             "repo": "aimet",
             "stars": 2686
@@ -1842,7 +1842,7 @@
             "archived": false,
             "id": 512980605,
             "language": "Python",
-            "last_commit": "2026-08-21T10:01:07Z",
+            "last_commit": "2026-08-25T15:48:47Z",
             "owner": "kubeedge",
             "repo": "ianvs",
             "stars": 193
@@ -2054,7 +2054,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:16:19.055Z",
+    "last_updated": "2026-08-26T02:10:07.164Z",
     "original_repository": "qijianpeng/awesome-edge-computing",
     "original_repository_id": 220168321,
     "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
