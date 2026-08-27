@@ -920,10 +920,10 @@
                 "archived": false,
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T10:09:56Z",
+                "last_commit": "2026-08-27T11:35:03Z",
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387773
+                "stars": 387780
               }
             }
           ],
@@ -1050,7 +1050,7 @@
                 "last_commit": "2026-08-26T23:02:58Z",
                 "owner": "xybrid-ai",
                 "repo": "xybrid",
-                "stars": 431
+                "stars": 430
               }
             },
             {
@@ -1107,7 +1107,7 @@
                 "archived": false,
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T09:08:49Z",
+                "last_commit": "2026-08-27T11:09:43Z",
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 128
@@ -1377,10 +1377,10 @@
             "archived": false,
             "id": 65600975,
             "language": "Python",
-            "last_commit": "2026-08-27T09:53:34Z",
+            "last_commit": "2026-08-27T11:27:54Z",
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 102612
+            "stars": 102613
           }
         },
         {
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-08-25T03:21:15Z",
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23754
+            "stars": 23755
           }
         },
         {
@@ -1410,7 +1410,7 @@
             "last_commit": "2026-08-17T20:50:06Z",
             "owner": "mlc-ai",
             "repo": "mlc-llm",
-            "stars": 23100
+            "stars": 23101
           }
         },
         {
@@ -1422,10 +1422,10 @@
             "archived": false,
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-27T08:46:06Z",
+            "last_commit": "2026-08-27T10:21:16Z",
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21655
+            "stars": 21656
           }
         },
         {
@@ -2054,9 +2054,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T10:10:22.707Z",
-    "original_repository": "qijianpeng/awesome-edge-computing",
-    "original_repository_id": 220168321,
+    "last_updated": "2026-08-27T11:36:25.609Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 220168321,
+      "language": null,
+      "last_commit": "2026-07-24T00:50:51Z",
+      "owner": "qijianpeng",
+      "repo": "awesome-edge-computing",
+      "stars": 519
+    },
     "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
     "enhanced_repository": "enhansome/enhansome-edge-computing",
     "enhanced_repository_description": null,
