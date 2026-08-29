@@ -10,12 +10,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A ROS/ROS2 Multi-robot Simulator for Autonomous Vehicles",
+            "homepage": null,
             "id": 139499767,
             "language": "C#",
+            "license": "NOASSERTION",
             "last_commit": "2023-04-04T21:17:55Z",
+            "open_issues": 628,
             "owner": "lgsvl",
             "repo": "simulator",
-            "stars": 2458
+            "stars": 2458,
+            "topics": [
+              "3d",
+              "airsim",
+              "api",
+              "artificial-intelligence",
+              "autonomous",
+              "autoware",
+              "baidu",
+              "carla",
+              "computer-vision",
+              "csharp",
+              "deep-learning",
+              "game-engine",
+              "machine-learning",
+              "reinforcement-learning",
+              "ros",
+              "self-driving-car",
+              "simulator",
+              "tensorflow",
+              "unity",
+              "unreal-engine"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -26,12 +52,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Shadow is a discrete-event network simulator that directly executes real application code, enabling you to simulate distributed systems with thousands of network-connected processes in realistic and scalable private network experiments using your laptop, desktop, or server running Linux.",
+            "homepage": "https://shadow.github.io",
             "id": 1759835,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T04:43:44Z",
+            "open_issues": 213,
             "owner": "shadow",
             "repo": "shadow",
-            "stars": 1719
+            "stars": 1719,
+            "topics": [
+              "control",
+              "emulation",
+              "experimentation",
+              "networking",
+              "realism",
+              "scalability",
+              "science-research",
+              "scientific-computing",
+              "simulation",
+              "tor"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -42,12 +84,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudSim: A Framework For Modeling And Simulation Of Cloud Computing Infrastructures And Services",
+            "homepage": "http://www.cloudbus.org/cloudsim/",
             "id": 32447381,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-01-10T18:48:22Z",
+            "open_issues": 88,
             "owner": "Cloudslab",
             "repo": "cloudsim",
-            "stars": 1013
+            "stars": 1013,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -58,12 +105,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common Open Research Emulator",
+            "homepage": null,
             "id": 39257883,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-06-02T03:44:27Z",
+            "open_issues": 38,
             "owner": "coreemu",
             "repo": "core",
-            "stars": 824
+            "stars": 824,
+            "topics": [
+              "emane",
+              "emulating-networks",
+              "emulation",
+              "emulator",
+              "network",
+              "python",
+              "rf",
+              "wireless"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -74,12 +135,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OMNeT++ Discrete Event Simulator",
+            "homepage": "https://omnetpp.org",
             "id": 160219599,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-05-27T09:04:06Z",
+            "open_issues": 213,
             "owner": "omnetpp",
             "repo": "omnetpp",
-            "stars": 752
+            "stars": 752,
+            "topics": [
+              "academic",
+              "c-plus-plus",
+              "discrete-event",
+              "framework",
+              "network-protocols",
+              "network-simulation",
+              "omnet",
+              "omnetpp",
+              "protocols",
+              "research",
+              "simulation",
+              "simulation-kernel"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -90,12 +169,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight container-based network emulation system.",
+            "homepage": "https://www.kathara.org/",
             "id": 86825917,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-05T09:18:22Z",
+            "open_issues": 13,
             "owner": "KatharaFramework",
             "repo": "Kathara",
-            "stars": 631
+            "stars": 631,
+            "topics": [
+              "bgp",
+              "computer-networks",
+              "containers",
+              "dns-server",
+              "docker",
+              "k8s",
+              "kubernetes",
+              "netkit",
+              "network-emulation",
+              "network-emulator",
+              "network-engineering",
+              "nfv",
+              "ospf",
+              "p4",
+              "p4-language",
+              "p4language",
+              "python",
+              "rip",
+              "sdn",
+              "virtual-network"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -106,12 +211,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Emulator for Software-Defined Wireless Networks",
+            "homepage": "https://mn-wifi.readthedocs.io/",
             "id": 35002369,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-25T12:56:53Z",
+            "open_issues": 12,
             "owner": "intrig-unicamp",
             "repo": "mininet-wifi",
-            "stars": 539
+            "stars": 539,
+            "topics": [
+              "emulator",
+              "hacktoberfest",
+              "software-defined-wireless-network",
+              "wifi",
+              "wireless"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -122,12 +238,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "State-of-the-art Framework 🏗 for Cloud Computing ⛅️ Simulation: a modern, full-featured, easier-to-use, highly extensible 🧩, faster 🚀 and more accurate ☕️ Java 25+ tool for cloud computing research 🎓 Examples: https://github.com/cloudsimplus/cloudsimplus-examples",
+            "homepage": "https://cloudsimplus.org",
             "id": 32472801,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-06T11:03:17Z",
+            "open_issues": 21,
             "owner": "cloudsimplus",
             "repo": "cloudsimplus",
-            "stars": 488
+            "stars": 488,
+            "topics": [
+              "auto-scaling",
+              "cloud-computing",
+              "cloud-infrastructure",
+              "cloud-simulation",
+              "cloudsim",
+              "cloudsim-simulator",
+              "cloudsimplus",
+              "google-cluster-data",
+              "iaas",
+              "java",
+              "java-24",
+              "load-balancing",
+              "paas",
+              "research",
+              "saas",
+              "simulation",
+              "simulation-framework",
+              "test-bed",
+              "trace",
+              "workload"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -138,12 +280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EdgeCloudSim: An Environment for Performance Evaluation of Edge Computing Systems",
+            "homepage": null,
             "id": 82377948,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-22T14:38:12Z",
+            "open_issues": 45,
             "owner": "CagataySonmez",
             "repo": "EdgeCloudSim",
-            "stars": 487
+            "stars": 487,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -154,12 +301,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Veins - The open source vehicular network simulation framework.",
+            "homepage": "http://veins.car2x.org",
             "id": 630140,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-06-16T09:03:55Z",
+            "open_issues": 8,
             "owner": "sommer",
             "repo": "veins",
-            "stars": 327
+            "stars": 327,
+            "topics": [
+              "car2x",
+              "omnet",
+              "omnetpp",
+              "simulation",
+              "simulation-framework",
+              "simulator",
+              "sumo",
+              "v2x",
+              "vanet",
+              "vehicular-networks",
+              "veins"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -170,12 +334,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "K8s cluster simulator for capacity planning",
+            "homepage": null,
             "id": 411700651,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-26T07:06:59Z",
+            "open_issues": 6,
             "owner": "alibaba",
             "repo": "open-simulator",
-            "stars": 266
+            "stars": 266,
+            "topics": [
+              "capacity-planning",
+              "kubernetes",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -186,12 +359,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudSimPy: Datacenter job scheduling simulation framework",
+            "homepage": null,
             "id": 173426849,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-20T22:08:49Z",
+            "open_issues": 8,
             "owner": "FC-Li",
             "repo": "CloudSimPy",
-            "stars": 254
+            "stars": 254,
+            "topics": [
+              "cloud",
+              "datacenter",
+              "job-scheduling-algorithm",
+              "reinforcement-learning",
+              "schedule"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -202,12 +386,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simu5G - 5G NR and LTE/LTE-A user-plane simulation model for OMNeT++ & INET",
+            "homepage": "https://simu5g.org",
             "id": 357461834,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T08:22:23Z",
+            "open_issues": 54,
             "owner": "Unipisa",
             "repo": "Simu5G",
-            "stars": 234
+            "stars": 234,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -218,12 +407,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PureEdgeSim: A simulation framework for performance evaluation of cloud, fog, and pure edge computing environments.",
+            "homepage": null,
             "id": 163447483,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-04T17:26:56Z",
+            "open_issues": 9,
             "owner": "CharafeddineMechalikh",
             "repo": "PureEdgeSim",
-            "stars": 218
+            "stars": 218,
+            "topics": [
+              "algorithm",
+              "cloud-computing",
+              "cloudsim",
+              "cloudsimplus",
+              "edge",
+              "edge-computing",
+              "fog",
+              "fog-computing",
+              "heterogeneity",
+              "mist-computing",
+              "mobility",
+              "modeling",
+              "orchestration",
+              "performance-evaluation",
+              "scheduling",
+              "simulation",
+              "simulation-framework",
+              "simulation-toolkit",
+              "tasks"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -234,12 +448,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MIRROR of the SimGrid framework, for the simulation of distributed applications (Clouds, HPC, Grids, IoT and others). Most of the dev occurs on FramaGit.",
+            "homepage": "https://framagit.org/simgrid/simgrid",
             "id": 3389701,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-06T23:49:23Z",
+            "open_issues": 20,
             "owner": "simgrid",
             "repo": "simgrid",
-            "stars": 195
+            "stars": 195,
+            "topics": [
+              "clouds",
+              "hpc",
+              "simgrid"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -250,12 +473,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The iFogSimToolkit (with its new release iFogSim2) for Modeling and Simulation of Resource Management Techniques in Internet of Things, Edge and Fog Computing Environments. In the new release Mobili Management, Microservice Management, and Dynamic Clustering mechanisms are added as new features.",
+            "homepage": null,
             "id": 400840247,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-10-03T11:55:11Z",
+            "open_issues": 18,
             "owner": "Cloudslab",
             "repo": "iFogSim",
-            "stars": 193
+            "stars": 193,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -266,12 +494,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A novel experimentation framework that enables researchers to conveniently build credible and flexible experimental network environments (ENE) mimicking satellite dynamics and network behaviors of large-scale ISTNs.",
+            "homepage": null,
             "id": 534860291,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-05-28T10:10:40Z",
+            "open_issues": 21,
             "owner": "SpaceNetLab",
             "repo": "StarryNet",
-            "stars": 147
+            "stars": 147,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -282,12 +515,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet Another Fog Simulator (YAFS)",
+            "homepage": null,
             "id": 123104686,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T15:01:51Z",
+            "open_issues": 3,
             "owner": "acsicuib",
             "repo": "YAFS",
-            "stars": 121
+            "stars": 121,
+            "topics": [
+              "cloud-computing",
+              "fog-computing",
+              "orcid-0000-0002-2826-5970",
+              "orcid-0000-0003-2969-0597",
+              "ordcot",
+              "python",
+              "simulator",
+              "tin2017-88547-p"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -298,12 +545,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python-based modeling and simulation framework for Edge Computing resource management policies",
+            "homepage": "https://edgesimpy.github.io/",
             "id": 534266784,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-01T00:58:04Z",
+            "open_issues": 4,
             "owner": "EdgeSimPy",
             "repo": "EdgeSimPy",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "edge-computing",
+              "edgesimpy",
+              "python",
+              "research",
+              "simulation",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -314,12 +573,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CloudSimSDN is an SDN extension of CloudSim project to simulate Networking, SDN and SFC features in the context of edge and cloud data centers.",
+            "homepage": null,
             "id": 33819781,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2023-09-27T12:48:44Z",
+            "open_issues": 9,
             "owner": "Cloudslab",
             "repo": "cloudsimsdn",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "cloud",
+              "cloud-data-center",
+              "cloudsim",
+              "data-center",
+              "edge",
+              "edge-computing",
+              "edge-extension",
+              "sdn",
+              "simulation",
+              "vm-allocation",
+              "vm-creation",
+              "vms",
+              "vnf",
+              "workload"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -330,12 +609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MaxiNet extends the famous Mininet emulation environment to span the emulation across several physical machines. This allows to emulate very large SDN networks.",
+            "homepage": "https://maxinet.github.io/",
             "id": 22100924,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-23T11:45:47Z",
+            "open_issues": 12,
             "owner": "MaxiNet",
             "repo": "MaxiNet",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -346,12 +630,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A co-simulation testbed for microgrids and energy-aware systems 🍃",
+            "homepage": "https://vessim.readthedocs.io",
             "id": 603417933,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-26T13:10:07Z",
+            "open_issues": 1,
             "owner": "dos-group",
             "repo": "vessim",
-            "stars": 91
+            "stars": 91,
+            "topics": [
+              "carbon-aware",
+              "co-simulator",
+              "green-computing",
+              "microgrid",
+              "mosaik",
+              "sustainable-ai",
+              "testbed"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -362,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SimMobility production repository ",
+            "homepage": null,
             "id": 101264520,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-29T15:57:49Z",
+            "open_issues": 4,
             "owner": "smart-fm",
             "repo": "simmobility-prod",
-            "stars": 83
+            "stars": 83,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -378,12 +680,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for trace-driven simulation of serverless Function-as-a-Service platforms",
+            "homepage": "https://edgerun.github.io/faas-sim/",
             "id": 270734151,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-01-30T18:44:57Z",
+            "open_issues": 8,
             "owner": "edgerun",
             "repo": "faas-sim",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "edge-computing",
+              "python",
+              "serverless-computing",
+              "simpy",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -394,12 +707,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SatEdgeSim: A Toolkit for Modeling and Simulation of Performance Evaluation in Satellite Edge Computing Environments",
+            "homepage": null,
             "id": 244889594,
             "language": "Java",
+            "license": "EPL-2.0",
             "last_commit": "2023-11-29T22:44:49Z",
+            "open_issues": 4,
             "owner": "wjy491156866",
             "repo": "SatEdgeSim",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -410,12 +728,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MS 24] EdgeAISim: A Toolkit for Simulation and Modelling of AI Models in Edge Computing Environments",
+            "homepage": null,
             "id": 665617899,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-02-13T17:26:54Z",
+            "open_issues": 2,
             "owner": "MuhammedGolec",
             "repo": "EdgeAISIM",
-            "stars": 41
+            "stars": 41,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -426,12 +749,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 538680807,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-15T22:12:19Z",
+            "open_issues": 0,
             "owner": "CausalSim",
             "repo": "Unbiased-Trace-Driven-Simulation",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -442,12 +770,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java 17+ tool for Human-Readable Scenario Specification and Automated Creation of Simulations on CloudSim and CloudSim Plus 🌥⚙️📄👨‍💻",
+            "homepage": null,
             "id": 19074497,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2025-04-08T16:48:29Z",
+            "open_issues": 3,
             "owner": "cloudsimplus",
             "repo": "cloudsimplus-automation",
-            "stars": 36
+            "stars": 36,
+            "topics": [
+              "automation",
+              "cloudsim",
+              "cloudsim-plus",
+              "java",
+              "simulation",
+              "simulation-scenario",
+              "yaml"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -458,12 +799,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "mn-ccnx",
+            "homepage": null,
             "id": 7579838,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2016-07-13T12:14:11Z",
+            "open_issues": 21,
             "owner": "chesteve",
             "repo": "mn-ccnx",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -474,12 +820,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A probabilistic prototype for deployment of Fog applications.",
+            "homepage": "http://pages.di.unipi.it/throughthefog/",
             "id": 77220133,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2021-05-14T22:55:35Z",
+            "open_issues": 0,
             "owner": "di-unipi-socc",
             "repo": "FogTorchPI",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "bandwidth",
+              "cloud",
+              "cost-estimation",
+              "cost-model",
+              "deployment",
+              "fog",
+              "fog-applications",
+              "fog-computing",
+              "fog-infrastructure",
+              "latency",
+              "monte-carlo-simulation",
+              "qos-assurance",
+              "qos-aware"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -490,12 +855,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 274264448,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-02T18:13:28Z",
+            "open_issues": 1,
             "owner": "pacslab",
             "repo": "simfaas",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -506,12 +876,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decentralized FaaS platform",
+            "homepage": null,
             "id": 343367179,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-26T15:22:12Z",
+            "open_issues": 20,
             "owner": "unimib-datAI",
             "repo": "dfaas",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "faas",
+              "faas-platform",
+              "p2p"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -522,12 +901,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EmuFog: Extensible and Scalable Emulation of Large-Scale Fog Computing Infrastructures",
+            "homepage": "https://arxiv.org/abs/1709.07563",
             "id": 93321557,
             "language": "Kotlin",
+            "license": "MIT",
             "last_commit": "2020-09-28T12:00:01Z",
+            "open_issues": 1,
             "owner": "emufog",
             "repo": "emufog",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "fog-computing",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -538,12 +925,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "py4j gateway for Cloud Sim Plus framework",
+            "homepage": null,
             "id": 141814851,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-08-14T21:02:18Z",
+            "open_issues": 1,
             "owner": "pkoperek",
             "repo": "cloudsimplus-gateway",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "cloudsim",
+              "cloudsimplus",
+              "py4j",
+              "py4j-gateway",
+              "reinforcement-learning",
+              "reinforcement-learning-environments"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -554,12 +953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Toolkit to simulate distributed fog computing environment ",
+            "homepage": null,
             "id": 145996794,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2019-01-06T16:47:51Z",
+            "open_issues": 2,
             "owner": "rtqayyum",
             "repo": "fognetsimpp",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -570,12 +974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MobFogSim - Simulation of Mobility and Migration for Fog Computing",
+            "homepage": null,
             "id": 176374610,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-06T03:27:30Z",
+            "open_issues": 5,
             "owner": "diogomg",
             "repo": "MobFogSim",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -586,12 +995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edge caching simulator",
+            "homepage": null,
             "id": 324121731,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2020-12-27T08:59:24Z",
+            "open_issues": 2,
             "owner": "XiaofeiTJU",
             "repo": "SimEdgeIntel",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -602,12 +1016,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the repository of Emu5GNet built in the EU 5GRail project for ITS/Train communications coexistence in 5G and FRMCS networks.",
+            "homepage": null,
             "id": 532903919,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2024-10-01T07:46:07Z",
+            "open_issues": 0,
             "owner": "tsylla",
             "repo": "5grail-emu5gnet",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -618,12 +1037,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 222949049,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-04-11T18:40:25Z",
+            "open_issues": 3,
             "owner": "DNJha",
             "repo": "IoTSim-Edge",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -634,12 +1058,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECSNeT++ is a simulation framework built on OMNeT++ for Distributed Stream Processing applications running on Edge and Cloud computing environments.",
+            "homepage": "https://sedgecloud.github.io/ECSNeTpp/",
             "id": 188021637,
             "language": "C++",
+            "license": null,
             "last_commit": "2019-06-10T10:02:01Z",
+            "open_issues": 0,
             "owner": "sedgecloud",
             "repo": "ECSNeTpp",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "edge-computing",
+              "omnet-simulation",
+              "omnetpp",
+              "simulation-framework",
+              "stream-processing"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -650,12 +1085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fog emulation platform",
+            "homepage": null,
             "id": 133694719,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-11T21:00:08Z",
+            "open_issues": 1,
             "owner": "fogbed",
             "repo": "fogbed",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -666,12 +1106,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Opportunistic network simulator able to replay mobility traces and emulate data routing and dissemination algorithms",
+            "homepage": null,
             "id": 68085978,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-09-18T11:35:26Z",
+            "open_issues": 0,
             "owner": "raduciobanu",
             "repo": "mobemu",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -682,12 +1127,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Monte-Carlo simulator for Mobile Edge/Cloud Computing",
+            "homepage": null,
             "id": 157194043,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-08-22T09:27:34Z",
+            "open_issues": 1,
             "owner": "vindem",
             "repo": "sleipnir",
-            "stars": 12
+            "stars": 12,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -698,12 +1148,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simulator for large energy-aware fog computing environments 🌱",
+            "homepage": null,
             "id": 318498545,
             "language": "Java",
+            "license": null,
             "last_commit": "2021-07-08T14:59:53Z",
+            "open_issues": 0,
             "owner": "dos-group",
             "repo": "leaf-java",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "edge-computing",
+              "energy-consumption",
+              "fog-computing",
+              "modeling",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -714,12 +1175,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human-readable Simulations with CloudSim",
+            "homepage": null,
             "id": 544001874,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-01T03:32:38Z",
+            "open_issues": 1,
             "owner": "Cloudslab",
             "repo": "cloudsim-express",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -730,12 +1196,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 309556312,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2021-07-14T15:09:52Z",
+            "open_issues": 2,
             "owner": "kalwasel",
             "repo": "IoTSim-Osmosis",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -746,12 +1217,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A framework for running Vehicular Named-Data Networking (V-NDN) simulations in more realistic road traffic mobility scenarios.",
+            "homepage": null,
             "id": 374988911,
             "language": "C++",
+            "license": null,
             "last_commit": "2023-08-09T16:55:16Z",
+            "open_issues": 0,
             "owner": "insert-lab",
             "repo": "ndn4ivc",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -762,12 +1238,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 179916830,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2019-08-09T02:41:05Z",
+            "open_issues": 0,
             "owner": "spirosmastorakis",
             "repo": "CFN",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -778,12 +1259,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EPCSAC: Extensible Platform for Cloud Scheduling Algorithm Comparison ",
+            "homepage": null,
             "id": 233690923,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-22T15:56:05Z",
+            "open_issues": 4,
             "owner": "TNanukem",
             "repo": "EPCSAC",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "algorithm-simulation",
+              "cloud-computing",
+              "research",
+              "research-tool",
+              "saas",
+              "scheduling-algorithms",
+              "simulation"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -794,12 +1288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 355969327,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2021-04-12T06:31:32Z",
+            "open_issues": 1,
             "owner": "telematics-dev",
             "repo": "MEC-simulator",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -810,12 +1309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 702488229,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-02-04T09:02:08Z",
+            "open_issues": 0,
             "owner": "6G-Future-Lab-Bavaria",
             "repo": "NextGSim",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -826,12 +1330,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MintEDGE is a flexible edge computing simulation framework that allows the configuration of various aspects of the infrastructure and enables researchers to test novel energy optimization strategies",
+            "homepage": null,
             "id": 667335999,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-27T12:21:45Z",
+            "open_issues": 1,
             "owner": "blasf1",
             "repo": "MintEDGE",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -842,12 +1351,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An emulator for Web of Things applications programmed on top of WoTPy that is based on Docker Swarm Mode",
+            "homepage": null,
             "id": 269609276,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-28T15:24:31Z",
+            "open_issues": 0,
             "owner": "agmangas",
             "repo": "wotemu",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "docker-swarm-mode",
+              "edge-computing",
+              "emulator",
+              "fog-computing",
+              "internet-of-things",
+              "iot",
+              "python",
+              "web-of-things",
+              "wot"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -858,12 +1382,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simulated Testbed for Edge-Fog Processes based on the ONE simulator",
+            "homepage": null,
             "id": 225335957,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-02-20T21:10:45Z",
+            "open_issues": 0,
             "owner": "jaks6",
             "repo": "step-one",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "bpmn",
+              "edge-computing",
+              "flowable",
+              "fog-computing",
+              "process-management",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -874,12 +1410,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VirtFogSim is a MATLAB-supported software toolbox that allows the dynamic joint optimization and tracking of the energy and delay performance of Mobile-Fog-Cloud systems for the execution of applications described by general Directed Application Graphs (DAGs)",
+            "homepage": null,
             "id": 169284472,
             "language": "MATLAB",
+            "license": "MIT",
             "last_commit": "2020-12-31T22:45:15Z",
+            "open_issues": 1,
             "owner": "mscarpiniti",
             "repo": "VirtFogSim",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -890,12 +1431,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simulator for the Fog Application Allocation Problem (FAAP)",
+            "homepage": null,
             "id": 148287261,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2018-09-12T13:48:38Z",
+            "open_issues": 0,
             "owner": "MSuter6",
             "repo": "faap-simulator",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "fog-computing",
+              "linear-programming",
+              "simulation",
+              "virtual-network-embedding"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -906,12 +1457,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edge and Cloud Hybrid Optimization Environment Simulator (ECHOES)",
+            "homepage": null,
             "id": 716029290,
             "language": "PHP",
+            "license": "GPL-3.0",
             "last_commit": "2024-02-07T22:41:17Z",
+            "open_issues": 0,
             "owner": "TadavomnisT",
             "repo": "ECHOES",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -922,12 +1478,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network-of-Systems Simulator",
+            "homepage": null,
             "id": 194450794,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-06-29T21:28:47Z",
+            "open_issues": 0,
             "owner": "zoranzhao",
             "repo": "NoSSim",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -938,12 +1499,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 136185023,
             "language": "Java",
+            "license": null,
             "last_commit": "2018-08-06T00:10:20Z",
+            "open_issues": 2,
             "owner": "jihall77",
             "repo": "pFogSim",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -954,12 +1520,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EmuEdge: a scalable, Hi-Fi, highly-automated real-life network emulator based on Xen/Linux Netns/OvS, supports the networking of container/vm/physical machines.",
+            "homepage": null,
             "id": 178726433,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-08-17T20:56:00Z",
+            "open_issues": 0,
             "owner": "emuedge",
             "repo": "emuedge",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         }
@@ -978,12 +1549,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+                "homepage": "https://openclaw.ai",
                 "id": 1103012935,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T11:39:52Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:41:07Z",
+                "open_issues": 5725,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 387896
+                "stars": 387949,
+                "topics": [
+                  "ai",
+                  "assistant",
+                  "crustacean",
+                  "molty",
+                  "openclaw",
+                  "own-your-data",
+                  "personal"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             }
@@ -1001,12 +1585,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "😎 Curated list of awesome things regarding the WebAssembly (wasm) ecosystem.",
+                "homepage": null,
                 "id": 89355243,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-11-15T14:58:04Z",
+                "open_issues": 95,
                 "owner": "mbasso",
                 "repo": "awesome-wasm",
-                "stars": 9632
+                "stars": 9632,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "awesome-wasm",
+                  "awesome-webassembly",
+                  "list",
+                  "lists",
+                  "resources",
+                  "wasm",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1017,12 +1616,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Kubernetes Native Edge Computing Framework (project under CNCF)",
+                "homepage": "https://kubeedge.io",
                 "id": 150713223,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T08:27:47Z",
+                "open_issues": 1280,
                 "owner": "kubeedge",
                 "repo": "kubeedge",
-                "stars": 7559
+                "stars": 7559,
+                "topics": [
+                  "cloud-native",
+                  "cncf",
+                  "container",
+                  "device-management",
+                  "docker",
+                  "edge-computing",
+                  "golang",
+                  "iot",
+                  "kubernetes",
+                  "mosquitto",
+                  "mqtt"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1033,12 +1649,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An all-in-one hacking tool to remotely exploit Android devices using ADB and Metasploit-Framework to get a Meterpreter session.",
+                "homepage": "https://phonesploitpro.vercel.app",
                 "id": 581884183,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-14T07:28:17Z",
+                "open_issues": 3,
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6126
+                "stars": 6130,
+                "topics": [
+                  "adb",
+                  "android",
+                  "android-debug-bridge",
+                  "android-hacking",
+                  "collaborate",
+                  "cybersecurity",
+                  "exploit",
+                  "hack",
+                  "hacking",
+                  "hacking-script",
+                  "hacking-tool",
+                  "hacktoberfest",
+                  "metasploit-framework",
+                  "meterpreter",
+                  "penetration-testing",
+                  "pentest-tool",
+                  "pentesting",
+                  "phonesploit",
+                  "phonesploit-pro",
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1049,12 +1691,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebAssembly Micro Runtime (WAMR)",
+                "homepage": null,
                 "id": 184654298,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T07:28:23Z",
+                "open_issues": 605,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6079
+                "stars": 6079,
+                "topics": [
+                  "aot",
+                  "assembly-script",
+                  "embedded",
+                  "interpreter",
+                  "iot",
+                  "jit",
+                  "pthread",
+                  "runtime",
+                  "sgx",
+                  "wasi-nn",
+                  "wasi-threads",
+                  "wasm",
+                  "wasm-socket",
+                  "webassembly"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1065,12 +1727,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenYurt - Extending your native Kubernetes to edge(project under CNCF)",
+                "homepage": "https://openyurt.io",
                 "id": 265800635,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-24T07:17:23Z",
+                "open_issues": 133,
                 "owner": "openyurtio",
                 "repo": "openyurt",
-                "stars": 2000
+                "stars": 2000,
+                "topics": [
+                  "cloud-native",
+                  "edge-computing",
+                  "golang",
+                  "k8s",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1081,12 +1754,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extend cloud computing, data and service seamlessly to edge devices.",
+                "homepage": "https://baetyl.io/",
                 "id": 148293609,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-11T06:12:43Z",
+                "open_issues": 7,
                 "owner": "baetyl",
                 "repo": "baetyl",
-                "stars": 1902
+                "stars": 1902,
+                "topics": [
+                  "container",
+                  "docker",
+                  "edge",
+                  "edge-computing",
+                  "faas",
+                  "functions-as-a-service",
+                  "golang",
+                  "iot",
+                  "micro-service",
+                  "ml-in-production",
+                  "mqtt"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1097,12 +1787,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An edge-native container management system for edge computing",
+                "homepage": "https://superedge.io",
                 "id": 322759957,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2024-02-20T10:02:19Z",
+                "open_issues": 39,
                 "owner": "superedge",
                 "repo": "superedge",
-                "stars": 1069
+                "stars": 1069,
+                "topics": [
+                  "container",
+                  "edge-computing",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1113,12 +1812,37 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Cross-platform on-device AI toolkit",
+                "homepage": "https://xybrid.ai",
                 "id": 1115684492,
                 "language": "Rust",
-                "last_commit": "2026-08-28T10:55:07Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:26:47Z",
+                "open_issues": 50,
                 "owner": "xybrid-ai",
                 "repo": "xybrid",
-                "stars": 430
+                "stars": 431,
+                "topics": [
+                  "ai-games",
+                  "edge-ai",
+                  "ios",
+                  "kotlin",
+                  "llamacpp",
+                  "llm",
+                  "mobile-llm",
+                  "ollama",
+                  "on-device-ai",
+                  "on-device-ml",
+                  "onnx-runtime",
+                  "privacy",
+                  "privacy-tools",
+                  "rust",
+                  "swift",
+                  "unity-ai",
+                  "unity3d",
+                  "voice-ai",
+                  "voice-assistant"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1129,12 +1853,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Distributed C++ services from embedded to enterprise",
+                "homepage": "https://www.areg.tech",
                 "id": 392349560,
                 "language": "C++",
-                "last_commit": "2026-08-28T08:01:55Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:11:48Z",
+                "open_issues": 22,
                 "owner": "aregtech",
                 "repo": "areg-sdk",
-                "stars": 362
+                "stars": 362,
+                "topics": [
+                  "cpp",
+                  "cross-platform",
+                  "distributed-systems",
+                  "edge-computing",
+                  "embedded",
+                  "fault-tolerance",
+                  "interprocess-communication",
+                  "iot",
+                  "iot-framework",
+                  "ipc",
+                  "middleware",
+                  "pubsub",
+                  "real-time-systems",
+                  "realtime",
+                  "rpc",
+                  "rpc-framework",
+                  "service-discovery",
+                  "service-mesh",
+                  "thread-safe",
+                  "zero-configuration"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1145,12 +1895,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Simplified network and services for edge applications",
+                "homepage": "https://edgemesh.netlify.app/",
                 "id": 366643654,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-10T13:39:01Z",
+                "open_issues": 60,
                 "owner": "kubeedge",
                 "repo": "edgemesh",
-                "stars": 291
+                "stars": 291,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1161,12 +1916,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "FogFlow is a standard-based IoT fog computing framework that supports serverless computing and edge computing with advanced programming models",
+                "homepage": "https://fogflow.readthedocs.io",
                 "id": 110752477,
                 "language": "Go",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-05-09T09:32:15Z",
+                "open_issues": 10,
                 "owner": "smartfog",
                 "repo": "fogflow",
-                "stars": 132
+                "stars": 132,
+                "topics": [
+                  "edge-computing",
+                  "fiware",
+                  "fog-computing",
+                  "function-as-a-service",
+                  "intent-based",
+                  "iot",
+                  "ngsi",
+                  "ngsi-ld",
+                  "programming-model",
+                  "serverless-computing",
+                  "serverless-functions"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1177,12 +1949,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "World's first fully integrated and fully Automated Kubernetes management and orchestration solution",
+                "homepage": "https://console.kubestellar.io",
                 "id": 1135473716,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T11:03:13Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T04:36:19Z",
+                "open_issues": 13,
                 "owner": "kubestellar",
                 "repo": "console",
-                "stars": 129
+                "stars": 129,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1193,12 +1970,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The 30 MB open-source edge AI agent runtime. Run AI agents offline on Linux (Raspberry Pi, Jetson). GPIO, UART, MQTT as first-class nodes. Industrial protocols (OPC-UA, Modbus) on the roadmap.",
+                "homepage": "https://app.foresthub.ai",
                 "id": 1243243191,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-24T14:30:27Z",
+                "open_issues": 0,
                 "owner": "ForestHubAI",
                 "repo": "edge-agents",
-                "stars": 100
+                "stars": 100,
+                "topics": [
+                  "agent-runtime",
+                  "ai-agents",
+                  "edge-agents",
+                  "edge-ai",
+                  "edge-computing",
+                  "edge-devices",
+                  "embedded",
+                  "embedded-agents",
+                  "foresthub",
+                  "golang",
+                  "iot",
+                  "linux",
+                  "llm",
+                  "mqtt",
+                  "raspberry-pi",
+                  "react",
+                  "slm"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1209,12 +2009,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "One API from microcontroller to browser. Define data contracts once, enforce everywhere.",
+                "homepage": "https://aimdb.dev",
                 "id": 1061389408,
                 "language": "Rust",
-                "last_commit": "2026-08-27T20:29:53Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T18:20:09Z",
+                "open_issues": 6,
                 "owner": "aimdb-dev",
                 "repo": "aimdb",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "async",
+                  "cloud",
+                  "datalayer",
+                  "edge",
+                  "edge-computing",
+                  "embedded",
+                  "fog-computing",
+                  "iot",
+                  "mcu",
+                  "mqtt",
+                  "rust"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1225,12 +2042,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Framework for Edge NOde Resource Management",
+                "homepage": null,
                 "id": 157710885,
                 "language": "Objective-C",
+                "license": "Apache-2.0",
                 "last_commit": "2018-11-15T16:10:19Z",
+                "open_issues": 0,
                 "owner": "qub-blesson",
                 "repo": "ENORM",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1241,12 +2063,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An implementation of the Open Carrier Interface",
+                "homepage": null,
                 "id": 96841492,
                 "language": "Java",
+                "license": "BSD-2-Clause",
                 "last_commit": "2018-11-06T18:39:02Z",
+                "open_issues": 0,
                 "owner": "marckoerner",
                 "repo": "oci",
-                "stars": 0
+                "stars": 0,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             }
@@ -1264,12 +2091,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
+                "homepage": "http://caesar0301.github.io/awesome-pcaptools",
                 "id": 4415789,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-09-03T07:24:40Z",
+                "open_issues": 14,
                 "owner": "caesar0301",
                 "repo": "awesome-pcaptools",
-                "stars": 3414
+                "stars": 3416,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1280,12 +2112,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line utility for limiting an adapter's bandwidth",
+                "homepage": null,
                 "id": 5762987,
                 "language": "Shell",
+                "license": "GPL-2.0",
                 "last_commit": "2024-07-25T02:46:32Z",
+                "open_issues": 43,
                 "owner": "magnific0",
                 "repo": "wondershaper",
-                "stars": 1896
+                "stars": 1896,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1296,12 +2133,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The POX network software platform",
+                "homepage": "https://noxrepo.github.io/pox-doc/html/",
                 "id": 3382021,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-10-19T18:35:05Z",
+                "open_issues": 48,
                 "owner": "noxrepo",
                 "repo": "pox",
-                "stars": 648
+                "stars": 648,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1312,12 +2154,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Komondor Wireless Networks Simulator",
+                "homepage": null,
                 "id": 80037854,
                 "language": "Java",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-12T12:10:13Z",
+                "open_issues": 20,
                 "owner": "wn-upf",
                 "repo": "Komondor",
-                "stars": 89
+                "stars": 89,
+                "topics": [
+                  "events",
+                  "learning",
+                  "networks",
+                  "simulator",
+                  "wireless"
+                ]
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             },
@@ -1328,12 +2181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 126839859,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2019-01-14T12:04:27Z",
+                "open_issues": 0,
                 "owner": "harnen",
                 "repo": "timers",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
             }
@@ -1355,12 +2213,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cluster data collected from production clusters in Alibaba for cluster management research",
+            "homepage": null,
             "id": 102428537,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-06-03T02:11:46Z",
+            "open_issues": 126,
             "owner": "alibaba",
             "repo": "clusterdata",
-            "stars": 2160
+            "stars": 2161,
+            "topics": [
+              "dataset"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1371,12 +2236,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference implementations of MLPerf® inference benchmarks",
+            "homepage": "https://mlcommons.org/en/groups/inference",
             "id": 148566613,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T17:34:26Z",
+            "open_issues": 198,
             "owner": "mlcommons",
             "repo": "inference",
-            "stars": 1622
+            "stars": 1622,
+            "topics": [
+              "benchmark",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1387,12 +2260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MLPerf® Tiny is an ML benchmark suite for extremely low-power systems such as microcontrollers",
+            "homepage": "https://mlcommons.org/en/groups/inference-tiny/",
             "id": 268641449,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-13T15:39:39Z",
+            "open_issues": 21,
             "owner": "mlcommons",
             "repo": "tiny",
-            "stars": 475
+            "stars": 475,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1403,12 +2281,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains datasets for network modeling simulated with OMNet++",
+            "homepage": null,
             "id": 186460974,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-20T14:53:21Z",
+            "open_issues": 3,
             "owner": "BNN-UPC",
             "repo": "NetworkModelingDatasets",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "machine-learning",
+              "network-modeling"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1419,12 +2305,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Demystifying Fog Systems Using Container-based Benchmarking",
+            "homepage": null,
             "id": 181882322,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2019-07-25T08:35:57Z",
+            "open_issues": 0,
             "owner": "qub-blesson",
             "repo": "DeFog",
-            "stars": 36
+            "stars": 36,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         }
@@ -1441,12 +2332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 208503965,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2019-09-14T21:09:37Z",
+            "open_issues": 0,
             "owner": "busyslab",
             "repo": "EdgeCourier",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         }
@@ -1463,12 +2359,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+            "homepage": "https://pytorch.org",
             "id": 65600975,
             "language": "Python",
-            "last_commit": "2026-08-28T11:40:04Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:34:13Z",
+            "open_issues": 17419,
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 102642
+            "stars": 102654,
+            "topics": [
+              "autograd",
+              "deep-learning",
+              "gpu",
+              "machine-learning",
+              "neural-network",
+              "numpy",
+              "python",
+              "tensor"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1479,12 +2389,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ncnn is a high-performance neural network inference framework optimized for the mobile platform",
+            "homepage": null,
             "id": 95879426,
             "language": "C++",
-            "last_commit": "2026-08-28T08:45:31Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T12:35:36Z",
+            "open_issues": 1228,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23760
+            "stars": 23764,
+            "topics": [
+              "android",
+              "arm-neon",
+              "artificial-intelligence",
+              "caffe",
+              "darknet",
+              "deep-learning",
+              "high-preformance",
+              "inference",
+              "ios",
+              "keras",
+              "mlir",
+              "mxnet",
+              "ncnn",
+              "neural-network",
+              "onnx",
+              "pytorch",
+              "riscv",
+              "simd",
+              "tensorflow",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1495,12 +2431,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Universal LLM Deployment Engine with ML Compilation",
+            "homepage": "https://llm.mlc.ai/",
             "id": 634081686,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-17T20:50:06Z",
+            "open_issues": 336,
             "owner": "mlc-ai",
             "repo": "mlc-llm",
-            "stars": 23104
+            "stars": 23106,
+            "topics": [
+              "language-model",
+              "llm",
+              "machine-learning-compilation",
+              "tvm"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1511,12 +2457,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+            "homepage": "https://onnxruntime.ai",
             "id": 156939672,
             "language": "C++",
-            "last_commit": "2026-08-28T11:13:23Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:38:44Z",
+            "open_issues": 1647,
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 21663
+            "stars": 21670,
+            "topics": [
+              "ai-framework",
+              "deep-learning",
+              "hardware-acceleration",
+              "machine-learning",
+              "neural-networks",
+              "onnx",
+              "pytorch",
+              "scikit-learn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1527,12 +2488,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.",
+            "homepage": null,
             "id": 181436799,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:46:12Z",
+            "open_issues": 40,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15983
+            "stars": 15990,
+            "topics": [
+              "arm",
+              "convolution",
+              "deep-learning",
+              "embedded-devices",
+              "llm",
+              "machine-learning",
+              "ml",
+              "mnn",
+              "transformer",
+              "vulkan",
+              "winograd-algorithm"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1543,12 +2521,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PaddlePaddle High Performance Deep Learning Inference Engine for Mobile and Edge (飞桨高性能深度学习端侧推理引擎）",
+            "homepage": "https://www.paddlepaddle.org.cn/lite",
             "id": 104208128,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-27T09:16:13Z",
+            "open_issues": 49,
             "owner": "PaddlePaddle",
             "repo": "Paddle-Lite",
-            "stars": 7273
+            "stars": 7273,
+            "topics": [
+              "arm",
+              "baidu",
+              "deep-learning",
+              "embedded",
+              "fpga",
+              "mali",
+              "mdl",
+              "mobile",
+              "mobile-deep-learning",
+              "neural-network"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1559,12 +2553,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Industrial Grade Federated Learning Framework",
+            "homepage": null,
             "id": 167349656,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-19T08:19:11Z",
+            "open_issues": 18,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6090
+            "stars": 6090,
+            "topics": [
+              "algorithm",
+              "fate",
+              "federated-learning",
+              "machine-learning",
+              "privacy-preserving"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1575,12 +2580,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ Pure-Rust WebGPU inference engine — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary.",
+            "homepage": null,
             "id": 1046584285,
             "language": "Rust",
-            "last_commit": "2026-08-27T20:27:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:07:13Z",
+            "open_issues": 8,
             "owner": "Michael-A-Kuykendall",
             "repo": "shimmy",
-            "stars": 5810
+            "stars": 5809,
+            "topics": [
+              "api-server",
+              "command-line-tool",
+              "developer-tools",
+              "gguf",
+              "huggingface",
+              "huggingface-models",
+              "huggingface-transformers",
+              "inference-server",
+              "llama",
+              "llamacpp",
+              "llm-inference",
+              "local-ai",
+              "machine-learning",
+              "ollama-api",
+              "openai-compatible",
+              "rust",
+              "rust-crate",
+              "transformers",
+              "webgpu",
+              "webgpu-shaders"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1591,12 +2622,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.",
+            "homepage": null,
             "id": 138826968,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-17T09:17:33Z",
+            "open_issues": 62,
             "owner": "XiaoMi",
             "repo": "mace",
-            "stars": 5046
+            "stars": 5046,
+            "topics": [
+              "deep-learning",
+              "hvx",
+              "machine-learning",
+              "neon",
+              "neural-network",
+              "opencl"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1607,12 +2650,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MegEngine 是一个快速、可拓展、易于使用且支持自动求导的深度学习框架",
+            "homepage": "https://megengine.org.cn/",
             "id": 248175118,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-24T10:10:58Z",
+            "open_issues": 173,
             "owner": "MegEngine",
             "repo": "MegEngine",
-            "stars": 4809
+            "stars": 4809,
+            "topics": [
+              "autograd",
+              "deep-learning",
+              "gpu",
+              "machine-learning",
+              "megengine",
+              "numpy",
+              "python",
+              "tensor"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1623,12 +2680,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TNN: developed by Tencent Youtu Lab and Guangying Lab, a uniform deep learning inference framework for mobile、desktop and server. TNN is distinguished by several outstanding features, including its cross-platform capability, high performance, model compression and code pruning. Based on ncnn and Rapidnet, TNN further strengthens the support and performance optimization for mobile devices, and also draws on the advantages of good extensibility and high performance from existed open source efforts. TNN has been deployed in multiple Apps from Tencent, such as Mobile QQ, Weishi, Pitu, etc. Contributions are welcome to work in collaborative with us and make TNN a better framework. ",
+            "homepage": null,
             "id": 267792621,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2025-05-09T07:33:14Z",
+            "open_issues": 318,
             "owner": "Tencent",
             "repo": "TNN",
-            "stars": 4648
+            "stars": 4648,
+            "topics": [
+              "coreml",
+              "deep-learning",
+              "face-detection",
+              "hairsegmentaion",
+              "inference",
+              "mnn",
+              "ncnn",
+              "ocr",
+              "openvino",
+              "pytorch",
+              "tengine",
+              "tensorflow",
+              "tensorrt"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1639,12 +2715,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tengine is a lite, high performance, modular inference engine for embedded device ",
+            "homepage": null,
             "id": 115765590,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-06T07:12:55Z",
+            "open_issues": 252,
             "owner": "OAID",
             "repo": "Tengine",
-            "stars": 4531
+            "stars": 4532,
+            "topics": [
+              "acl",
+              "arm",
+              "artificial-intelligence",
+              "cnn",
+              "container",
+              "cuda",
+              "machine-learning",
+              "mips",
+              "npu",
+              "nvdla",
+              "onnx",
+              "pytorch",
+              "riscv",
+              "supperedge",
+              "tensorflow",
+              "tensorrt",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1655,12 +2754,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] DepGraph: Towards Any Structural Pruning; LLMs, Vision Foundation Models, etc.",
+            "homepage": "https://arxiv.org/abs/2301.12900",
             "id": 228203350,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-09-07T17:25:20Z",
+            "open_issues": 339,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3348
+            "stars": 3348,
+            "topics": [
+              "efficient-deep-learning",
+              "llm",
+              "model-compression",
+              "pruning",
+              "transformers",
+              "vision"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1671,12 +2782,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Compute Library is a set of computer vision and machine learning functions optimised for both Arm CPUs and GPUs using SIMD technologies.",
+            "homepage": null,
             "id": 84570214,
             "language": "C++",
+            "license": null,
             "last_commit": "2026-08-27T13:32:39Z",
+            "open_issues": 3,
             "owner": "ARM-software",
             "repo": "ComputeLibrary",
-            "stars": 3184
+            "stars": 3185,
+            "topics": [
+              "aarch64",
+              "android",
+              "arm",
+              "armv7",
+              "armv8",
+              "computer-vision",
+              "cpp",
+              "linux",
+              "machine-learning",
+              "neon",
+              "neural-network",
+              "opencl",
+              "simd",
+              "sve"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1687,12 +2818,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AIMET is a library that provides advanced quantization and compression techniques for trained neural network models.",
+            "homepage": "https://quic.github.io/aimet-pages/index.html",
             "id": 257688216,
             "language": "Python",
-            "last_commit": "2026-08-28T03:35:18Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T22:26:52Z",
+            "open_issues": 26,
             "owner": "qualcomm",
             "repo": "aimet",
-            "stars": 2690
+            "stars": 2690,
+            "topics": [
+              "auto-ml",
+              "compression",
+              "deep-learning",
+              "deep-neural-networks",
+              "machine-learning",
+              "network-compression",
+              "network-quantization",
+              "open-source",
+              "opensource",
+              "pruning",
+              "quantization"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1703,12 +2851,37 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Libraries for applying sparsification recipes to neural networks with a few lines of code, enabling faster and smaller models",
+            "homepage": null,
             "id": 320591199,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-02T20:02:18Z",
+            "open_issues": 1,
             "owner": "neuralmagic",
             "repo": "sparseml",
-            "stars": 2144
+            "stars": 2144,
+            "topics": [
+              "automl",
+              "computer-vision-algorithms",
+              "deep-learning-algorithms",
+              "deep-learning-library",
+              "deep-learning-models",
+              "image-classification",
+              "keras",
+              "nlp",
+              "object-detection",
+              "onnx",
+              "pruning",
+              "pruning-algorithms",
+              "pytorch",
+              "smaller-models",
+              "sparsification",
+              "sparsification-recipes",
+              "sparsity",
+              "tensorflow",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1719,12 +2892,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2020] Once for All: Train One Network and Specialize it for Efficient Deployment",
+            "homepage": "https://ofa.mit.edu/",
             "id": 231969325,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-14T04:44:52Z",
+            "open_issues": 60,
             "owner": "mit-han-lab",
             "repo": "once-for-all",
-            "stars": 1956
+            "stars": 1956,
+            "topics": [
+              "acceleration",
+              "automl",
+              "edge-ai",
+              "efficient-model",
+              "nas",
+              "tinyml"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1735,12 +2920,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TinyML AI inference library",
+            "homepage": null,
             "id": 104375922,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2025-05-10T08:53:34Z",
+            "open_issues": 56,
             "owner": "uTensor",
             "repo": "uTensor",
-            "stars": 1928
+            "stars": 1928,
+            "topics": [
+              "cortex-m",
+              "deep-learning",
+              "edge-computing",
+              "embedded",
+              "iot",
+              "iot-middleware",
+              "machine-learning",
+              "mbed",
+              "microcontroller",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1751,12 +2952,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "一款简单易用和高性能的AI部署框架 | An Easy-to-Use and High-Performance AI Deployment Framework",
+            "homepage": "https://nndeploy-zh.readthedocs.io/zh-cn/latest/",
             "id": 676114409,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-15T13:56:15Z",
+            "open_issues": 23,
             "owner": "nndeploy",
             "repo": "nndeploy",
-            "stars": 1868
+            "stars": 1868,
+            "topics": [
+              "ai",
+              "ascend",
+              "deep-learning",
+              "deployment",
+              "diffusers",
+              "genai",
+              "llm",
+              "low-code",
+              "low-code-platform",
+              "mnn",
+              "no-code",
+              "onnxruntime",
+              "openvino",
+              "python",
+              "pytorch",
+              "tensorrt",
+              "transformer",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1767,12 +2992,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep learning gateway on Raspberry Pi and other edge devices",
+            "homepage": null,
             "id": 89620113,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-16T03:10:29Z",
+            "open_issues": 21,
             "owner": "DT42",
             "repo": "BerryNet",
-            "stars": 1610
+            "stars": 1610,
+            "topics": [
+              "aiot",
+              "deep-learning",
+              "edge-ai",
+              "edge-computing",
+              "edge-devices",
+              "iot",
+              "mqtt",
+              "openvino",
+              "raspberry-pi",
+              "tensorflow",
+              "tensorrt"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1783,12 +3025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model Quantization Benchmark",
+            "homepage": null,
             "id": 397953975,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-04-20T15:29:16Z",
+            "open_issues": 17,
             "owner": "ModelTC",
             "repo": "MQBench",
-            "stars": 880
+            "stars": 880,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1799,12 +3046,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adlik: Toolkit for Accelerating Deep Learning Inference",
+            "homepage": null,
             "id": 210452618,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-27T07:39:13Z",
+            "open_issues": 30,
             "owner": "Adlik",
             "repo": "Adlik",
-            "stars": 806
+            "stars": 806,
+            "topics": [
+              "compiler",
+              "deep-learning",
+              "docker-images",
+              "inference",
+              "inference-engine",
+              "model-optimizer",
+              "openvino",
+              "tensorflow-serving",
+              "tensorrt"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1815,12 +3077,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "dabnn is an accelerated binary neural networks inference framework for mobile platform",
+            "homepage": null,
             "id": 184598655,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2019-11-12T01:49:55Z",
+            "open_issues": 17,
             "owner": "JDAI-CV",
             "repo": "dabnn",
-            "stars": 773
+            "stars": 773,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1831,12 +3098,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Federated Optimization in Heterogeneous Networks (MLSys '20)",
+            "homepage": null,
             "id": 167483572,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-24T21:55:06Z",
+            "open_issues": 11,
             "owner": "litian96",
             "repo": "FedProx",
-            "stars": 734
+            "stars": 734,
+            "topics": [
+              "distributed-optimization",
+              "federated-optimization",
+              "large-scale-learning",
+              "parallel-learning"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1847,12 +3124,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ns3-gym - The Playground for Reinforcement Learning in Networking Research",
+            "homepage": null,
             "id": 152056923,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-02-05T17:21:55Z",
+            "open_issues": 51,
             "owner": "tkn-tub",
             "repo": "ns3-gym",
-            "stars": 691
+            "stars": 691,
+            "topics": [
+              "gym-environment",
+              "ns3",
+              "openai-gym",
+              "reinforcement-learning",
+              "reinforcement-learning-environments"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1863,12 +3151,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model Compression Toolkit (MCT) is an open source project for neural network model optimization under efficient, constrained hardware. This project provides researchers, developers, and engineers advanced quantization and compression tools for deploying state-of-the-art neural networks.",
+            "homepage": "https://sonysemiconductorsolutions.github.io/mct-model-optimization/",
             "id": 378795568,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T01:26:31Z",
+            "open_issues": 6,
             "owner": "SonySemiconductorSolutions",
             "repo": "mct-model-optimization",
-            "stars": 449
+            "stars": 449,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "edge-ai",
+              "machine-learning",
+              "network-compression",
+              "network-quantization",
+              "neural-network",
+              "optimizer",
+              "ptq",
+              "pytorch",
+              "qat",
+              "quantization",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1879,12 +3186,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Neural network model repository for highly sparse and sparse-quantized models with matching sparsification recipes",
+            "homepage": null,
             "id": 320590749,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-02T15:45:20Z",
+            "open_issues": 1,
             "owner": "neuralmagic",
             "repo": "sparsezoo",
-            "stars": 388
+            "stars": 388,
+            "topics": [
+              "computer-vision",
+              "deep-learning-algorithms",
+              "deep-learning-models",
+              "mobilenet",
+              "models-optimized",
+              "nlp",
+              "object-detection-model",
+              "pretrained-models",
+              "pruning",
+              "quantization",
+              "resnet",
+              "smaller-models",
+              "sparse-quantized-models",
+              "sparsification-recipe",
+              "transfer-learning",
+              "yolo"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1895,12 +3224,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A DNN inference latency prediction toolkit for accurately modeling and predicting the latency on diverse edge devices. ",
+            "homepage": null,
             "id": 361631547,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-30T21:16:54Z",
+            "open_issues": 25,
             "owner": "microsoft",
             "repo": "nn-Meter",
-            "stars": 364
+            "stars": 364,
+            "topics": [
+              "deep-learning",
+              "deep-neural-networks",
+              "edge-ai",
+              "edge-computing",
+              "efficient-model",
+              "inference",
+              "latency",
+              "machine-learning",
+              "neural-architecture-search",
+              "onnx-models",
+              "python",
+              "pytorch",
+              "tensorflow-models"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1911,12 +3259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Enable the interaction between ns-3 and popular frameworks using Python, which mean you can train and test your AI algorithms in ns-3 without changing any frameworks you are using now! ",
+            "homepage": null,
             "id": 217401217,
             "language": "C++",
+            "license": "GPL-2.0",
             "last_commit": "2026-07-15T08:53:12Z",
+            "open_issues": 62,
             "owner": "hust-diangroup",
             "repo": "ns3-ai",
-            "stars": 357
+            "stars": 357,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1927,12 +3280,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "(New version is out: https://github.com/hpi-xnor/BMXNet-v2) BMXNet: An Open-Source Binary Neural Network Implementation Based on MXNet",
+            "homepage": null,
             "id": 92060516,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-18T09:31:01Z",
+            "open_issues": 0,
             "owner": "hpi-xnor",
             "repo": "BMXNet",
-            "stars": 351
+            "stars": 351,
+            "topics": [
+              "binary-neural-networks",
+              "deep-learning",
+              "mxnet",
+              "xnor-convolutions"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1943,12 +3306,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "KitNET is a lightweight online anomaly detection algorithm, which uses an ensemble of autoencoders.",
+            "homepage": null,
             "id": 110032835,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-28T23:18:44Z",
+            "open_issues": 3,
             "owner": "ymirsky",
             "repo": "KitNET-py",
-            "stars": 262
+            "stars": 262,
+            "topics": [
+              "anomaly-detection",
+              "autoencoder",
+              "incremental",
+              "machine-learning",
+              "neural-networks"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1959,12 +3333,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Distributed Synergy AI Benchmarking",
+            "homepage": "https://ianvs.readthedocs.io",
             "id": 512980605,
             "language": "Python",
-            "last_commit": "2026-08-27T08:52:58Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T19:31:24Z",
+            "open_issues": 534,
             "owner": "kubeedge",
             "repo": "ianvs",
-            "stars": 195
+            "stars": 195,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1975,12 +3354,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm. In ECCV 2018 and IJCV",
+            "homepage": null,
             "id": 146231461,
             "language": "C++",
+            "license": null,
             "last_commit": "2021-03-28T14:12:51Z",
+            "open_issues": 17,
             "owner": "liuzechun",
             "repo": "Bi-Real-net",
-            "stars": 185
+            "stars": 185,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -1991,12 +3375,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Programmable Neural Network Compression",
+            "homepage": null,
             "id": 189249245,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-26T18:35:45Z",
+            "open_issues": 6,
             "owner": "NVlabs",
             "repo": "condensa",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "deep-neural-networks",
+              "model-compression",
+              "model-pruning"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2007,12 +3400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 86640351,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-10-03T21:43:08Z",
+            "open_issues": 8,
             "owner": "kunglab",
             "repo": "branchynet",
-            "stars": 138
+            "stars": 138,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2023,12 +3421,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 86645466,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-01-02T11:05:49Z",
+            "open_issues": 4,
             "owner": "kunglab",
             "repo": "ddnn",
-            "stars": 120
+            "stars": 120,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2039,12 +3442,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Portable C Library for Distributed CNN Inference on IoT Edge Clusters",
+            "homepage": null,
             "id": 144171495,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2021-04-29T20:09:21Z",
+            "open_issues": 0,
             "owner": "SLAM-Lab",
             "repo": "DeepThings",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2055,12 +3463,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework",
+            "homepage": null,
             "id": 106208852,
             "language": "Python",
+            "license": null,
             "last_commit": "2017-11-23T21:33:52Z",
+            "open_issues": 1,
             "owner": "yscacaca",
             "repo": "DeepIoT",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2071,12 +3484,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "distributed CNN inference at the edge, extend ncnn with CUDA, MPI+OPENMP support. ",
+            "homepage": null,
             "id": 379379976,
             "language": "C++",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-08-19T10:11:46Z",
+            "open_issues": 1,
             "owner": "parrotsky",
             "repo": "AutoDiCE",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "distributed",
+              "inference"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2087,12 +3508,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 214052163,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2019-10-10T01:27:03Z",
+            "open_issues": 0,
             "owner": "njcpe",
             "repo": "neurosurgeon",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2103,12 +3529,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 470791112,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-01-10T21:22:08Z",
+            "open_issues": 1,
             "owner": "neu-spiral",
             "repo": "CaP",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2119,12 +3550,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 595879952,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2023-04-19T18:02:41Z",
+            "open_issues": 0,
             "owner": "GTkernel",
             "repo": "Pocket",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2135,12 +3571,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Genesis 2 — Cascade MoE Neural Network | CPU-only AI: 10,800 experts, 100% accuracy, 18ms inference | No GPU | Self-hosted alternative to GPT/LLaMA | Affiliate program: 40% commission",
+            "homepage": "https://avlarion.gumroad.com",
             "id": 1268287641,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-18T23:17:22Z",
+            "open_issues": 0,
             "owner": "larionovavi-stack",
             "repo": "genesis2-cascade-moe",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "bilingual",
+              "cascade-moe",
+              "cpu-only",
+              "cybersecurity",
+              "deep-learning",
+              "devops",
+              "linux-administration",
+              "machine-learning",
+              "mixture-of-experts",
+              "network-automation",
+              "neural-network",
+              "nlp",
+              "no-gpu",
+              "on-premise",
+              "patented",
+              "pytorch",
+              "self-hosted",
+              "sysadmin"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         }
@@ -2157,12 +3619,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A curated list of resources for embedded AI",
+            "homepage": null,
             "id": 142336474,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-24T09:23:04Z",
+            "open_issues": 0,
             "owner": "crespum",
             "repo": "edge-ai",
-            "stars": 548
+            "stars": 548,
+            "topics": [
+              "artificial-intelligence",
+              "awesome-list",
+              "edge-computing",
+              "embedded"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         },
@@ -2173,12 +3645,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A qualitative compilation of production-ready frameworks, services and repositories with a focus on Edge Computing & IoT",
+            "homepage": null,
             "id": 390371082,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-11T17:59:41Z",
+            "open_issues": 1,
             "owner": "yarncraft",
             "repo": "awesome-edge",
-            "stars": 43
+            "stars": 43,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "cloud",
+              "cloud-native",
+              "cloudcomputing",
+              "computing",
+              "data-engineering",
+              "database",
+              "edge",
+              "edge-computing",
+              "iot",
+              "iot-platform",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
         }
@@ -2187,15 +3678,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T11:41:31.606Z",
+    "last_updated": "2026-08-29T04:41:08.529Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.",
+      "homepage": null,
       "id": 220168321,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-07-24T00:50:51Z",
+      "open_issues": 1,
       "owner": "qijianpeng",
       "repo": "awesome-edge-computing",
-      "stars": 520
+      "stars": 521,
+      "topics": [
+        "awesome-list",
+        "edge-ai",
+        "edge-computing",
+        "edge-intelligence",
+        "emulation",
+        "fog-computing",
+        "lightweight-framework",
+        "serveless",
+        "simulation",
+        "simulators"
+      ]
     },
     "original_repository_sha": "96b38d3cb95bdc38ef49d9853986172854e93426",
     "enhanced_repository": "enhansome/enhansome-edge-computing",
