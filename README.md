@@ -596,7 +596,7 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
 
 ## Edge AI Hardware Products
 
-* [ClawBox](https://dedicated-ai-hardware.com) - Pre-configured edge AI assistant box powered by NVIDIA Jetson Orin Nano (67 TOPS, 15W). Runs [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 387,949 | 🐛 5,725 | 🌐 TypeScript | 📅 2026-08-29 for always-on, privacy-first AI with multi-platform messaging support.
+* [ClawBox](https://dedicated-ai-hardware.com) - Pre-configured edge AI assistant box powered by NVIDIA Jetson Orin Nano (67 TOPS, 15W). Runs [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 387,952 | 🐛 5,721 | 🌐 TypeScript | 📅 2026-08-29 for always-on, privacy-first AI with multi-platform messaging support.
 
 ## Engine
 
@@ -624,7 +624,7 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
   supporting API's for the WASM applications. 3, The dynamic management of the
   WASM applications
 
-* [OpenYurt](https://github.com/openyurtio/openyurt) ⭐ 2,000 | 🐛 133 | 🌐 Go | 📅 2026-08-24: OpenYurt has been designed
+* [OpenYurt](https://github.com/openyurtio/openyurt) ⭐ 2,000 | 🐛 134 | 🌐 Go | 📅 2026-08-24: OpenYurt has been designed
   to meet various DevOps requirements against typical edge infrastructures. It
   provides the same user experience for managing the edge applications as if
   they were running in the cloud infrastructure. It addresses specific
@@ -670,7 +670,7 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
   metadata of all available data entities, and also usage context on the
   expected QoS defined by users.
 
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 129 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-29: Open source AI-powered
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 129 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-29: Open source AI-powered
   multi-cluster Kubernetes dashboard for hybrid edge and cloud environments. Provides
   real-time observability across edge and cloud clusters with 20+ CNCF integrations
   (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco, OPA/Gatekeeper), AI-guided
@@ -920,7 +920,7 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
 
 # Test (data, benchmark)
 
-* [ClusterData](https://github.com/alibaba/clusterdata) ⭐ 2,161 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-06-03: Alibaba ClusterData is
+* [ClusterData](https://github.com/alibaba/clusterdata) ⭐ 2,162 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-06-03: Alibaba ClusterData is
   a collection of production cluster traces for cloud scheduling, resource
   management, and data center systems research.
 
@@ -1081,12 +1081,12 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
 
 # Edge-AI frameworks
 
-* [Caffe2](https://github.com/pytorch/pytorch/tree/master/caffe2) ⭐ 102,654 | 🐛 17,419 | 🌐 Python | 📅 2026-08-29:Caffe2 is a
+* [Caffe2](https://github.com/pytorch/pytorch/tree/master/caffe2) ⭐ 102,653 | 🐛 17,417 | 🌐 Python | 📅 2026-08-29:Caffe2 is a
   lightweight, modular, and scalable deep learning framework. Building on the
   original Caffe, Caffe2 is designed with expression, speed, and modularity in
   mind.
 
-* [ncnn](https://github.com/Tencent/ncnn) ⭐ 23,764 | 🐛 1,228 | 🌐 C++ | 📅 2026-08-28: ncnn is a high-performance neural
+* [ncnn](https://github.com/Tencent/ncnn) ⭐ 23,764 | 🐛 1,229 | 🌐 C++ | 📅 2026-08-28: ncnn is a high-performance neural
   network inference computing framework optimized for mobile platforms. ncnn is
   deeply considerate about deployment and uses on mobile phones from the
   beginning of design. ncnn does not have third party dependencies. it is
@@ -1097,7 +1097,7 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
   ncnn is currently being used in many Tencent applications, such as QQ, Qzone,
   WeChat, Pitu and so on.
 
-* [MLC LLM](https://github.com/mlc-ai/mlc-llm) ⭐ 23,106 | 🐛 336 | 🌐 Python | 📅 2026-08-17: In recent years, there has been
+* [MLC LLM](https://github.com/mlc-ai/mlc-llm) ⭐ 23,107 | 🐛 336 | 🌐 Python | 📅 2026-08-17: In recent years, there has been
   remarkable progress in generative artificial intelligence (AI) and large
   language models (LLMs), which are becoming increasingly prevalent. Thanks to
   open-source initiatives, it is now possible to develop personal AI assistants
@@ -1108,7 +1108,7 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
   ever-evolving model innovation, memory constraints, and the need for potential
   optimization techniques.
 
-* [ONNX Runtime](https://github.com/microsoft/onnxruntime) ⭐ 21,670 | 🐛 1,647 | 🌐 C++ | 📅 2026-08-29: ONNX Runtime is a
+* [ONNX Runtime](https://github.com/microsoft/onnxruntime) ⭐ 21,670 | 🐛 1,648 | 🌐 C++ | 📅 2026-08-29: ONNX Runtime is a
   cross-platform inference and training machine-learning accelerator. It can
   enable faster customer experiences and lower costs, supporting models from
   deep learning frameworks such as PyTorch and TensorFlow/Keras as well as
@@ -1117,7 +1117,7 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
   operating systems, and provides optimal performance by leveraging hardware
   accelerators where applicable alongside graph optimizations and transforms.
 
-* [MNN](https://github.com/alibaba/MNN) ⭐ 15,990 | 🐛 40 | 🌐 C++ | 📅 2026-08-28: MNN is a highly efficient and
+* [MNN](https://github.com/alibaba/MNN) ⭐ 15,990 | 🐛 41 | 🌐 C++ | 📅 2026-08-28: MNN is a highly efficient and
   lightweight deep learning framework. It supports inference and training of
   deep learning models, and has industry leading performance for inference and
   training on-device. At present, MNN has been integrated in more than 20 apps
@@ -1142,7 +1142,7 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
   logistic regression, tree-based algorithms, deep learning and transfer
   learning.
 
-* [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ⭐ 5,809 | 🐛 8 | 🌐 Rust | 📅 2026-08-29: Self-hosted AI inference
+* [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ⭐ 5,810 | 🐛 8 | 🌐 Rust | 📅 2026-08-29: Self-hosted AI inference
   server with OpenAI API compatibility, designed for edge deployment. Supports
   multiple model formats (GGUF, Core ML, etc.) with built-in streaming and
   multimodal capabilities. Lightweight and fast for resource-constrained edge
@@ -1153,7 +1153,7 @@ languages, and other aspects, please refer to our paper: <https://arxiv.org/abs/
   platforms. MACE provides tools and documents to help users to deploy deep
   learning models to mobile phones, tablets, personal computers and IoT devices.
 
-* [MegEngine](https://github.com/MegEngine/MegEngine) ⭐ 4,809 | 🐛 173 | 🌐 C++ | 📅 2024-10-24: MegEngine is a fast,
+* [MegEngine](https://github.com/MegEngine/MegEngine) ⭐ 4,810 | 🐛 173 | 🌐 C++ | 📅 2024-10-24: MegEngine is a fast,
   scalable and easy-to-use deep learning framework, with auto-differentiation.
 
 * [TNN](https://github.com/Tencent/TNN) ⭐ 4,648 | 🐛 318 | 🌐 C++ | 📅 2025-05-09: TNN: A high-performance, lightweight
