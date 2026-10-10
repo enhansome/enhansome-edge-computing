@@ -19,7 +19,7 @@
             "open_issues": 628,
             "owner": "lgsvl",
             "repo": "simulator",
-            "stars": 2459,
+            "stars": 2460,
             "topics": [
               "3d",
               "airsim",
@@ -61,7 +61,7 @@
             "open_issues": 212,
             "owner": "shadow",
             "repo": "shadow",
-            "stars": 1730,
+            "stars": 1731,
             "topics": [
               "control",
               "emulation",
@@ -114,7 +114,7 @@
             "open_issues": 38,
             "owner": "coreemu",
             "repo": "core",
-            "stars": 834,
+            "stars": 835,
             "topics": [
               "emane",
               "emulating-networks",
@@ -220,7 +220,7 @@
             "open_issues": 12,
             "owner": "intrig-unicamp",
             "repo": "mininet-wifi",
-            "stars": 542,
+            "stars": 543,
             "topics": [
               "emulator",
               "hacktoberfest",
@@ -289,7 +289,7 @@
             "open_issues": 45,
             "owner": "CagataySonmez",
             "repo": "EdgeCloudSim",
-            "stars": 489,
+            "stars": 490,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
@@ -453,7 +453,7 @@
             "id": 3389701,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T15:48:48Z",
+            "last_commit": "2026-10-09T07:10:23Z",
             "open_issues": 19,
             "owner": "simgrid",
             "repo": "simgrid",
@@ -482,7 +482,7 @@
             "open_issues": 18,
             "owner": "Cloudslab",
             "repo": "iFogSim",
-            "stars": 195,
+            "stars": 196,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
@@ -948,27 +948,6 @@
         },
         {
           "node_type": "item",
-          "title": "FogNetSim++",
-          "description": "FogNetSim++ extends OMNeT++, which is a well known framework for building network simulators, to model all these aspects. Moreover, it includes popular communication protocols for simulation, such as TCP, UDP, MQTT, and CoAP. Furthermore, FogNetSim++ models several other aspects, such as energy consumption, pricing, mobility, and handoff mechanisms.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Toolkit to simulate distributed fog computing environment ",
-            "homepage": null,
-            "id": 145996794,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2019-01-06T16:47:51Z",
-            "open_issues": 2,
-            "owner": "rtqayyum",
-            "repo": "fognetsimpp",
-            "stars": 20,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T11:41:31.606Z"
-        },
-        {
-          "node_type": "item",
           "title": "MobFogSim",
           "description": "An extension which can support for Mobility of iFogSim. MobFogSim can model more generalised aspects related to device mobility and VM/container migration in the fog, e.g., user position and speed, connection handoff, migration policies and strategies, to name a few. More details can be found in MobFogSim: Simulation of Mobility and Migration for Fog Computing.",
           "children": [],
@@ -983,6 +962,27 @@
             "open_issues": 5,
             "owner": "diogomg",
             "repo": "MobFogSim",
+            "stars": 21,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T11:41:31.606Z"
+        },
+        {
+          "node_type": "item",
+          "title": "FogNetSim++",
+          "description": "FogNetSim++ extends OMNeT++, which is a well known framework for building network simulators, to model all these aspects. Moreover, it includes popular communication protocols for simulation, such as TCP, UDP, MQTT, and CoAP. Furthermore, FogNetSim++ models several other aspects, such as energy consumption, pricing, mobility, and handoff mechanisms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Toolkit to simulate distributed fog computing environment ",
+            "homepage": null,
+            "id": 145996794,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2019-01-06T16:47:51Z",
+            "open_issues": 2,
+            "owner": "rtqayyum",
+            "repo": "fognetsimpp",
             "stars": 20,
             "topics": []
           },
@@ -1554,11 +1554,11 @@
                 "id": 1103012935,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-09T06:32:59Z",
-                "open_issues": 9341,
+                "last_commit": "2026-10-10T06:16:08Z",
+                "open_issues": 9414,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 391505,
+                "stars": 391556,
                 "topics": [
                   "ai",
                   "assistant",
@@ -1591,10 +1591,10 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-09T05:19:38Z",
-                "open_issues": 110,
+                "open_issues": 111,
                 "owner": "mbasso",
                 "repo": "awesome-wasm",
-                "stars": 9649,
+                "stars": 9648,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1622,10 +1622,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-23T10:31:03Z",
-                "open_issues": 1324,
+                "open_issues": 1325,
                 "owner": "kubeedge",
                 "repo": "kubeedge",
-                "stars": 7600,
+                "stars": 7599,
                 "topics": [
                   "cloud-native",
                   "cncf",
@@ -1658,7 +1658,7 @@
                 "open_issues": 2,
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6344,
+                "stars": 6350,
                 "topics": [
                   "adb",
                   "android",
@@ -1697,10 +1697,10 @@
                 "language": "C",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T01:53:06Z",
-                "open_issues": 620,
+                "open_issues": 626,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6133,
+                "stars": 6134,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -1796,7 +1796,7 @@
                 "open_issues": 39,
                 "owner": "superedge",
                 "repo": "superedge",
-                "stars": 1071,
+                "stars": 1072,
                 "topics": [
                   "container",
                   "edge-computing",
@@ -1817,11 +1817,11 @@
                 "id": 1115684492,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T23:39:04Z",
-                "open_issues": 45,
+                "last_commit": "2026-10-09T18:20:06Z",
+                "open_issues": 44,
                 "owner": "xybrid-ai",
                 "repo": "xybrid",
-                "stars": 467,
+                "stars": 469,
                 "topics": [
                   "ai-games",
                   "edge-ai",
@@ -1921,8 +1921,8 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T06:08:48Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-10T05:57:10Z",
+                "open_issues": 6,
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 143,
@@ -2014,8 +2014,8 @@
                 "id": 1061389408,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T20:23:33Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-09T20:20:30Z",
+                "open_issues": 4,
                 "owner": "aimdb-dev",
                 "repo": "aimdb",
                 "stars": 101,
@@ -2100,7 +2100,7 @@
                 "open_issues": 15,
                 "owner": "caesar0301",
                 "repo": "awesome-pcaptools",
-                "stars": 3430,
+                "stars": 3431,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
@@ -2222,7 +2222,7 @@
             "open_issues": 130,
             "owner": "alibaba",
             "repo": "clusterdata",
-            "stars": 2222,
+            "stars": 2223,
             "topics": [
               "dataset"
             ]
@@ -2245,7 +2245,7 @@
             "open_issues": 205,
             "owner": "mlcommons",
             "repo": "inference",
-            "stars": 1641,
+            "stars": 1643,
             "topics": [
               "benchmark",
               "machine-learning"
@@ -2269,7 +2269,7 @@
             "open_issues": 23,
             "owner": "mlcommons",
             "repo": "tiny",
-            "stars": 481,
+            "stars": 482,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
@@ -2364,11 +2364,11 @@
             "id": 65600975,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T06:31:44Z",
-            "open_issues": 17698,
+            "last_commit": "2026-10-10T06:14:00Z",
+            "open_issues": 17700,
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 103924,
+            "stars": 104013,
             "topics": [
               "autograd",
               "deep-learning",
@@ -2394,11 +2394,11 @@
             "id": 95879426,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T02:33:34Z",
-            "open_issues": 1231,
+            "last_commit": "2026-10-09T16:00:45Z",
+            "open_issues": 1227,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23926,
+            "stars": 23932,
             "topics": [
               "android",
               "arm-neon",
@@ -2437,10 +2437,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T23:36:40Z",
-            "open_issues": 349,
+            "open_issues": 351,
             "owner": "mlc-ai",
             "repo": "mlc-llm",
-            "stars": 23214,
+            "stars": 23227,
             "topics": [
               "language-model",
               "llm",
@@ -2462,11 +2462,11 @@
             "id": 156939672,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-09T06:29:20Z",
-            "open_issues": 1744,
+            "last_commit": "2026-10-10T05:36:30Z",
+            "open_issues": 1724,
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 22039,
+            "stars": 22043,
             "topics": [
               "ai-framework",
               "deep-learning",
@@ -2493,11 +2493,11 @@
             "id": 181436799,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T06:07:39Z",
-            "open_issues": 57,
+            "last_commit": "2026-10-10T03:26:56Z",
+            "open_issues": 49,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16195,
+            "stars": 16203,
             "topics": [
               "arm",
               "convolution",
@@ -2562,7 +2562,7 @@
             "open_issues": 17,
             "owner": "FederatedAI",
             "repo": "FATE",
-            "stars": 6101,
+            "stars": 6103,
             "topics": [
               "algorithm",
               "fate",
@@ -2589,7 +2589,7 @@
             "open_issues": 13,
             "owner": "Michael-A-Kuykendall",
             "repo": "shimmy",
-            "stars": 5956,
+            "stars": 5960,
             "topics": [
               "api-server",
               "command-line-tool",
@@ -2631,7 +2631,7 @@
             "open_issues": 62,
             "owner": "XiaoMi",
             "repo": "mace",
-            "stars": 5053,
+            "stars": 5054,
             "topics": [
               "deep-learning",
               "hvx",
@@ -2659,7 +2659,7 @@
             "open_issues": 173,
             "owner": "MegEngine",
             "repo": "MegEngine",
-            "stars": 4811,
+            "stars": 4810,
             "topics": [
               "autograd",
               "deep-learning",
@@ -2724,7 +2724,7 @@
             "open_issues": 253,
             "owner": "OAID",
             "repo": "Tengine",
-            "stars": 4533,
+            "stars": 4534,
             "topics": [
               "acl",
               "arm",
@@ -2763,7 +2763,7 @@
             "open_issues": 340,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3358,
+            "stars": 3359,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -2823,11 +2823,11 @@
             "id": 257688216,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T00:05:59Z",
+            "last_commit": "2026-10-10T02:08:08Z",
             "open_issues": 29,
             "owner": "qualcomm",
             "repo": "aimet",
-            "stars": 2723,
+            "stars": 2726,
             "topics": [
               "auto-ml",
               "compression",
@@ -3157,7 +3157,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T06:14:15Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "SonySemiconductorSolutions",
             "repo": "mct-model-optimization",
             "stars": 453,
@@ -3576,7 +3576,7 @@
             "id": 1268287641,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T01:44:12Z",
+            "last_commit": "2026-10-10T01:30:34Z",
             "open_issues": 0,
             "owner": "larionovavi-stack",
             "repo": "genesis2-cascade-moe",
@@ -3678,7 +3678,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T06:33:10.396Z",
+    "last_updated": "2026-10-10T06:16:21.480Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.",
