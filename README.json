@@ -93,7 +93,7 @@
             "open_issues": 89,
             "owner": "Cloudslab",
             "repo": "cloudsim",
-            "stars": 1026,
+            "stars": 1025,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
@@ -114,7 +114,7 @@
             "open_issues": 39,
             "owner": "coreemu",
             "repo": "core",
-            "stars": 836,
+            "stars": 837,
             "topics": [
               "emane",
               "emulating-networks",
@@ -144,7 +144,7 @@
             "open_issues": 219,
             "owner": "omnetpp",
             "repo": "omnetpp",
-            "stars": 761,
+            "stars": 762,
             "topics": [
               "academic",
               "c-plus-plus",
@@ -716,7 +716,7 @@
             "open_issues": 4,
             "owner": "wjy491156866",
             "repo": "SatEdgeSim",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
@@ -909,15 +909,15 @@
             "id": 343367179,
             "language": "Python",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-15T19:55:10Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-16T15:37:58Z",
+            "open_issues": 9,
             "owner": "unimib-datAI",
             "repo": "dfaas",
             "stars": 23,
             "topics": [
-              "faas",
-              "faas-platform",
-              "p2p"
+              "function-as-a-service",
+              "peer-to-peer",
+              "prototype"
             ]
           },
           "first_seen": "2026-08-28T11:41:31.606Z"
@@ -1554,11 +1554,11 @@
                 "id": 1103012935,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-16T04:51:42Z",
-                "open_issues": 9460,
+                "last_commit": "2026-10-17T04:52:53Z",
+                "open_issues": 9347,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 392133,
+                "stars": 392217,
                 "topics": [
                   "ai",
                   "assistant",
@@ -1591,7 +1591,7 @@
                 "language": null,
                 "license": "CC0-1.0",
                 "last_commit": "2026-10-09T05:19:38Z",
-                "open_issues": 117,
+                "open_issues": 116,
                 "owner": "mbasso",
                 "repo": "awesome-wasm",
                 "stars": 9648,
@@ -1621,8 +1621,8 @@
                 "id": 150713223,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-23T10:31:03Z",
-                "open_issues": 1330,
+                "last_commit": "2026-10-16T09:49:05Z",
+                "open_issues": 1328,
                 "owner": "kubeedge",
                 "repo": "kubeedge",
                 "stars": 7604,
@@ -1658,7 +1658,7 @@
                 "open_issues": 1,
                 "owner": "AzeemIdrisi",
                 "repo": "PhoneSploit-Pro",
-                "stars": 6371,
+                "stars": 6375,
                 "topics": [
                   "adb",
                   "android",
@@ -1700,7 +1700,7 @@
                 "open_issues": 638,
                 "owner": "wasm-micro-runtime",
                 "repo": "wasm-micro-runtime",
-                "stars": 6147,
+                "stars": 6151,
                 "topics": [
                   "aot",
                   "assembly-script",
@@ -1817,11 +1817,11 @@
                 "id": 1115684492,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T00:17:21Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-16T18:31:47Z",
+                "open_issues": 48,
                 "owner": "xybrid-ai",
                 "repo": "xybrid",
-                "stars": 478,
+                "stars": 483,
                 "topics": [
                   "ai-games",
                   "edge-ai",
@@ -1862,7 +1862,7 @@
                 "open_issues": 3,
                 "owner": "mulgadc",
                 "repo": "spinifex",
-                "stars": 377,
+                "stars": 384,
                 "topics": [
                   "aws",
                   "aws-compatible",
@@ -1900,8 +1900,8 @@
                 "id": 392349560,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T02:04:14Z",
-                "open_issues": 24,
+                "last_commit": "2026-10-16T13:42:45Z",
+                "open_issues": 22,
                 "owner": "aregtech",
                 "repo": "areg-sdk",
                 "stars": 369,
@@ -1963,8 +1963,8 @@
                 "id": 1135473716,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-16T04:11:00Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-17T03:33:59Z",
+                "open_issues": 15,
                 "owner": "kubestellar",
                 "repo": "console",
                 "stars": 144,
@@ -2184,7 +2184,7 @@
                 "open_issues": 40,
                 "owner": "noxrepo",
                 "repo": "pox",
-                "stars": 648,
+                "stars": 647,
                 "topics": []
               },
               "first_seen": "2026-08-28T11:41:31.606Z"
@@ -2264,7 +2264,7 @@
             "open_issues": 130,
             "owner": "alibaba",
             "repo": "clusterdata",
-            "stars": 2228,
+            "stars": 2229,
             "topics": [
               "dataset"
             ]
@@ -2287,7 +2287,7 @@
             "open_issues": 205,
             "owner": "mlcommons",
             "repo": "inference",
-            "stars": 1646,
+            "stars": 1647,
             "topics": [
               "benchmark",
               "machine-learning"
@@ -2406,11 +2406,11 @@
             "id": 65600975,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T04:47:16Z",
-            "open_issues": 17667,
+            "last_commit": "2026-10-17T04:43:05Z",
+            "open_issues": 17652,
             "owner": "pytorch",
             "repo": "pytorch",
-            "stars": 104720,
+            "stars": 104809,
             "topics": [
               "autograd",
               "deep-learning",
@@ -2437,10 +2437,10 @@
             "language": "C++",
             "license": "NOASSERTION",
             "last_commit": "2026-10-14T23:24:59Z",
-            "open_issues": 1256,
+            "open_issues": 1259,
             "owner": "Tencent",
             "repo": "ncnn",
-            "stars": 23960,
+            "stars": 23966,
             "topics": [
               "android",
               "arm-neon",
@@ -2479,10 +2479,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-10-06T23:36:40Z",
-            "open_issues": 354,
+            "open_issues": 359,
             "owner": "mlc-ai",
             "repo": "mlc-llm",
-            "stars": 23250,
+            "stars": 23248,
             "topics": [
               "language-model",
               "llm",
@@ -2504,11 +2504,11 @@
             "id": 156939672,
             "language": "C++",
             "license": "MIT",
-            "last_commit": "2026-10-16T04:51:43Z",
-            "open_issues": 1798,
+            "last_commit": "2026-10-17T01:53:13Z",
+            "open_issues": 1794,
             "owner": "microsoft",
             "repo": "onnxruntime",
-            "stars": 22089,
+            "stars": 22103,
             "topics": [
               "ai-framework",
               "deep-learning",
@@ -2535,11 +2535,11 @@
             "id": 181436799,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T13:28:00Z",
-            "open_issues": 40,
+            "last_commit": "2026-10-16T07:11:57Z",
+            "open_issues": 46,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16227,
+            "stars": 16230,
             "topics": [
               "arm",
               "convolution",
@@ -2572,7 +2572,7 @@
             "open_issues": 48,
             "owner": "PaddlePaddle",
             "repo": "Paddle-Lite",
-            "stars": 7288,
+            "stars": 7289,
             "topics": [
               "arm",
               "baidu",
@@ -2631,7 +2631,7 @@
             "open_issues": 13,
             "owner": "Michael-A-Kuykendall",
             "repo": "shimmy",
-            "stars": 5979,
+            "stars": 5981,
             "topics": [
               "api-server",
               "command-line-tool",
@@ -2731,7 +2731,7 @@
             "open_issues": 319,
             "owner": "Tencent",
             "repo": "TNN",
-            "stars": 4657,
+            "stars": 4659,
             "topics": [
               "coreml",
               "deep-learning",
@@ -2802,10 +2802,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2025-09-07T17:25:20Z",
-            "open_issues": 340,
+            "open_issues": 341,
             "owner": "VainF",
             "repo": "Torch-Pruning",
-            "stars": 3361,
+            "stars": 3362,
             "topics": [
               "efficient-deep-learning",
               "llm",
@@ -2865,11 +2865,11 @@
             "id": 257688216,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T23:31:08Z",
-            "open_issues": 29,
+            "last_commit": "2026-10-17T04:04:44Z",
+            "open_issues": 31,
             "owner": "qualcomm",
             "repo": "aimet",
-            "stars": 2727,
+            "stars": 2728,
             "topics": [
               "auto-ml",
               "compression",
@@ -2943,7 +2943,7 @@
             "open_issues": 60,
             "owner": "mit-han-lab",
             "repo": "once-for-all",
-            "stars": 1954,
+            "stars": 1955,
             "topics": [
               "acceleration",
               "automl",
@@ -3003,7 +3003,7 @@
             "open_issues": 23,
             "owner": "nndeploy",
             "repo": "nndeploy",
-            "stars": 1883,
+            "stars": 1885,
             "topics": [
               "ai",
               "ascend",
@@ -3097,7 +3097,7 @@
             "open_issues": 30,
             "owner": "Adlik",
             "repo": "Adlik",
-            "stars": 805,
+            "stars": 806,
             "topics": [
               "compiler",
               "deep-learning",
@@ -3618,7 +3618,7 @@
             "id": 1268287641,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T00:04:20Z",
+            "last_commit": "2026-10-17T00:08:48Z",
             "open_issues": 0,
             "owner": "larionovavi-stack",
             "repo": "genesis2-cascade-moe",
@@ -3720,7 +3720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T04:51:41.900Z",
+    "last_updated": "2026-10-17T04:53:04.153Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome edge computing, including Frameworks, Simulators, Tools, etc.",
