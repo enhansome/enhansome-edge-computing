@@ -25,7 +25,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
 * [SVL Simulator](https://github.com/lgsvl/simulator) ⭐ 2,462 | 🐛 628 | 🌐 C# | 📅 2023-04-04: An end-to-end autonomous
   vehicle simulation platform.
 
-* [Shadow](https://github.com/shadow/shadow) ⭐ 1,744 | 🐛 220 | 🌐 Rust | 📅 2026-11-13: Shadow is a discrete-event network
+* [Shadow](https://github.com/shadow/shadow) ⭐ 1,744 | 🐛 217 | 🌐 Rust | 📅 2026-11-13: Shadow is a discrete-event network
   simulator that directly executes real application code, enabling you to
   simulate distributed systems with thousands of network-connected processes in
   realistic and scalable private network experiments using your laptop, desktop,
@@ -60,7 +60,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
 * [Mininet-WiFi](https://github.com/intrig-unicamp/mininet-wifi) ⭐ 543 | 🐛 12 | 🌐 Python | 📅 2026-10-21: Emulator for
   Software-Defined Wireless Networks.
 
-* [CloudSim Plus](https://github.com/cloudsimplus/cloudsimplus) ⭐ 494 | 🐛 20 | 🌐 Java | 📅 2026-11-13: A modern,
+* [CloudSim Plus](https://github.com/cloudsimplus/cloudsimplus) ⭐ 494 | 🐛 22 | 🌐 Java | 📅 2026-11-13: A modern,
   up-to-date, full-featured and fully documented Java 17 simulation framework.
   It's easy to use and extend, enabling modeling, simulation, and
   experimentation of Cloud computing infrastructures and application services.
@@ -94,7 +94,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   helps to study resource management methods based on machine learning or deep
   learning.
 
-* [Simu5G](https://github.com/Unipisa/Simu5G) ⭐ 237 | 🐛 13 | 🌐 C++ | 📅 2026-11-10: Simu5G is the evolution of the
+* [Simu5G](https://github.com/Unipisa/Simu5G) ⭐ 237 | 🐛 13 | 🌐 C++ | 📅 2026-11-13: Simu5G is the evolution of the
   popular [SimuLTE 4G network simulator](https://simulte.com/) that incorporates
   5G New Radio access.
 
@@ -591,14 +591,14 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
 
 ## Edge AI Hardware Products
 
-* [ClawBox](https://dedicated-ai-hardware.com) - Pre-configured edge AI assistant box powered by NVIDIA Jetson Orin Nano (67 TOPS, 15W). Runs [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 394,419 | 🐛 8,095 | 🌐 TypeScript | 📅 2026-11-13 for always-on, privacy-first AI with multi-platform messaging support.
+* [ClawBox](https://dedicated-ai-hardware.com) - Pre-configured edge AI assistant box powered by NVIDIA Jetson Orin Nano (67 TOPS, 15W). Runs [OpenClaw](https://github.com/openclaw/openclaw) ⭐ 394,413 | 🐛 8,182 | 🌐 TypeScript | 📅 2026-11-14 for always-on, privacy-first AI with multi-platform messaging support.
 
 ## Engine
 
 * [WebAssembly: Curated list of awesome things regarding WebAssembly (wasm)
   ecosystem.](https://github.com/mbasso/awesome-wasm) ⭐ 9,678 | 🐛 145 | 📅 2026-10-09
 
-* [KubeEdge](https://github.com/kubeedge/kubeedge) ⭐ 7,631 | 🐛 1,389 | 🌐 Go | 📅 2026-11-13:KubeEdge is an open source
+* [KubeEdge](https://github.com/kubeedge/kubeedge) ⭐ 7,632 | 🐛 1,390 | 🌐 Go | 📅 2026-11-13:KubeEdge is an open source
   system extending native containerized application orchestration and device
   management to hosts at the Edge. It is built upon Kubernetes and provides core
   infrastructure support for networking, application deployment and metadata
@@ -606,12 +606,12 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   developers to author custom logic and enable resource constrained device
   communication at the Edge. KubeEdge consists of a cloud part and an edge part.
 
-* [PhoneSploit Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 6,453 | 🐛 1 | 🌐 Python | 📅 2026-10-19: An
+* [PhoneSploit Pro](https://github.com/AzeemIdrisi/PhoneSploit-Pro) ⭐ 6,454 | 🐛 1 | 🌐 Python | 📅 2026-10-19: An
   all-in-one hacking tool to remotely exploit Android devices using ADB and
   Metasploit-Framework to get a Meterpreter session.
 
 * [WebAssembly Micro
-  Runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,207 | 🐛 661 | 🌐 C | 📅 2026-11-11: WebAssembly
+  Runtime](https://github.com/bytecodealliance/wasm-micro-runtime) ⭐ 6,210 | 🐛 661 | 🌐 C | 📅 2026-11-11: WebAssembly
   Micro Runtime (WAMR) is a standalone WebAssembly (WASM) runtime with a small
   footprint. It includes a few parts as below: 1, The "iwasm" VM core,
   supporting WebAssembly interpreter, ahead of time compilation (AoT) and
@@ -619,7 +619,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   supporting API's for the WASM applications. 3, The dynamic management of the
   WASM applications
 
-* [OpenYurt](https://github.com/openyurtio/openyurt) ⭐ 2,009 | 🐛 101 | 🌐 Go | 📅 2026-11-11: OpenYurt has been designed
+* [OpenYurt](https://github.com/openyurtio/openyurt) ⭐ 2,009 | 🐛 104 | 🌐 Go | 📅 2026-11-14: OpenYurt has been designed
   to meet various DevOps requirements against typical edge infrastructures. It
   provides the same user experience for managing the edge applications as if
   they were running in the cloud infrastructure. It addresses specific
@@ -643,16 +643,16 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   Kubernetes cluster. A native Kubernetes cluster can be easily converted to a
   SuperEdge cluster.
 
-* [Xybrid](https://github.com/xybrid-ai/xybrid) ⭐ 523 | 🐛 59 | 🌐 Rust | 📅 2026-11-13: An open-source, local-first
+* [Xybrid](https://github.com/xybrid-ai/xybrid) ⭐ 524 | 🐛 58 | 🌐 Rust | 📅 2026-11-14: An open-source, local-first
   runtime for running LLMs, ASR, and TTS natively in apps and games.
 
-* [Spinifex](https://github.com/mulgadc/spinifex) ⭐ 419 | 🐛 7 | 🌐 Go | 📅 2026-11-13: An open-source,
+* [Spinifex](https://github.com/mulgadc/spinifex) ⭐ 420 | 🐛 7 | 🌐 Go | 📅 2026-11-13: An open-source,
   AWS-compatible cloud for bare-metal, edge and on-premises deployments. It
   runs EC2, EBS, S3, VPC and IAM on KVM with no external control plane, keeps
   running through network disconnection, and works with the existing AWS CLI,
   SDKs and Terraform. [Docs](https://docs.mulgadc.com)
 
-* [AREG SDK](https://github.com/aregtech/areg-sdk) ⭐ 369 | 🐛 18 | 🌐 C++ | 📅 2026-11-13: **AREG SDK** is an
+* [AREG SDK](https://github.com/aregtech/areg-sdk) ⭐ 369 | 🐛 19 | 🌐 C++ | 📅 2026-11-14: **AREG SDK** is an
   interface-centric real-time asynchronous communication engine to enable
   distributed- and
   [mist-](https://csrc.nist.gov/publications/detail/sp/500-325/final)computing,
@@ -664,7 +664,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   KubeEdge, and provides a simple network solution for the inter-communications
   between services at edge scenarios.
 
-* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 152 | 🐛 27 | 🌐 TypeScript | 📅 2026-11-13: Open source AI-powered
+* [KubeStellar Console](https://github.com/kubestellar/console) ⭐ 152 | 🐛 35 | 🌐 TypeScript | 📅 2026-11-14: Open source AI-powered
   multi-cluster Kubernetes dashboard for hybrid edge and cloud environments. Provides
   real-time observability across edge and cloud clusters with 20+ CNCF integrations
   (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco, OPA/Gatekeeper), AI-guided
@@ -684,7 +684,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   gateways), with GPIO/UART/MQTT as first-class nodes and local SLMs alongside
   cloud LLMs. Engine ships as a distroless container; visual builder included.
 
-* [AimDB](https://github.com/aimdb-dev/aimdb) ⭐ 103 | 🐛 15 | 🌐 Rust | 📅 2026-11-11: Data ingestion layer for
+* [AimDB](https://github.com/aimdb-dev/aimdb) ⭐ 103 | 🐛 16 | 🌐 Rust | 📅 2026-11-11: Data ingestion layer for
   distributed systems with typed contracts, safe schema evolution and one place
   to see and manage every node, from microcontroller to cloud. Runs on `no_std`
   microcontrollers (Embassy) and Tokio.
@@ -930,7 +930,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   a collection of production cluster traces for cloud scheduling, resource
   management, and data center systems research.
 
-* [MLPerf Inference Benchmark Suite](https://github.com/mlcommons/inference) ⭐ 1,659 | 🐛 205 | 🌐 Python | 📅 2026-11-06:
+* [MLPerf Inference Benchmark Suite](https://github.com/mlcommons/inference) ⭐ 1,659 | 🐛 204 | 🌐 Python | 📅 2026-11-06:
   MLPerf Inference is a benchmark suite for measuring how fast systems can run
   models in a variety of deployment scenarios.
 
@@ -1089,12 +1089,12 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
 
 # Edge-AI frameworks
 
-* [Caffe2](https://github.com/pytorch/pytorch/tree/master/caffe2) ⭐ 105,462 | 🐛 18,220 | 🌐 Python | 📅 2026-11-13:Caffe2 is a
+* [Caffe2](https://github.com/pytorch/pytorch/tree/master/caffe2) ⭐ 105,474 | 🐛 18,210 | 🌐 Python | 📅 2026-11-14:Caffe2 is a
   lightweight, modular, and scalable deep learning framework. Building on the
   original Caffe, Caffe2 is designed with expression, speed, and modularity in
   mind.
 
-* [ncnn](https://github.com/Tencent/ncnn) ⭐ 24,049 | 🐛 1,321 | 🌐 C++ | 📅 2026-11-11: ncnn is a high-performance neural
+* [ncnn](https://github.com/Tencent/ncnn) ⭐ 24,050 | 🐛 1,323 | 🌐 C++ | 📅 2026-11-13: ncnn is a high-performance neural
   network inference computing framework optimized for mobile platforms. ncnn is
   deeply considerate about deployment and uses on mobile phones from the
   beginning of design. ncnn does not have third party dependencies. it is
@@ -1105,7 +1105,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   ncnn is currently being used in many Tencent applications, such as QQ, Qzone,
   WeChat, Pitu and so on.
 
-* [MLC LLM](https://github.com/mlc-ai/mlc-llm) ⭐ 23,419 | 🐛 370 | 🌐 Python | 📅 2026-10-30: In recent years, there has been
+* [MLC LLM](https://github.com/mlc-ai/mlc-llm) ⭐ 23,417 | 🐛 371 | 🌐 Python | 📅 2026-11-13: In recent years, there has been
   remarkable progress in generative artificial intelligence (AI) and large
   language models (LLMs), which are becoming increasingly prevalent. Thanks to
   open-source initiatives, it is now possible to develop personal AI assistants
@@ -1116,7 +1116,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   ever-evolving model innovation, memory constraints, and the need for potential
   optimization techniques.
 
-* [ONNX Runtime](https://github.com/microsoft/onnxruntime) ⭐ 22,297 | 🐛 1,933 | 🌐 C++ | 📅 2026-11-13: ONNX Runtime is a
+* [ONNX Runtime](https://github.com/microsoft/onnxruntime) ⭐ 22,302 | 🐛 1,961 | 🌐 C++ | 📅 2026-11-14: ONNX Runtime is a
   cross-platform inference and training machine-learning accelerator. It can
   enable faster customer experiences and lower costs, supporting models from
   deep learning frameworks such as PyTorch and TensorFlow/Keras as well as
@@ -1125,7 +1125,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   operating systems, and provides optimal performance by leveraging hardware
   accelerators where applicable alongside graph optimizations and transforms.
 
-* [MNN](https://github.com/alibaba/MNN) ⭐ 16,511 | 🐛 80 | 🌐 C++ | 📅 2026-11-12: MNN is a highly efficient and
+* [MNN](https://github.com/alibaba/MNN) ⭐ 16,521 | 🐛 88 | 🌐 C++ | 📅 2026-11-13: MNN is a highly efficient and
   lightweight deep learning framework. It supports inference and training of
   deep learning models, and has industry leading performance for inference and
   training on-device. At present, MNN has been integrated in more than 20 apps
@@ -1134,6 +1134,10 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   capture, search recommendation, product searching by image, interactive
   marketing, equity distribution, security risk control. In addition, MNN is
   also used on embedded devices, such as IoT.
+
+* [FRACTAL](https://github.com/Fractal-Compute-Orchestrations/FractalWorkspace) ⭐ 9,213 | 🐛 0 | 🌐 Python | 📅 2026-11-13: A decentralized
+  framework for federated learning, distributed edge computing, and training models
+  directly on Android and edge devices.
 
 * [Paddle-Lite](https://github.com/PaddlePaddle/Paddle-Lite) ⭐ 7,289 | 🐛 49 | 🌐 C++ | 📅 2026-04-27: Paddle Lite is an
   updated version of Paddle-Mobile, an open-open source deep learning framework
@@ -1150,17 +1154,13 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   logistic regression, tree-based algorithms, deep learning and transfer
   learning.
 
-* [FRACTAL](https://github.com/AhmadHassan-BTed/FractalWorkspace) ⭐ 6,021 | 🐛 0 | 🌐 Python | 📅 2026-10-22: A decentralized
-  framework for federated learning, distributed edge computing, and training models
-  directly on Android and edge devices.
-
 * [Shimmy](https://github.com/Michael-A-Kuykendall/shimmy) ⭐ 6,013 | 🐛 9 | 🌐 Rust | 📅 2026-11-12: Self-hosted AI inference
   server with OpenAI API compatibility, designed for edge deployment. Supports
   multiple model formats (GGUF, Core ML, etc.) with built-in streaming and
   multimodal capabilities. Lightweight and fast for resource-constrained edge
   environments.
 
-* [MACE](https://github.com/XiaoMi/mace) ⭐ 5,055 | 🐛 62 | 🌐 C++ | 📅 2024-06-17: MACE (Mobile AI Compute Engine) is a
+* [MACE](https://github.com/XiaoMi/mace) ⭐ 5,054 | 🐛 62 | 🌐 C++ | 📅 2024-06-17: MACE (Mobile AI Compute Engine) is a
   deep learning inference framework optimized for mobile heterogeneous computing
   platforms. MACE provides tools and documents to help users to deploy deep
   learning models to mobile phones, tablets, personal computers and IoT devices.
@@ -1192,11 +1192,11 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   it possible to be transplanted and deployed onto CPU, GPU, NPU and other
   heterogeneous computing units rapidly, conveniently.
 
-* [Torch-Pruning (TP)](https://github.com/VainF/Torch-Pruning) ⭐ 3,371 | 🐛 344 | 🌐 Python | 📅 2025-09-07: TP enables
+* [Torch-Pruning (TP)](https://github.com/VainF/Torch-Pruning) ⭐ 3,373 | 🐛 333 | 🌐 Python | 📅 2026-11-13: TP enables
   structural pruning for a wide range of deep neural networks, including [Large
   Language Models
-  (LLMs)](https://github.com/VainF/Torch-Pruning/tree/master/examples/LLMs) ⭐ 3,371 | 🐛 344 | 🌐 Python | 📅 2025-09-07,
-  [Segment Anything Model (SAM)](https://github.com/czg1225/SlimSAM) ⭐ 362 | 🐛 14 | 🌐 Python | 📅 2025-09-27, [Diffusion
+  (LLMs)](https://github.com/VainF/Torch-Pruning/tree/master/examples/LLMs) ⭐ 3,373 | 🐛 333 | 🌐 Python | 📅 2026-11-13,
+  [Segment Anything Model (SAM)](https://github.com/czg1225/SlimSAM) ⭐ 363 | 🐛 14 | 🌐 Python | 📅 2025-09-27, [Diffusion
   Models](https://github.com/VainF/Diff-Pruning) ⭐ 226 | 🐛 12 | 🌐 Python | 📅 2024-07-08, [Vision
   Transformers](https://github.com/VainF/Isomorphic-Pruning) ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2024-07-23,
   [ConvNext](https://github.com/VainF/Isomorphic-Pruning) ⭐ 89 | 🐛 4 | 🌐 Python | 📅 2024-07-23,
@@ -1210,11 +1210,11 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   **[DepGraph](https://openaccess.thecvf.com/content/CVPR2023/html/Fang_DepGraph_Towards_Any_Structural_Pruning_CVPR_2023_paper.html)**
   to remove parameters physically.
 
-* [Compute Library](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,208 | 🐛 9 | 🌐 C++ | 📅 2026-11-09: The Compute
+* [Compute Library](https://github.com/ARM-software/ComputeLibrary) ⭐ 3,209 | 🐛 9 | 🌐 C++ | 📅 2026-11-09: The Compute
   Library is a collection of low-level machine learning functions optimized for
   Arm® Cortex®-A and Arm® Mali™ GPUs architectures.
 
-* [AI Model Efficiency Toolkit (AIMET)](https://github.com/quic/aimet) ⭐ 2,747 | 🐛 40 | 🌐 Python | 📅 2026-11-13:AIMET is
+* [AI Model Efficiency Toolkit (AIMET)](https://github.com/quic/aimet) ⭐ 2,748 | 🐛 41 | 🌐 Python | 📅 2026-11-14:AIMET is
   a library that provides advanced model quantization and compression techniques
   for trained neural network models. It provides features that have been proven
   to improve run-time performance of deep learning neural network models with
@@ -1303,7 +1303,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   kernels, i.e., the execution units of fused operators on a device, and conduct
   kernel-level prediction.
 
-* [ns3-ai](https://github.com/hust-diangroup/ns3-ai) ⭐ 358 | 🐛 62 | 🌐 C++ | 📅 2026-09-09:This module does not
+* [ns3-ai](https://github.com/hust-diangroup/ns3-ai) ⭐ 357 | 🐛 62 | 🌐 C++ | 📅 2026-09-09:This module does not
   provide any AI algorithms or rely on any frameworks   but instead is providing
   a Python module that enables AI interconnect, so the AI framework needs to be
   separately installed.   You only need to clone or download this work, then
@@ -1327,7 +1327,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   trained to mimic (reconstruct) network traffic patterns, and whose performance
   incrementally improves overtime.
 
-* [Ianvs](https://github.com/kubeedge/ianvs) ⭐ 204 | 🐛 556 | 🌐 Python | 📅 2026-11-12: Ianvs is a distributed synergy AI
+* [Ianvs](https://github.com/kubeedge/ianvs) ⭐ 204 | 🐛 558 | 🌐 Python | 📅 2026-11-13: Ianvs is a distributed synergy AI
   benchmarking project incubated in KubeEdge SIG AI. Ianvs aims to test the
   performance of distributed synergy AI solutions following recognized
   standards, in order to facilitate more efficient and effective development.
@@ -1410,7 +1410,7 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
   effects and boosting overall performance and efficiency. [Pocket: ML Serving
   from the Edge](https://dl.acm.org/doi/10.1145/3552326.3587459)
 
-* [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-13 - CPU-only neural network for edge deployment. Cascade MoE with 18ms inference, 3.5GB model, no GPU required. Ideal for edge AI applications.
+* [Genesis 2](https://github.com/larionovavi-stack/genesis2-cascade-moe) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-11-14 - CPU-only neural network for edge deployment. Cascade MoE with 18ms inference, 3.5GB model, no GPU required. Ideal for edge AI applications.
 
 * [Apache TVM](https://tvm.apache.org/): Apache TVM is an open source machine
   learning compiler framework for CPUs, GPUs, and machine learning accelerators.
@@ -1538,4 +1538,4 @@ Visit [here](https://qijianpeng.github.io/repositories/edge-computing/?lang=en) 
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
